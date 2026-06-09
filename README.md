@@ -179,6 +179,7 @@ Several source datasets contain typographical inconsistencies in variable names 
 Examples include variables such as:
 
 * `fisber_*` (rather than `fibser_*`)
+* `n32apr20` (rather than `Interim_Session_Feedback_XXX`)
 * other legacy naming conventions retained from the original study databases
 
 Where possible, analysis scripts account for these inconsistencies directly. Variable names were generally retained to preserve compatibility with the original analysis environment and to minimise the risk of introducing errors during retrospective data cleaning.
