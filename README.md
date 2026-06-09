@@ -166,6 +166,41 @@ The goal of this repository is to provide a clear and reproducible pathway from 
 
 ---
 
+## Repository Notes and Limitations
+
+### Data Cleaning
+
+All datasets included in this repository have been cleaned and anonymised for public release. Direct identifiers, metadata fields, and other information that could reasonably contribute to participant identification have been removed prior to publication.
+
+### Historical Variable Names
+
+Several source datasets contain typographical inconsistencies in variable names originating from the original data-collection instruments and survey platforms.
+
+Examples include variables such as:
+
+* `fisber_*` (rather than `fibser_*`)
+* other legacy naming conventions retained from the original study databases
+
+Where possible, analysis scripts account for these inconsistencies directly. Variable names were generally retained to preserve compatibility with the original analysis environment and to minimise the risk of introducing errors during retrospective data cleaning.
+
+### Calendar-Based Analyses
+
+A small number of workflows in the original project relied on internal calendar and scheduling records to calculate attendance, booking events, scheduling metrics, and operational study-management outcomes.
+
+These calendar files are not included in the public repository because they contain information that cannot be fully anonymised without compromising participant confidentiality.
+
+Consequently, analyses requiring the original calendar records cannot be reproduced directly from the public repository. All manuscript figures, supplementary figures, supplementary tables, and reported statistical analyses are reproducible without access to these files.
+
+These files were used for operational study management rather than primary outcome analyses.
+
+### Fonts
+
+Some figures were originally generated using Palatino Linotype. Because redistribution rights for this font may vary across systems and software installations, font files are not included in this repository.
+
+Figures should reproduce correctly using available system fonts, although minor differences in typography may occur across operating systems.
+
+---
+
 ## Citation
 
 If you use this repository, please cite the accompanying manuscript:
