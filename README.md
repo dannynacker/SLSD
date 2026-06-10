@@ -31,6 +31,44 @@ The analyses contained within this repository support the results reported in th
 
 ---
 
+## Repository Branches
+
+This repository is organised across separate branches for analysis code, anonymised public data, music stimulus materials, and exported figure files.
+
+| Branch     | Purpose                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `analyses` | Cleaned R scripts, supplementary workbook, and supporting notebooks used to generate manuscript figures, supplementary tables, narrative summaries, and audit outputs.                                                                                                                                                                                                                                                                       |
+| `data`     | De-identified and cleaned public study datasets required by the analysis scripts.                                                                                                                                                                                                                                                                                                                                                            |
+| `music`    | Audio stimulus materials used as musical accompaniment during the interim bridge and WP2 study sessions. This branch contains `mrc_interim.mp3` and `mrc_intervention.mp3`, created by Gavin Lawson. These files are included for stimulus transparency and should be treated as authored musical works rather than participant data or analysis code.                                                                                       |
+| `figures`  | Exported PNG versions of the six manuscript figures and the plots shown throughout the supplementary material narrative. These files are provided for visual inspection, review, and submission convenience; the reproducible source of truth remains the `analyses` branch together with the de-identified data in the `data` branch. Supplementary workbook tabs, source tables, audit CSVs, and intermediate outputs are not stored here. |
+
+---
+
+## Stimulus Materials and Hardware Context
+
+### Music and isochronic stimulation
+
+The `music` branch contains the audio files used as musical accompaniment during the MRC/SLSD study sessions:
+
+```text
+mrc_interim.mp3
+mrc_intervention.mp3
+```
+
+These tracks were created by **Gavin Lawson** and are included for transparency around the auditory context of the study. The music was used alongside programmed stroboscopic light stimulation rather than as a standalone intervention. In the study sequences, rhythmic/isochronic stimulation was implemented through the light stimulation parameters, with the music providing a structured affective and temporal context for the session.
+
+The audio files should be treated as authored musical stimulus materials, not participant data, analysis code, or derived numerical outputs. Reuse, redistribution, remixing, or adaptation outside the context of reviewing or reproducing this study may require permission from the relevant rights holder(s), unless an explicit licence is provided elsewhere in the repository.
+
+### RX1 stimulation device and sequence documentation
+
+The study sessions were delivered using a **Roxiva RX1** stroboscopic light stimulation device. This repository does **not** include RX1 device sequence files, device-control code, firmware, or instructions for programming or modifying the RX1. Instead, the repository provides study-facing descriptions and derived summaries of the stimulation sequences sufficient to document the intended experimental conditions.
+
+The shared sequence information should therefore be interpreted as **scientific stimulus documentation** rather than a complete hardware-control package. It describes the timing, condition structure, and relevant stimulation parameters used in the study, but it is not intended to reproduce device-specific implementation details or to certify physical equivalence across RX1 units or other stroboscopic devices.
+
+Exact delivered light output may depend on device firmware, hardware configuration, LED behaviour, brightness calibration, participant setup, and the device’s internal handling of stimulation instructions. For this reason, the repository supports transparency around the experimental stimulus design while avoiding redistribution of proprietary, device-specific, or non-public implementation materials.
+
+---
+
 ## Repository Contents
 
 The repository is organised around the final outputs reported in the manuscript and supplementary materials.
@@ -39,15 +77,15 @@ The repository is organised around the final outputs reported in the manuscript 
 
 | File                               | Purpose                                                                                                               |
 | ---------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| `manuscript_plots_cleaned.txt`             | Generates all figures reported in the main manuscript.                                                                |
-| `manuscript_narrative_results_cleaned.txt` | Generates manuscript-facing statistical summaries, model outputs, confidence intervals, and narrative reporting text. |
+| `manuscript_plots_cleaned.r`             | Generates all figures reported in the main manuscript.                                                                |
+| `manuscript_narrative_results_cleaned.r` | Generates manuscript-facing statistical summaries, model outputs, confidence intervals, and narrative reporting text. |
 
 ### Supplementary Material
 
 | File                       | Purpose                                                                                                                                      |
 | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| `SM_workbook_plots_cleaned.txt`    | Generates all supplementary figures, supplementary tables, workbook outputs, and source datasets used throughout the supplementary material. |
-| `SM_narrative_results_cleaned.txt` | Generates supplementary statistical summaries and narrative reporting text.                                                                  |
+| `SM_workbook_plots_cleaned.r`    | Generates all supplementary figures, supplementary tables, workbook outputs, and source datasets used throughout the supplementary material. |
+| `SM_narrative_results_cleaned.r` | Generates supplementary statistical summaries and narrative reporting text.                                                                  |
 
 ### Qualitative Analyses
 
@@ -89,8 +127,8 @@ No direct participant identifiers are included.
 Run:
 
 ```r
-source("manuscript_narrative_results_cleaned.txt")
-source("manuscript_plots_cleaned.txt")
+source("manuscript_narrative_results_cleaned.r")
+source("manuscript_plots_cleaned.r")
 ```
 
 This reproduces all statistical outputs and figures reported in the main manuscript.
@@ -100,23 +138,36 @@ This reproduces all statistical outputs and figures reported in the main manuscr
 Run:
 
 ```r
-source("SM_narrative_results_cleaned.txt")
-source("SM_workbook_plots_cleaned.txt")
+source("SM_narrative_results_cleaned.r")
+source("SM_workbook_plots_cleaned.r")
 ```
 
 This reproduces all supplementary figures, tables, workbook outputs, and supplementary narrative summaries.
+
+## Figure Exports
+
+The `figures` branch contains exported PNG figure files corresponding to the manuscript and supplementary material. This includes:
+
+* the six main manuscript figures;
+* the plots shown throughout the supplementary material narrative.
+
+These exported figures are included as convenience outputs for review, submission checking, and visual inspection. They are not the primary reproducibility layer. The scripts used to generate the figures are stored in the `analyses` branch, and the de-identified datasets used by those scripts are stored in the `data` branch.
+
+The `figures` branch intentionally does not contain supplementary workbook tabs, source tables, audit CSVs, or intermediate analysis outputs.
+
+---
 
 ### Important Dependency
 
 Figure 6 of the manuscript uses workbook outputs generated by:
 
 ```r
-source("SM_workbook_plots_cleaned.txt")
+source("SM_workbook_plots_cleaned.r")
 ```
 
-Accordingly, `SM_workbook_plots_cleaned.txt` should be run before generating Figure 6 using `manuscript_plots_cleaned.txt`.
+Accordingly, `SM_workbook_plots_cleaned.r` should be run before generating Figure 6 using `manuscript_plots_cleaned.r`.
 
-All other manuscript figures are generated directly by `manuscript_plots_cleaned.txt`.
+All other manuscript figures are generated directly by `manuscript_plots_cleaned.r`.
 
 ---
 
