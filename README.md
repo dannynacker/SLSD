@@ -75,7 +75,7 @@ The audio files should be treated as authored musical stimulus materials, not pa
 
 ### RX1 stimulation device and sequence documentation
 
-The study sessions were delivered using a **Roxiva RX1** stroboscopic light stimulation device. This repository does **not** include RX1 device sequence files, device-control code, firmware, or instructions for programming or modifying the RX1. Instead, the repository provides study-facing descriptions and derived summaries of the stimulation sequences sufficient to document the intended experimental conditions.
+The study sessions were delivered using a **Roxiva RX1** stroboscopic light stimulation device (https://roxiva.com/about/). This repository does **not** include RX1 device sequence files, device-control code, firmware, or instructions for programming or modifying the RX1. Instead, the repository provides study-facing descriptions and derived summaries of the stimulation sequences sufficient to document the intended experimental conditions.
 
 The shared sequence information should therefore be interpreted as **scientific stimulus documentation** rather than a complete hardware-control package. It describes the timing, condition structure, and relevant stimulation parameters used in the study, but it is not intended to reproduce device-specific implementation details or to certify physical equivalence across RX1 units or other stroboscopic devices.
 
