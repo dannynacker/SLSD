@@ -69,7 +69,7 @@ mrc_interim.mp3
 mrc_intervention.mp3
 ```
 
-These tracks were created by **Gavin Lawson** and are included for transparency around the auditory context of the study. The music was used alongside programmed stroboscopic light stimulation rather than as a standalone intervention. In the study sequences, rhythmic/isochronic stimulation was implemented through the light stimulation parameters, with the music providing a structured affective and temporal context for the session.
+These tracks were created by **Gavin Lawson** (https://audysseyave.com/about/) and are included for transparency around the auditory context of the study. The music was used alongside programmed stroboscopic light stimulation rather than as a standalone intervention. In the study sequences, rhythmic/isochronic stimulation was implemented through the light stimulation parameters, with the music providing a structured affective and temporal context for the session.
 
 The audio files should be treated as authored musical stimulus materials, not participant data, analysis code, or derived numerical outputs. Reuse, redistribution, remixing, or adaptation outside the context of reviewing or reproducing this study may require permission from the relevant rights holder(s), unless an explicit licence is provided elsewhere in the repository.
 
