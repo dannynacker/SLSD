@@ -7,6 +7,8 @@ Repository accompanying:
 
 _manuscript in preparation_
 
+_all music by Gavin Lawson_ (https://audysseyave.com/about/)
+
 ---
 
 ## Overview
