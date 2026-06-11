@@ -2,7 +2,7 @@
 
 Repository accompanying:
 
-**Nacker, D., Schwartzman, D. J., Seth, A. K., et al. (2026).**
+**Nacker, D., Seth, A. K., Schwartzman, D. J., et al. (2026).**
 **Stroboscopic Light Stimulation for Depression: Safety, Tolerability, and Feasibility in a Staged Early-Phase Study**
 
 _manuscript in preparation_
