@@ -261,7 +261,7 @@ Figures should reproduce correctly using available system fonts, although minor 
 
 If you use this repository, please cite the accompanying manuscript:
 
-> Nacker, D., Schwartzman, D. J., Seth, A. K., et al. (2026). *Stroboscopic Light Stimulation for Depression: Safety, Tolerability, and Feasibility in a Staged Early-Phase Study.*
+> Nacker, D., Seth, A. K., Schwartzman, D. J., et al. (2026). *Stroboscopic Light Stimulation for Depression: Safety, Tolerability, and Feasibility in a Staged Early-Phase Study.*
 
 ---
 
