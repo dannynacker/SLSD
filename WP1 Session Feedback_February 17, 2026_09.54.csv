@@ -1,0 +1,361 @@
+participant_id,session_n,tol_sum,tol_vdq_1,tol_vdq_2,tol_vdq_3,tol_vdq_4,tol_vdq_5,tol_vdq_6,tol_vdq_7,tol_vdq_8,tol_vdq_9,tol_vdq_10,tol_vdq_11,tol_vdq_12,tol_vdq_13,tol_vdq_14,tol_vdq_15,tol_vdq_16,tol_vdq_17,tol_vdq_18,tol_vdq_19,tol_vdq_20,tol_vdq_21,tol_vdq_22,tol_vdq_22_TEXT,tol_follow_1,tol_follow_2,tol_follow_3,tol_follow_4,tol_follow_5,tol_follow_6,tol_follow_7,tol_follow_8,tol_follow_9,tol_follow_10,tol_follow_11,tol_follow_12,tol_follow_13,tol_follow_14,tol_follow_15,tol_follow_16,tol_follow_17,tol_follow_18,tol_follow_19,tol_follow_20,tol_follow_21,tol_follow_22,tol_follow_22_TEXT,exp4_engagement_1,exp4_pleasure_1,exp4_discomfort_1,exp4_arousal_1,tol_time,tol_notes,discomfortScore
+Please input the participant's ID,Which session number did you just administer?,Did you experience any uncomfortable side effects during the last strobe session?,Please indicate the extent to which you had each of the following experiences: - Nausea,Please indicate the extent to which you had each of the following experiences: - Vertigo,Please indicate the extent to which you had each of the following experiences: - Queasy feeling,Please indicate the extent to which you had each of the following experiences: - Stabbing sensation in eyes,Please indicate the extent to which you had each of the following experiences: - Spinning head,Please indicate the extent to which you had each of the following experiences: - Double vision,Please indicate the extent to which you had each of the following experiences: - Dizziness,Please indicate the extent to which you had each of the following experiences: - Irritated eyes,Please indicate the extent to which you had each of the following experiences: - Urge to rub eyes,Please indicate the extent to which you had each of the following experiences: - Dry eyes,Please indicate the extent to which you had each of the following experiences: - Itching on eyes,Please indicate the extent to which you had each of the following experiences: - Burning sensation on eyes,Please indicate the extent to which you had each of the following experiences: - Urge to blink a lot,Please indicate the extent to which you had each of the following experiences: - Sore eyes,Please indicate the extent to which you had each of the following experiences: - Gritty sensation on eyes,Please indicate the extent to which you had each of the following experiences: - Feeling of pressure in the head,Please indicate the extent to which you had each of the following experiences: - Dull pain in the head,Please indicate the extent to which you had each of the following experiences: - Heavy sensation in head,Please indicate the extent to which you had each of the following experiences: - Full sensation in the head,Please indicate the extent to which you had each of the following experiences: - Feeling of pressure behind eyes,Please indicate the extent to which you had each of the following experiences: - Headache,"Please indicate the extent to which you had each of the following experiences: - Other symptom, please label","Please indicate the extent to which you had each of the following experiences: - Other symptom, please label - Text","How much discomfort did the symptoms to have experienced caused you, select a number from the discomfort scale? - Nausea","How much discomfort did the symptoms to have experienced caused you, select a number from the discomfort scale? - Vertigo","How much discomfort did the symptoms to have experienced caused you, select a number from the discomfort scale? - Queasy feeling","How much discomfort did the symptoms to have experienced caused you, select a number from the discomfort scale? - Stabbing sensation in eyes","How much discomfort did the symptoms to have experienced caused you, select a number from the discomfort scale? - Spinning head","How much discomfort did the symptoms to have experienced caused you, select a number from the discomfort scale? - Double vision","How much discomfort did the symptoms to have experienced caused you, select a number from the discomfort scale? - Dizziness","How much discomfort did the symptoms to have experienced caused you, select a number from the discomfort scale? - Irritated eyes","How much discomfort did the symptoms to have experienced caused you, select a number from the discomfort scale? - Urge to rub eyes","How much discomfort did the symptoms to have experienced caused you, select a number from the discomfort scale? - Dry eyes","How much discomfort did the symptoms to have experienced caused you, select a number from the discomfort scale? - Itching on eyes","How much discomfort did the symptoms to have experienced caused you, select a number from the discomfort scale? - Burning sensation on eyes","How much discomfort did the symptoms to have experienced caused you, select a number from the discomfort scale? - Urge to blink a lot","How much discomfort did the symptoms to have experienced caused you, select a number from the discomfort scale? - Sore eyes","How much discomfort did the symptoms to have experienced caused you, select a number from the discomfort scale? - Gritty sensation on eyes","How much discomfort did the symptoms to have experienced caused you, select a number from the discomfort scale? - Feeling of pressure in the head","How much discomfort did the symptoms to have experienced caused you, select a number from the discomfort scale? - Dull pain in the head","How much discomfort did the symptoms to have experienced caused you, select a number from the discomfort scale? - Heavy sensation in head","How much discomfort did the symptoms to have experienced caused you, select a number from the discomfort scale? - Full sensation in the head","How much discomfort did the symptoms to have experienced caused you, select a number from the discomfort scale? - Feeling of pressure behind eyes","How much discomfort did the symptoms to have experienced caused you, select a number from the discomfort scale? - Headache","How much discomfort did the symptoms to have experienced caused you, select a number from the discomfort scale? - Other symptom, please label","How much discomfort did the symptoms to have experienced caused you, select a number from the discomfort scale? - Other symptom, please label - Text","On the horizontal line, mark how engaging this strobe session was: - Not engaging at all 
+ Difficult to focus on","On the horizontal line, mark how pleasurable this strobe session was: - Did not enjoy the session at all","On the horizontal line, mark how uncomfortable this strobe session was: - Did not feel any discomfort
+
+during the session","On the horizontal line, mark how sleepy this strobe session made you feel: - I felt like I was wide awake","Which one of the sections within the last strobe sessions caused you to experience  discomfort. This can be indicated by the time between tones (section 1 the beginning of the session until the first bell tone, section 2 after the first bell tone etc.). Tick all that apply:
+
+In some of the sessions you will have been shown frequency changes (at the first, second and 3rd tone), if you experienced discomfort during those changes, please select the 'Tone 1', 'Tone 2' or 'Tone 3' as appropriate.",Can you tell us anything else about when and how you experienced uncomfortable symptoms during the last session?,discomfortScore
+555,1,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,71,65,9,29,,,0
+555,2,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,55,60,19,40,,,0
+555,3,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,81,71,10,36,,,0
+555,4,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,82,76,9,30,,,0
+555,5,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,60,54,10,45,,,0
+555,6,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,41,61,6,41,,,0
+555,7,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,72,60,9,62,,,0
+555,8,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,62,55,4,13,,,0
+555,9,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,71,61,6,67,,,0
+555,10,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,63,55,5,66,,,0
+555,11,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,56,55,10,55,,,0
+476,1,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,64,62,29,20,,,0
+476,2,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,39,61,40,21,,,0
+476,3,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,73,75,34,8,,,0
+476,4,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,77,65,29,21,,,0
+476,5,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,85,46,47,10,,,0
+476,6,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,75,60,30,41,,,0
+476,7,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,83,67,21,32,,,0
+476,8,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,40,61,20,19,,,0
+476,9,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,44,64,28,26,,,0
+476,10,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,66,61,26,28,,,0
+476,11,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,62,64,21,41,,,0
+708,1,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30,26,3,18,,,0
+708,2,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,45,18,35,24,,,0
+708,3,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,64,25,20,9,,,0
+708,4,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,59,37,27,15,,,0
+708,5,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,25,37,17,,,0
+708,6,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,61,34,29,13,,,0
+708,7,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,77,24,21,14,,,0
+708,8,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,27,29,37,23,,,0
+708,9,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,25,46,24,19,,,0
+708,10,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,56,62,16,31,,,0
+708,11,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,62,59,25,39,,,0
+323,1,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,90,55,45,49,,,0
+323,2,Yes,Not at all,Not at all,Not at all,Not at all,A little,Not at all,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Moderately,A little,Not at all,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all,,,,,,1,,,2,,,,,2,1,,,1,,,,,,,94,52,50,41,Section 2,at the first frequency it took my eyes a while to get used to the flashing and was a little bit uncomfortable,0
+323,3,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,90,58,23,39,,,0
+323,4,Yes,Not at all,Not at all,Not at all,Not at all,Moderately,Not at all,Moderately,Moderately,Not at all,Not at all,Not at all,Not at all,Moderately,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,,,,,,2,,3,3,,,,,4,,,,,,,,,,,90,42,25,30,"Section 2,Section 3","after the third frequency change, my eyes were very flickery and there were a lot of different coloured images in my head which made it a little uncomfortable",0
+323,5,Yes,Not at all,Not at all,Not at all,Moderately,Not at all,Not at all,A little,Moderately,Not at all,Not at all,Not at all,Not at all,Moderately,Moderately,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,,,,,2,,,2,3,,,,,4,4,,,,,,,,,,72,35,59,58,"Section 2,Section 3,Tone 2,Tone 3",my eyes got quite sore behind them and it was hard to hold them closed,0
+323,6,Yes,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Moderately,Not at all,Not at all,Not at all,Not at all,Moderately,A little,Not at all,Not at all,Not at all,A little,Not at all,Not at all,Not at all,Not at all,,,,,,,,,3,,,,,4,3,,,,2,,,,,,78,55,56,57,"Section 2,Section 3,Tone 2",i could see a lot of different colours and images at once which made it a bit overwealming when trying to concentrate.,0
+323,7,Yes,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Moderately,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,,,,,,,,,,,,,,4,,,,,,,,,,,88,67,26,54,"Section 1,Tone 1","the slower flashing makes me feel like i have to blink a lot but it wasnt really uncomfortable, just a weird sensation",0
+323,8,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,86,67,10,27,,,0
+323,9,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,86,80,9,31,,,0
+323,10,Yes,Not at all,Not at all,A little,Not at all,A little,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,,,,1,,2,,2,,,,,,,,,,,,,,,,,83,69,27,26,"Section 1,Tone 1,Tone 3",the slower flashing caused some images in my head that were spinning and with the addition of the slower flashing it made me a little bit dizzy and nausous,0
+323,11,Yes,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,,,,,,,,3,,,,,,,,,,,,,,,,,88,79,12,75,,in the third section there was a point where lines were flickering up and down which made be a bit dizzy however it went away when the frequency changed to the next one. ,0
+911,1,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,81,40,53,67,,,0
+911,2,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,71,46,41,28,,,0
+911,3,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,66,45,23,39,,,0
+911,4,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,67,52,10,61,,,0
+911,5,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30,53,1,38,,,0
+911,6,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,42,68,0,63,,,0
+911,7,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,71,67,14,40,,,0
+911,8,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,73,69,0,43,,,0
+911,9,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,80,87,0,31,,,0
+911,10,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,83,96,0,62,,,0
+911,11,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,71,65,0,51,,,0
+848,1,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,51,,0,,,,0
+848,2,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,0
+848,3,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,60,61,0,54,,,0
+848,4,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,45,,0,,,,0
+848,5,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,52,,,0
+848,6,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,52,0,,,,0
+848,7,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,0
+848,8,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,60,56,0,44,,,0
+848,9,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,51,53,0,47,,,0
+848,10,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,,,0
+848,11,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,47,0,55,,,0
+639,1,Yes,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,,,,,,,,,,,,,,,,,,,,,,,,,72,62,23,32,,,0
+639,2,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,83,51,40,10,,,0
+639,3,Yes,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,,,,,,,,,,,,,,4,,,,,,,,,,,83,58,,20,Tone 3,,0
+639,4,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,96,93,9,29,,,0
+639,5,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,34,60,11,56,,,0
+639,6,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,60,77,7,58,,,0
+639,7,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,90,90,6,14,,,0
+639,8,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,89,78,2,66,,,0
+639,9,Yes,Not at all,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Moderately,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,,,,5,,,,,,,,,,7,,,,,,,,,,,68,42,69,16,"Section 3,Section 4,Tone 2",,7
+639,10,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,91,42,22,2,,,0
+639,11,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,74,89,13,9,,,0
+814,1,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,96,,10,0,,,0
+814,2,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100,82,21,0,,,0
+814,3,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,61,100,0,83,,,0
+814,4,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,82,72,0,62,,,0
+814,5,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,29,82,0,72,,,0
+814,6,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,73,63,21,84,,,0
+814,7,Yes,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all,Moderately,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,A little,Not at all,,,,,,,,2,,,,,,5,,,,,,,,2,,,83,72,42,20,Section 3,it made head sting for a sec ,0
+814,8,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,93,94,0,84,,,0
+814,9,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100,92,0,63,,,0
+814,10,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,72,100,0,82,,,0
+814,11,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100,100,0,91,,,0
+894,1,Yes,Not at all,A little,Not at all,A little,Moderately,Not at all,Moderately,A little,Not at all,Not at all,Not at all,Not at all,Extremely,Not at all,Not at all,Moderately,A lot,Moderately,Moderately,Not at all,Not at all,Not at all,Light headed / sleepy sensation,,3,,,5,,5,,,,,,8,,,6,,7,7,,,,,81,29,30,71,Section 4,"During the more frequent strobing, it is harder for me to focus on any one 'object/shape' which I found distressing",7
+925,1,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,82,53,41,36,,,0
+925,2,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,79,44,44,56,,,0
+925,3,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,73,65,42,56,,,0
+925,4,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,71,77,27,58,,,0
+925,5,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,68,62,30,71,,,0
+925,6,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,65,63,37,71,,,0
+925,7,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,85,64,28,59,,,0
+925,8,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,87,82,20,46,,,0
+925,9,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,85,83,21,43,,,0
+925,10,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,86,85,7,39,,,0
+925,11,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,87,96,2,45,,,0
+767,1,Yes,Not at all,Not at all,Not at all,A little,A lot,Not at all,Moderately,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,,,,,,2,,3,,,,,,,,,,,,,,,,,66,33,23,13,"Section 2,Section 4",,0
+767,2,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,58,64,3,8,,,0
+767,3,Yes,A little,Not at all,A little,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Moderately,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,,1,,1,,1,,,,,,,,,3,,,,,,,,,,74,21,45,9,"Section 1,Section 2",,0
+767,4,Yes,Not at all,Not at all,Not at all,A little,Not at all,Not at all,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Moderately,Moderately,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,,,,,2,,,,1,,,,,3,4,,,,,,,,,,60,32,52,5,"Section 3,Section 4",,0
+767,5,Yes,A little,Not at all,A little,A little,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Moderately,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,,1,,1,1,,,,,,,,,3,,,,,,,,,,,29,54,21,29,"Section 1,Section 2",,0
+767,6,Yes,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,A little,Not at all,Not at all,Not at all,A little,Not at all,Not at all,A little,Not at all,,,,,,,,,,,,,,,2,,,,3,,,1,,,69,62,37,10,"Section 1,Section 3",,0
+767,7,Yes,A little,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,A little,Not at all,Not at all,,2,,2,,,,,,,,,3,,,,,,,,2,,,,63,13,36,6,"Section 2,Section 3",,0
+767,8,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,56,39,2,8,,,0
+767,9,Yes,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Moderately,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,,,,,,,,,,,,,,,4,,,,,,,,,,68,66,28,15,"Section 2,Section 3",,0
+767,10,Yes,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Moderately,A little,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,,,,,,,,,,,,,,6,2,,,,,,,,,,81,71,25,14,"Section 3,Section 4",The symptoms happened when the lights were flashing the most. ,0
+767,11,Yes,A little,Not at all,A little,Not at all,Not at all,Not at all,Not at all,A little,Not at all,Not at all,A little,Not at all,Not at all,Moderately,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,,1,,1,,,,,2,,,1,,,4,,,,,,,,,,55,43,34,2,,"Mostly during the first half of the session, when the lights were brighter and flashing more consistently.",0
+412,1,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,94,100,0,45,,,0
+412,2,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,90,97,0,37,,,0
+412,3,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,87,84,0,35,,,0
+412,4,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,89,100,0,45,,,0
+412,5,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,73,100,0,55,,,0
+412,6,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,94,100,0,58,,,0
+412,7,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,98,100,0,58,,,0
+412,8,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,95,100,0,58,,,0
+412,9,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,89,100,0,57,,,0
+412,10,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100,100,0,58,,,0
+412,11,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,93,100,0,58,,,0
+848,1,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,66,0,19,,,0
+848,2,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,71,69,0,19,,,0
+848,3,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,81,77,0,21,,,0
+848,4,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,79,76,2,16,,,0
+848,5,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,54,0,37,,,0
+848,6,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,69,64,0,27,,,0
+848,7,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,79,72,0,16,,,0
+848,8,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,81,73,0,20,,,0
+848,9,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,89,87,0,16,,,0
+848,10,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,82,76,0,16,,,0
+848,11,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,97,91,0,11,,,0
+876,1,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,91,61,24,0,,,0
+876,2,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100,84,11,20,,,0
+876,3,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,98,98,2,18,,,0
+876,4,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100,67,12,4,,,0
+876,5,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100,56,11,0,,,0
+876,6,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,83,88,3,10,,,0
+876,7,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,69,100,4,38,,,0
+876,8,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,92,88,21,3,,,0
+876,9,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,84,96,8,28,,,0
+876,10,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,83,88,10,40,,,0
+876,11,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,95,99,2,32,,,0
+157,1,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,71,61,37,23,,,0
+157,2,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,78,76,39,13,,,0
+157,3,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,47,53,44,46,,,0
+157,4,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,53,55,17,56,,,0
+157,5,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,62,43,41,62,,,0
+157,6,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,71,46,54,18,,,0
+157,7,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,65,60,47,13,,,0
+157,8,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,60,56,50,13,,,0
+157,9,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,61,77,70,30,,,0
+157,10,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,59,73,32,43,,,0
+157,11,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,82,35,35,,,0
+768,1,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,72,61,58,28,,,0
+768,2,Yes,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,A little,Not at all,Moderately,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,A lot,eye twitching,,,,,,,,,2,,1,,,,,,,,,,,6,eye twitching,37,64,54,61,Section 4,there was a circle spinning very fast which made my eyes twitch,0
+768,3,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,64,15,31,,,0
+768,4,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,72,61,17,21,,,0
+768,5,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,25,61,31,80,,,0
+768,6,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,21,65,73,,,0
+768,7,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,28,69,15,80,,,0
+768,8,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,24,72,2,86,,,0
+768,9,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30,94,3,88,,,0
+768,10,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,27,69,2,70,,,0
+768,11,Yes,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Moderately,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,,,,,,,,,,,,,,4,,,,,,,,,,,64,24,59,22,,too many things happening at once,0
+782,12,Yes,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,,,,,,,,,,,,,,3,,,,,,,,,,,80,56,55,1,Section 4,,0
+782,2,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,68,54,54,38,,,0
+782,3,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,55,56,52,39,,,0
+782,4,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,69,71,41,47,,,0
+782,5,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,71,59,52,52,,,0
+782,6,Yes,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,A little,Not at all,Not at all,Not at all,A little,twitchy,,,,,,,,,,,,,,,,,,1,,,,2,twitchy,62,50,52,58,Section 3,,0
+782,7,Yes,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,A little,Not at all,Not at all,Not at all,Not at all,,,,,,,,,,,,,,,,,,,2,,,,,,59,57,52,62,"Section 3,Section 4",,0
+782,8,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,68,67,42,62,,,0
+782,9,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,57,71,33,68,,,0
+782,10,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,66,69,23,74,,,0
+782,11,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,61,82,3,63,,,0
+346,1,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,83,72,20,63,,,0
+346,2,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,66,68,25,62,,,0
+346,3,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,65,65,26,62,,,0
+346,4,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,63,68,17,66,,,0
+346,5,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,67,64,,58,,,0
+346,6,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,61,59,24,57,,,0
+346,7,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,81,76,15,40,,,0
+346,8,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,63,62,23,57,,,0
+346,9,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,58,59,27,53,,,0
+346,10,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,64,63,25,58,,,0
+346,11,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,57,56,27,84,,,0
+420,1,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,82,59,22,9,,,0
+420,2,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,80,55,30,8,,,0
+420,3,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,71,57,28,19,,,0
+420,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,76,56,58,11,,,0
+420,5,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,67,56,23,45,,,0
+420,6,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,59,58,21,37,,,0
+420,7,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,55,65,22,28,,,0
+420,8,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,80,73,25,16,,,0
+420,9,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,69,64,18,11,,,0
+420,10,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,68,58,24,13,,,0
+420,11,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,65,63,14,8,,,0
+552,1,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,82,62,36,10,,,0
+552,2,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,78,69,18,38,,,0
+552,3,Yes,Not at all,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all,A little,Not at all,Not at all,Not at all,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all,A little,Not at all,Not at all,,,,3,,,,,,2,,,,,3,,,,,,3,,,,73,40,55,0,"Section 1,Tone 1","Before the first bell, I could feel pain behind my eyes and I had the urge to squint my eyes so I could experience less of the light. As the section changed from 1 to 2 I felt a bit queasy and still had some pain in my eyes but after section 2 I did not experience any more uncomfortable side effects.",3
+552,4,Yes,Not at all,Not at all,A little,Not at all,Moderately,Not at all,Not at all,A little,A little,Not at all,Not at all,Not at all,Not at all,A little,Not at all,Not at all,Not at all,A little,Not at all,Moderately,A little,Not at all,,,,3,,2,,,3,5,,,,,4,,,,3,,4,3,,,82,21,70,0,"Section 1,Section 2,Section 3,Section 4",I experienced behind behind my eyes and queasiness throughout the session. I started to get a headache during section 4 along with the feeling of pressure in my head. ,5
+552,5,Yes,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,A little,Not at all,Not at all,A little,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all,A little,A little,Not at all,,,,,,,,,,2,,,4,,2,,,,,,3,3,,,64,47,57,49,"Section 1,Section 2",I experienced the symptoms during the first two sections and then after the third and fourth section I felt a lot more comfortable and most of the symptoms were gone. I still experienced a bit of a headache.,4
+552,6,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,81,62,9,58,,,0
+552,7,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,83,77,0,63,,,0
+552,8,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,75,73,0,68,,,0
+552,9,Yes,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,A little,A little,Not at all,,,,,,,,,,,,,,,,,,,,,4,3,,,70,64,45,57,"Section 1,Section 2","During the first two sections, I felt moderate pressure behind my eyes and a slight headache. This made me feel a bit anxious and uncomfortable but after the second session I could not feel the pressure anymore and I started to feel more relaxed and sleepy. ",4
+552,10,Yes,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,A little,Not at all,,,,,,,,,,,,,,,,,,,,,,3,,,62,56,37,38,"Section 1,Section 2,Section 3,Section 4","I had a headache throughout all of the sections. However, I could still enjoy the session as it was only mild. Most of the session was enjoyable.",3
+552,11,Yes,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,A little,Not at all,A little,Not at all,Moderately,Not at all,Not at all,Not at all,Not at all,A little,Not at all,,,,,,,,,,,,,3,,4,,4,,,,,3,,,93,56,41,25,,"In the beginning of the session, I could feel pressure behind my eyes and after a while that slowly went away. I had a headache throughout the session and I felt that along with pressure in my head. I could also feel my left eye twitching halfway through as if it wanted to close more. These symptoms made me feel more awake and alert.",4
+719,1,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,68,62,5,59,,,0
+719,2,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,78,61,3,68,,,0
+719,3,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,78,87,2,77,,,0
+719,4,Yes,Not at all,Moderately,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Moderately,Not at all,Not at all,Not at all,Not at all,Not at all,,,5,,,,,,,,,,,,,,,7,,,,,,,62,49,56,76,Section 3,"in the second section, head started feeling heavy with slight pulsating. Vertigo effect was also stronger.",7
+719,5,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,69,64,21,71,,,0
+719,6,Yes,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,,,,,,,,,,,,,,4,,,,,,,,,,,68,45,62,80,Section 4,last section of light strobes were a bit more intense following the previous 3 sections so was a little disorientating for my eyes ,4
+719,7,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,86,69,14,70,,,0
+719,8,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,42,67,10,80,,,0
+719,9,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,35,61,13,73,,,0
+719,10,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23,68,16,82,,,0
+719,11,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,31,61,4,75,,,0
+808,1,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100,73,13,0,,,0
+808,2,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,78,56,0,20,,,0
+808,3,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,77,66,4,1,,,0
+808,4,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,90,88,0,0,,,0
+808,5,Yes,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,,,,,,,,,,,,,,,,,,,,,,,,,100,100,0,0,"Section 3,Tone 3","Rather than uncomfortable, I felt a sense of unease. I did not like the colours (red), shapes (cheetah patterns) or movement (only one section was moving from side to side versus the rest of the 'picture.' These symptoms usually happened when the flashes were really fast and I had 'warmed' up (usually happened after the third tone)",0
+808,6,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,56,45,0,0,,,0
+808,7,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100,100,0,0,,,0
+808,8,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,98,41,0,0,,,0
+808,9,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,88,34,0,32,,,0
+808,10,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100,99,0,0,,,0
+808,11,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100,86,0,3,,,0
+288,1,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,43,42,13,26,,,0
+288,2,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,35,39,37,33,,,0
+288,3,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,41,28,38,,,0
+288,4,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,45,41,47,33,,,0
+399,5,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30,43,16,54,,,0
+288,6,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,33,42,52,,,0
+288,7,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,43,62,21,60,,,0
+228,8,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,67,62,22,62,,,0
+288,9,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,69,66,25,58,,,0
+288,10,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,62,75,12,47,,,0
+288,11,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,65,79,8,61,,,0
+1000,1,Yes,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,A little,eyelids jumping,,,,,,,,,,,,,,,,,,,,,,3,eyelids jumping,61,40,36,62,"Section 1,Section 4","Seemed maybe slower, worse",3
+1000,2,Yes,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,A little,eyelids jumping,,,,,,,,,,,,,,,,,,,,,,2,eyelids jumping,40,62,25,71,Section 4,,2
+1000,3,Yes,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all,A little,eyelids jumping,,,,,,,,,,,,,,,,3,,,,,,2,eyelids jumping,29,14,67,24,"Section 1,Section 2,Section 3","headache in 1/2, eyelids jumping in 2/3, 4 fine",3
+1000,4,Yes,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,A little,jumping eyelids,,,,,,,,,,,,,,,,,,,,,,2,jumping eyelids,39,39,51,43,"Section 3,Section 4",,2
+1000,5,Yes,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,A little,jumping eyelids,,,,,,,,,,,,,,,,,,,,,,2,eyelids jumping,29,22,67,30,"Section 1,Section 2",,2
+1000,6,Yes,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,A little,jumping eyelids,,,,,,,,,,,,,,,,,,,,,,1,eyelids jumping,34,57,17,77,"Section 1,Section 2",,1
+1000,7,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,69,68,9,65,,,0
+1000,8,Yes,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,A little,A little,eyelids jumping,,,,,,,,,,,,,,,,,,,,,2,2,eyelids jumping,67,72,20,80,"Section 4,Tone 3",,2
+1000,9,Yes,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,A little,A little,eyelids jumping,,,,,,,,,,,,,,,,,,,,,3,2,eyelids jumping,69,62,32,72,"Section 3,Section 4,Tone 2,Tone 3","tone 2 onwards eyelids jumping, tone 3 onwards headache",3
+1000,10,Yes,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,A little,eyelids jumping,,,,,,,,,,,,,,,,,,,,,,2,eyelids jumping,40,40,21,59,"Section 1,Section 2,Section 4",,2
+1000,11,Yes,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,A little,A little,eyelids jumping,,,,,,,,,,,,,,,,,,,,,2,1,eyelids jumping,40,49,30,62,,no,2
+237,1,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,81,72,26,58,,,0
+237,2,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,73,73,21,74,,,0
+237,3,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,78,77,21,83,,,0
+237,4,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,73,85,14,83,,,0
+237,5,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,61,76,12,87,,,0
+237,6,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,66,85,4,90,,,0
+237,7,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,69,85,7,88,,,0
+237,8,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,86,91,0,91,,,0
+237,9,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,83,86,0,94,,,0
+237,10,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,67,95,0,95,,,0
+237,11,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,58,97,0,94,,,0
+165,1,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,64,68,0,57,,,0
+165,2,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,66,44,52,20,,,0
+165,3,Yes,Not at all,Not at all,A little,Not at all,A little,Not at all,Moderately,Not at all,Not at all,Not at all,Not at all,Not at all,A little,Not at all,Not at all,Moderately,Not at all,Moderately,Not at all,A little,Not at all,Moderately,anxious,,,3,,1,,,,,,,,2,,,3,,3,,1,,3,anxious,78,7,75,0,"Section 1,Section 2,Section 3,Section 4","first tone made me the most anxious, with tone two maintaining this and tone three bringing it down slightly but tone four alleviated this the most ",3
+165,4,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,86,76,9,31,,,0
+165,5,Yes,A little,Not at all,Moderately,A little,A little,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,A lot,Not at all,Moderately,Moderately,Not at all,A little,Not at all,,2,,3,2,3,,2,,,,,,,,,4,,3,3,,1,,,78,0,65,35,"Section 1,Section 2,Section 3,Section 4,Tone 2",tense/pressure in my head sort of intensified ,4
+165,6,Yes,Moderately,Not at all,A little,Not at all,Moderately,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,A little,Not at all,Not at all,Not at all,A little,Not at all,Not at all,,3,,2,,1,,,,,,,,,,,1,,,,2,,,,60,30,65,56,"Section 2,Section 4,Tone 2",section one made me slightly uncomfortable but it wasn't until section four that I felt queasy ,3
+165,7,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,66,61,13,34,,,0
+165,8,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,88,75,5,63,,,0
+165,9,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,90,64,0,59,,,0
+165,10,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,98,78,0,13,,,0
+165,11,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,63,74,0,85,,,0
+930,1,Yes,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,A little,A little,Not at all,Not at all,Not at all,A little,Not at all,,,,,,,,,,,,,,,,,3,3,,,,3,,,74,67,55,23,"Section 2,Section 3",My mouth felt a bit dry ,3
+930,2,Yes,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,A little,A little,Not at all,A little,Not at all,A little,Not at all,,,,,,,,,,,,,,,,,4,4,,4,,4,,,77,78,44,14,Section 3,,4
+930,3,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,81,83,22,16,,,0
+930,4,Yes,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,A little,A little,Moderately,Moderately,Not at all,A little,Not at all,,,,,,,,,,,,,,,,,2,3,4,4,,2,,,65,37,65,10,"Section 2,Section 3",,4
+930,5,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,85,81,14,62,,,0
+930,6,Yes,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Moderately,Moderately,Not at all,Not at all,Not at all,,,,,,,,,,,,,,,,,,,5,5,,,,,74,66,30,23,"Section 2,Section 4",,5
+930,7,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,74,72,12,79,,,0
+930,8,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,88,89,1,80,,,0
+930,9,Yes,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all,,,,,,,,,,,,,,,,,,2,,,,,,,77,71,24,54,Section 3,Headache in the back area,2
+930,10,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,73,78,6,33,,,0
+930,11,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,76,77,3,80,,,0
+940,1,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,32,59,60,15,,,0
+940,2,Yes,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,A little,light felt intensely bright,,,,,,,,,,,,,,,,,,,,,,2,,48,59,51,0,,,2
+940,3,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,60,69,28,0,,,0
+940,4,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,82,85,9,0,,,0
+940,5,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,64,69,55,61,,,0
+940,6,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,70,62,36,10,,,0
+940,7,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,75,81,8,2,,,0
+940,8,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,83,80,56,7,,,0
+940,9,Yes,Not at all,Not at all,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,A little,light felt intensely bright,,,,1,,,,,,,,,,,,,,,,,,1,bright  light intensity,82,56,53,4,,,1
+940,10,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,95,97,10,2,,,0
+940,11,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,83,99,2,4,,,0
+709,1,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,72,60,24,32,,,0
+709,2,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,71,70,17,36,,,0
+709,3,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,81,81,7,28,,,0
+709,4,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,82,78,12,33,,,0
+709,5,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,64,62,12,40,,,0
+709,6,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,59,56,7,49,,,0
+709,7,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,63,58,7,44,,,0
+709,8,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,67,65,10,49,,,0
+709,9,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,62,56,7,55,,,0
+709,10,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,58,56,6,60,,,0
+709,11,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,62,56,3,59,,,0
+643,1,Yes,Not at all,Not at all,Not at all,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,A little,Not at all,A little,Not at all,Not at all,Moderately,Not at all,Not at all,,,,,,3,,,,,,,,,,2,,3,,,2,,,,62,34,63,63,Section 1,the large black and red geometry that i could 'see' brought slight negative emotions,3
+643,2,Yes,Not at all,Not at all,Not at all,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,A little,Not at all,A little,Not at all,Moderately,Not at all,Not at all,,,,,,1,,,,,,,,,,,3,,2,,4,,,,62,43,66,71,"Section 2,Tone 2,Tone 3",My eyes felt more pressure after it had stopped,4
+643,3,Yes,Not at all,Not at all,Not at all,A little,Not at all,Not at all,A little,Not at all,Moderately,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,A little,Not at all,A little,Not at all,Not at all,,,,,3,,,1,,4,,,,,,,,,2,,2,,,,70,44,59,58,"Section 1,Tone 1",The first session the gaps were slower turning on and off which made it more blaring,4
+643,4,Yes,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,A little,Not at all,Not at all,Not at all,A little,Not at all,Not at all,,,,,,,,,,,,,,,,,2,,,,2,,,,33,58,41,43,,"Still pressure behind my eyes, but this session didnt feel as 'intense'",2
+643,5,Yes,Not at all,Not at all,Not at all,A little,Not at all,Not at all,A little,Moderately,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,A little,Not at all,Not at all,Not at all,A little,Not at all,Not at all,,,,,4,,,1,4,,,,,,,,3,,,,3,,,,82,18,67,20,"Section 1,Section 2,Section 3,Tone 1,Tone 2","I saw less shapes and patterns than usual, this was just blaring red and black",4
+643,6,Yes,Not at all,Not at all,Not at all,Not at all,A little,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,A little,Not at all,A little,Not at all,Not at all,,,,,,2,,1,,,,,,,,,,,4,,4,,,,64,31,68,67,"Section 1,Section 2",The red and black in my eyes is quite uncomfortable but then in section 4 the colour changed to white and blue which was more pleasant,4
+643,7,Yes,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,A little,Not at all,Not at all,Not at all,A little,Not at all,Not at all,,,,,,,,,,,,,,,,,2,,,,2,,,,68,65,22,67,"Section 4,Tone 3","section 4 was really 'thick', its nicer when the patterns are small with small lines",2
+643,8,Yes,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,A little,Not at all,A little,Not at all,Not at all,,,,,,,,,,,,,,,,,,,3,,2,,,,72,68,35,67,,"I saw more pleasant colours than usual, with pink blue and yellow together which is pretty. The flashing light might be contributing to a slight headache though (i have a small cold)",3
+643,9,Yes,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,A little,Not at all,A little,Not at all,Not at all,,,,,,,,,,,,,,,,,,,2,,2,,,,60,61,31,67,"Section 4,Tone 3",Section 4 was a lot more blaring with bigger time gaps between light and no light,2
+643,10,Yes,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,A little,Not at all,Not at all,Not at all,A little,Not at all,Not at all,,,,,,,,,,,,,,,,,2,,,,2,,,,76,62,39,36,"Section 4,Tone 3","Section 3 was really cool especially at the beginning, and then section 4 was too much, it was overwhelming",2
+643,11,Yes,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,A little,Not at all,Not at all,Not at all,A little,Not at all,Not at all,,,,,,,,,,,,,,,,,4,,,,2,,,,33,57,38,73,,,4
+997,1,Yes,A little,Not at all,Moderately,Not at all,Not at all,Not at all,Moderately,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,,3,,5,,,,5,,,,,,,,,,,,,,,,,41,29,34,62,Section 1,If I 'looked' directly at the light it was worse than if my eyes were pointed more upwards,5
+997,2,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,49,35,24,65,,,0
+997,3,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,83,72,20,19,,,0
+997,4,Yes,Not at all,Not at all,Not at all,Not at all,A little,Not at all,A lot,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,,,,,,2,,6,,,,,,,,,,,,,,,,,83,81,31,11,Section 3,Section 2 felt kind of like when you are really drunk and the room is spinning,6
+997,5,Yes,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,A little,A little,anxiety,,,,,,,,,,,,,,,,,,,,,3,3,anxiety,74,21,30,52,"Section 1,Section 2,Tone 1",The switch between the slow flash in session 1 and the slightly faster flash in session 2 reminded me a lot of the way my heart rate accelerates when I have panic attacks,3
+997,6,Yes,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,A little,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,,,,,,,,3,,,,,,,,,,,,,,,,,30,31,21,62,Section 3,,3
+997,7,Yes,A little,A little,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,,2,3,,,,,,,,,,,,,,,,,,,,,,83,74,31,18,Section 2,some of them made me feel a bit claustrophobic,3
+997,8,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,29,30,20,65,,,0
+997,9,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,62,63,15,83,,,0
+997,10,Yes,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,A little,Not at all,,,,,,,,,,,,,,,,,,,,,,2,,,64,42,32,52,Section 2,,2
+997,11,Yes,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,A little,Not at all,,,,,,,,,,,,,,,,,,,,,,2,,,20,42,20,75,,,2
+769,1,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100,94,0,0,,,0
+769,2,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,63,0,56,,,0
+769,3,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,71,83,0,56,,,0
+769,4,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,85,82,0,42,,,0
+769,5,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,89,74,54,32,,,0
+769,6,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,83,76,0,32,,,0
+769,7,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,100,91,0,29,,,0
+769,8,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,71,68,0,28,,,0
+769,9,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,88,80,0,45,,,0
+769,10,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,90,87,0,29,,,0
+769,11,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,87,91,0,34,,,0
+268,1,Yes,A lot,A little,A lot,Not at all,Not at all,Not at all,A little,Not at all,A little,Not at all,Not at all,Not at all,A lot,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,,6,3,5,,,,4,,2,,,,6,,,,,,,,,,,71,46,56,0,"Section 3,Section 4","Physically fine just felt a nauseous feeling similar to motion sickness
+ ",6
+268,2,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,26,40,56,6,,,0
+268,3,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,73,71,13,14,,,0
+268,4,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,82,85,3,52,,,0
+268,5,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,9,0,16,,,0
+268,6,Yes,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,A lot,Not at all,Not at all,Not at all,Not at all,Not at all,A lot,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,,,,,,,,,4,,,,,,6,,,,,,,,,,21,41,63,62,"Section 1,Section 4",Eyes felt strained in a similar way to when you look directly at the sun,6
+268,7,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,91,88,10,15,,,0
+268,8,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,92,90,24,64,,,0
+268,9,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23,60,2,57,,,0
+268,10,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11,57,5,65,,,0
+268,11,Yes,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Moderately,Not at all,,,,,,,,,,,,,,,,,,,,,,3,,,10,54,58,55,,Moderate headache towards the end of the session.,3

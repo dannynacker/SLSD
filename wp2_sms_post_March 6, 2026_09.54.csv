@@ -1,0 +1,155 @@
+fisber_1,fisber_2,fisber_3,fisber_4,phq9_1,phq9_2,phq9_3,phq9_4,phq9_5,phq9_6,phq9_7,phq9_8,phq9_9,m3vas_ch_mood_1,m3vas_ch_pleasure_1,m3vas_ch_suicidal_1,spane_1,spane_2,spane_3,spane_4,spane_5,spane_6,spane_7,spane_8,spane_9,spane_10,spane_11,spane_12,part_id,phq9_sum,spane_n,spane_p
+"IN THE PAST WEEK, how much of the time did you experience side effects caused by the strobe sessions?","IN THE PAST WEEK, how severe were the side effects to the strobe sessions?","IN THE PAST WEEK, how much have the side effects to the strobe sessions interfered with your day-to-day activities?",Please tell us a bit more about these side effects you may have experienced.,"Over the past week, how often have you been bothered by any of the following problems?
+
+Read each item carefully and then select the one response that best reflects your experience. - Little interest or pleasure in doing things.","Over the past week, how often have you been bothered by any of the following problems?
+
+Read each item carefully and then select the one response that best reflects your experience. - Feeling down, depressed, or hopeless.","Over the past week, how often have you been bothered by any of the following problems?
+
+Read each item carefully and then select the one response that best reflects your experience. - Trouble falling or staying asleep, or sleeping to much.","Over the past week, how often have you been bothered by any of the following problems?
+
+Read each item carefully and then select the one response that best reflects your experience. - Feeling tired or having little energy.","Over the past week, how often have you been bothered by any of the following problems?
+
+Read each item carefully and then select the one response that best reflects your experience. - Poor appetite or overeating.","Over the past week, how often have you been bothered by any of the following problems?
+
+Read each item carefully and then select the one response that best reflects your experience. - Feeling bad about yourself, or that you are a failure or have let yourself or your family down.","Over the past week, how often have you been bothered by any of the following problems?
+
+Read each item carefully and then select the one response that best reflects your experience. - Trouble concentrating on things such as reading the newspaper or watching television.","Over the past week, how often have you been bothered by any of the following problems?
+
+Read each item carefully and then select the one response that best reflects your experience. - Moving or speaking so slowly that other people could have noticed. Or the opposite - being so fidgety or restless that you have been moving around a lot more than usual.","Over the past week, how often have you been bothered by any of the following problems?
+
+Read each item carefully and then select the one response that best reflects your experience. - Thoughts that you would be better off dead, or of hurting yourself.",Place a mark on the line to indicate any changes in your mood. - Very much worse (-50),"Place a mark on the line to indicate any changes in your ability to enjoy life activities (e.g. work, family and friends, hobbies, television, books or magazines, meals etc.). - Much less able to enjoy
+
+any activities (-50)",Place a mark on the line to indicate any changes in how severely/frequently you have experienced thoughts or feelings about suicide. - Much more suicidal (0),"Please think about what you have been doing and experiencing during the past week. 
+
+Then report how much you experienced each of the following feelings, using the scale below. For each item, select a number from 1 to 5, and indicate that number on your response sheet. - Positive","Please think about what you have been doing and experiencing during the past week. 
+
+Then report how much you experienced each of the following feelings, using the scale below. For each item, select a number from 1 to 5, and indicate that number on your response sheet. - Negative","Please think about what you have been doing and experiencing during the past week. 
+
+Then report how much you experienced each of the following feelings, using the scale below. For each item, select a number from 1 to 5, and indicate that number on your response sheet. - Good","Please think about what you have been doing and experiencing during the past week. 
+
+Then report how much you experienced each of the following feelings, using the scale below. For each item, select a number from 1 to 5, and indicate that number on your response sheet. - Bad","Please think about what you have been doing and experiencing during the past week. 
+
+Then report how much you experienced each of the following feelings, using the scale below. For each item, select a number from 1 to 5, and indicate that number on your response sheet. - Pleasant","Please think about what you have been doing and experiencing during the past week. 
+
+Then report how much you experienced each of the following feelings, using the scale below. For each item, select a number from 1 to 5, and indicate that number on your response sheet. - Unpleasant","Please think about what you have been doing and experiencing during the past week. 
+
+Then report how much you experienced each of the following feelings, using the scale below. For each item, select a number from 1 to 5, and indicate that number on your response sheet. - Happy","Please think about what you have been doing and experiencing during the past week. 
+
+Then report how much you experienced each of the following feelings, using the scale below. For each item, select a number from 1 to 5, and indicate that number on your response sheet. - Sad","Please think about what you have been doing and experiencing during the past week. 
+
+Then report how much you experienced each of the following feelings, using the scale below. For each item, select a number from 1 to 5, and indicate that number on your response sheet. - Afraid","Please think about what you have been doing and experiencing during the past week. 
+
+Then report how much you experienced each of the following feelings, using the scale below. For each item, select a number from 1 to 5, and indicate that number on your response sheet. - Joyful","Please think about what you have been doing and experiencing during the past week. 
+
+Then report how much you experienced each of the following feelings, using the scale below. For each item, select a number from 1 to 5, and indicate that number on your response sheet. - Angry","Please think about what you have been doing and experiencing during the past week. 
+
+Then report how much you experienced each of the following feelings, using the scale below. For each item, select a number from 1 to 5, and indicate that number on your response sheet. - Contented",part_id,phq9_sum,spane_n,spane_p
+"None of the time (no side effects)
+0",None (no side effects)0,No interference with activities0,nooo,Several days,Not at all,Several days,Several days,More than half the days,Not at all,Several days,Not at all,Not at all,11,4,16,Sometimes3,Rarely2,Sometimes3,Rarely2,Sometimes3,Rarely2,Sometimes3,Rarely2,Very rarely or never1,Rarely2,Very rarely or never1,Rarely2,11251,6,13,8
+"None of the time (no side effects)
+0",None (no side effects)0,No interference with activities0,,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Several days,Not at all,Not at all,35,21,50,Often4,Rarely2,Sometimes3,Very rarely or never1,Sometimes3,Very rarely or never1,Often4,Very rarely or never1,Very rarely or never1,Sometimes3,Very rarely or never1,Sometimes3,11278,1,12,8
+"None of the time (no side effects)
+0",None (no side effects)0,No interference with activities0,,More than half the days,Several days,More than half the days,More than half the days,Several days,Several days,More than half the days,Not at all,Not at all,11,11,0,Sometimes3,Often4,Sometimes3,Sometimes3,Sometimes3,Sometimes3,Rarely2,Sometimes3,Rarely2,Rarely2,Sometimes3,Rarely2,11115,11,15,11
+"None of the time (no side effects)
+0",None (no side effects)0,No interference with activities0,"None, i even stopped falling asleep in the last 2 sessions ",Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,50,48,50,Often4,Sometimes3,Sometimes3,Rarely2,Sometimes3,Rarely2,Sometimes3,Rarely2,Rarely2,Sometimes3,Very rarely or never1,Rarely2,11335,0,14,10
+25% of the time2,Mild severity2,No interference with activities0,"I wouldn't say as a negative side effect,  more when resting with my eyes closed when going to sleep I see similar patterns ",Not at all,Several days,Several days,Several days,Several days,More than half the days,Several days,Several days,Not at all,17,11,-20,Sometimes3,Sometimes3,Rarely2,Often4,Rarely2,Sometimes3,Rarely2,Often4,Rarely2,Rarely2,Sometimes3,Rarely2,11325,8,14,11
+"None of the time (no side effects)
+0",None (no side effects)0,No interference with activities0,,Several days,Several days,Not at all,Several days,Not at all,Several days,Several days,Not at all,Not at all,,4,0,Sometimes3,Sometimes3,Sometimes3,Sometimes3,Sometimes3,Sometimes3,Sometimes3,Sometimes3,Very rarely or never1,Sometimes3,Very rarely or never1,Very rarely or never1,11387,5,15,10
+"None of the time (no side effects)
+0",None (no side effects)0,No interference with activities0,None,Not at all,Not at all,Not at all,Not at all,Not at all,Several days,Several days,Not at all,Not at all,27,18,50,Often4,Sometimes3,Often4,Sometimes3,Sometimes3,Rarely2,Often4,Rarely2,Rarely2,Sometimes3,Rarely2,Very often or always5,11220,2,15,12
+"None of the time (no side effects)
+0",None (no side effects)0,No interference with activities0,,Nearly every day,Nearly every day,More than half the days,More than half the days,Nearly every day,Several days,Several days,Several days,More than half the days,-42,-12,-30,Very rarely or never1,Often4,Rarely2,Often4,Rarely2,Sometimes3,Rarely2,Very often or always5,Rarely2,Very rarely or never1,Rarely2,Rarely2,11178,18,13,12
+"None of the time (no side effects)
+0",None (no side effects)0,No interference with activities0,No effects,Several days,Not at all,More than half the days,Several days,More than half the days,Not at all,More than half the days,Not at all,Not at all,19,15,-2,Often4,Rarely2,Sometimes3,Very rarely or never1,Often4,Rarely2,Sometimes3,Often4,Very rarely or never1,Very rarely or never1,Rarely2,Sometimes3,11240,8,,
+"None of the time (no side effects)
+0",None (no side effects)0,No interference with activities0,,Not at all,Several days,More than half the days,Several days,Not at all,Not at all,Several days,Several days,Not at all,21,13,26,Often4,Sometimes3,Sometimes3,Sometimes3,Often4,Sometimes3,Sometimes3,Sometimes3,Often4,Sometimes3,Very rarely or never1,Often4,11264,6,17,13
+"None of the time (no side effects)
+0",None (no side effects)0,No interference with activities0,,Not at all,Several days,Several days,Several days,Several days,Not at all,Not at all,Not at all,Not at all,23,19,50,Sometimes3,Rarely2,Sometimes3,Rarely2,Rarely2,Rarely2,Rarely2,Rarely2,Rarely2,Rarely2,Rarely2,Sometimes3,11238,4,,
+"None of the time (no side effects)
+0",None (no side effects)0,No interference with activities0,,More than half the days,Several days,Several days,Several days,Not at all,More than half the days,More than half the days,Not at all,Not at all,2,4,50,Sometimes3,Rarely2,Sometimes3,Very rarely or never1,Sometimes3,Very rarely or never1,Very rarely or never1,Rarely2,Very rarely or never1,Sometimes3,Rarely2,Often4,11313,9,12,5
+"None of the time (no side effects)
+0",None (no side effects)0,No interference with activities0,"N/A
+#
+",Several days,Several days,Not at all,Nearly every day,Not at all,Several days,Several days,Not at all,Several days,-10,-9,7,Sometimes3,Sometimes3,Often4,Often4,Sometimes3,Rarely2,Rarely2,Often4,Often4,Very rarely or never1,Rarely2,Rarely2,11139,8,16,13
+"None of the time (no side effects)
+0",None (no side effects)0,No interference with activities0,,Not at all,Not at all,More than half the days,Several days,Several days,Several days,Not at all,Not at all,Not at all,42,32,50,Often4,Rarely2,Often4,Rarely2,Often4,Sometimes3,Often4,Sometimes3,Very rarely or never1,Sometimes3,Rarely2,Often4,11145,5,18,9
+"None of the time (no side effects)
+0",None (no side effects)0,No interference with activities0,,Several days,Not at all,Several days,Not at all,Several days,Not at all,Several days,Not at all,Not at all,28,27,50,Sometimes3,Rarely2,Often4,Rarely2,Sometimes3,Rarely2,Sometimes3,Rarely2,Sometimes3,Sometimes3,Very rarely or never1,Sometimes3,11288,4,14,10
+"None of the time (no side effects)
+0",None (no side effects)0,No interference with activities0,No side effects,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Several days,-29,-36,-8,Very rarely or never1,Very often or always5,Very rarely or never1,Very often or always5,Very rarely or never1,Very often or always5,Very rarely or never1,Very often or always5,Very rarely or never1,Very often or always5,Very rarely or never1,Very often or always5,11233,25,,
+10% of the time1,Minimal severity1,No interference with activities0,"I meditated and saw similar patterns to what i saw in the sessions, that had never happened before",Not at all,Not at all,Nearly every day,More than half the days,Not at all,Not at all,Not at all,Not at all,Not at all,27,21,45,Often4,Sometimes3,Often4,Sometimes3,Often4,Rarely2,Often4,Sometimes3,Rarely2,Sometimes3,Rarely2,Very often or always5,11166,5,17,12
+"None of the time (no side effects)
+0",None (no side effects)0,No interference with activities0,,Not at all,Not at all,Several days,Several days,Not at all,Not at all,Not at all,Not at all,Not at all,19,33,0,Often4,Rarely2,Often4,Very rarely or never1,Often4,Rarely2,Often4,Very rarely or never1,Very rarely or never1,Often4,Rarely2,Often4,11390,2,15,8
+"None of the time (no side effects)
+0",None (no side effects)0,No interference with activities0,.,Several days,Several days,Several days,Several days,Several days,More than half the days,More than half the days,Several days,Not at all,7,7,0,Sometimes3,Sometimes3,Sometimes3,Sometimes3,Often4,Sometimes3,Sometimes3,Rarely2,Often4,Sometimes3,Often4,Rarely2,11400,10,15,13
+"None of the time (no side effects)
+0",None (no side effects)0,No interference with activities0,i dont think i had side effects,Nearly every day,Nearly every day,More than half the days,Nearly every day,Several days,Several days,More than half the days,More than half the days,Several days,10,0,20,Rarely2,Sometimes3,Very rarely or never1,Very rarely or never1,Very rarely or never1,Sometimes3,Rarely2,Often4,Rarely2,Very rarely or never1,Rarely2,Very rarely or never1,11123,18,11,8
+"None of the time (no side effects)
+0",None (no side effects)0,No interference with activities0,,Several days,Several days,Several days,Several days,Several days,Several days,Several days,Not at all,Not at all,3,3,18,Sometimes3,Sometimes3,Sometimes3,Sometimes3,Sometimes3,Sometimes3,Sometimes3,Rarely2,Sometimes3,Sometimes3,Rarely2,Rarely2,11365,7,14,12
+"None of the time (no side effects)
+0",None (no side effects)0,No interference with activities0,None,Several days,Several days,Several days,Not at all,Several days,Not at all,Not at all,Not at all,Not at all,5,6,50,Sometimes3,Sometimes3,Rarely2,Often4,Sometimes3,Very rarely or never1,Sometimes3,Often4,Sometimes3,Sometimes3,Very rarely or never1,Often4,11173,4,13,13
+"None of the time (no side effects)
+0",None (no side effects)0,No interference with activities0,NA,Not at all,Several days,More than half the days,Not at all,Nearly every day,Several days,Several days,Not at all,Not at all,21,21,0,Rarely2,Sometimes3,Sometimes3,Rarely2,Sometimes3,Sometimes3,Rarely2,Sometimes3,Rarely2,Very rarely or never1,Very rarely or never1,Sometimes3,11190,8,14,9
+"None of the time (no side effects)
+0",None (no side effects)0,No interference with activities0,,Not at all,Not at all,Not at all,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,37,33,49,Sometimes3,Rarely2,Often4,Rarely2,Often4,Rarely2,Often4,Rarely2,Very rarely or never1,Often4,Very rarely or never1,Often4,11181,1,15,9
+"None of the time (no side effects)
+0",None (no side effects)0,No interference with activities0,No side effects ,Several days,Several days,More than half the days,More than half the days,Not at all,Several days,Not at all,Not at all,Not at all,27,26,3,Often4,Sometimes3,Often4,Sometimes3,Often4,Rarely2,Often4,Rarely2,Rarely2,Often4,Rarely2,Sometimes3,11410,7,,
+"None of the time (no side effects)
+0",None (no side effects)0,No interference with activities0,,Several days,Several days,Several days,Several days,Several days,Not at all,Not at all,Not at all,Not at all,-1,-1,0,Sometimes3,Rarely2,Sometimes3,Rarely2,Sometimes3,Rarely2,Sometimes3,Rarely2,Very rarely or never1,Sometimes3,Very rarely or never1,Very rarely or never1,11130,5,13,8
+"None of the time (no side effects)
+0",None (no side effects)0,No interference with activities0,,Several days,More than half the days,Several days,Several days,More than half the days,Nearly every day,Not at all,Not at all,More than half the days,-1,0,0,Rarely2,Sometimes3,Very rarely or never1,Sometimes3,Very rarely or never1,Rarely2,Very rarely or never1,Sometimes3,Very rarely or never1,Very rarely or never1,Very rarely or never1,Very rarely or never1,11191,12,9,8
+"None of the time (no side effects)
+0",None (no side effects)0,No interference with activities0,,Nearly every day,Not at all,More than half the days,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,46,45,50,Very often or always5,Sometimes3,Very often or always5,Rarely2,Very often or always5,Very rarely or never1,Often4,Sometimes3,Often4,Sometimes3,Sometimes3,Sometimes3,11333,6,19,13
+"None of the time (no side effects)
+0",None (no side effects)0,No interference with activities0,"I had no side effects 
+",Not at all,Not at all,Not at all,Several days,Several days,Not at all,Not at all,Not at all,Not at all,50,50,50,Very often or always5,Very rarely or never1,Very often or always5,Rarely2,Very rarely or never1,Very rarely or never1,Very often or always5,Very rarely or never1,Very rarely or never1,Often4,Very rarely or never1,Often4,11271,2,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,11271,,,
+"None of the time (no side effects)
+0",None (no side effects)0,No interference with activities0,,More than half the days,More than half the days,Nearly every day,Nearly every day,More than half the days,Several days,Several days,Several days,Not at all,-21,-12,2,Sometimes3,Sometimes3,Sometimes3,Rarely2,Sometimes3,Rarely2,Sometimes3,Sometimes3,Rarely2,Rarely2,Rarely2,Sometimes3,11404,15,14,10
+"None of the time (no side effects)
+0",None (no side effects)0,No interference with activities0,,Several days,Several days,Several days,Several days,Several days,Several days,Several days,Not at all,Several days,6,6,8,Rarely2,Sometimes3,Sometimes3,Sometimes3,Rarely2,Sometimes3,Rarely2,Sometimes3,Very rarely or never1,Very rarely or never1,Rarely2,Rarely2,11242,8,,
+"None of the time (no side effects)
+0",None (no side effects)0,No interference with activities0,,Not at all,Not at all,Several days,Several days,Not at all,Not at all,Not at all,Not at all,Not at all,19,16,15,Often4,Sometimes3,Sometimes3,Rarely2,Often4,Sometimes3,Sometimes3,Rarely2,Very rarely or never1,Sometimes3,Very rarely or never1,Often4,11265,2,16,9
+"None of the time (no side effects)
+0",None (no side effects)0,No interference with activities0,None,Several days,Several days,More than half the days,Several days,Not at all,Not at all,Several days,Not at all,Not at all,22,11,0,Often4,Sometimes3,Often4,Sometimes3,Often4,Sometimes3,Often4,Sometimes3,Very rarely or never1,Sometimes3,Very rarely or never1,Often4,11355,6,18,11
+,,,,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,,,,Very rarely or never1,Very rarely or never1,Very rarely or never1,Very rarely or never1,Very rarely or never1,Very rarely or never1,Very rarely or never1,Very rarely or never1,Very rarely or never1,Very rarely or never1,Very rarely or never1,Very rarely or never1,11404,0,,
+"None of the time (no side effects)
+0",None (no side effects)0,No interference with activities0,,Several days,More than half the days,Nearly every day,Nearly every day,Several days,More than half the days,More than half the days,More than half the days,Not at all,-1,-2,0,Rarely2,Sometimes3,Sometimes3,Often4,Rarely2,Sometimes3,Sometimes3,Often4,Very often or always5,Very rarely or never1,Rarely2,Very rarely or never1,11134,16,14,15
+"None of the time (no side effects)
+0",None (no side effects)0,No interference with activities0,,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,50,50,50,Very often or always5,Very rarely or never1,Very often or always5,Very rarely or never1,Very often or always5,Very rarely or never1,Very often or always5,Very rarely or never1,Very rarely or never1,Very often or always5,Very rarely or never1,Very often or always5,11302,0,17,8
+"None of the time (no side effects)
+0",None (no side effects)0,No interference with activities0,,Several days,Several days,Several days,Several days,Several days,Not at all,More than half the days,Several days,Not at all,18,16,0,Sometimes3,Sometimes3,Sometimes3,Rarely2,Sometimes3,Sometimes3,Rarely2,Rarely2,Very rarely or never1,Sometimes3,Sometimes3,Sometimes3,11396,8,14,8
+"None of the time (no side effects)
+0",None (no side effects)0,No interference with activities0,i didn’t have any,Several days,Several days,Several days,Several days,More than half the days,Several days,Several days,Not at all,Not at all,13,11,16,Often4,Sometimes3,Often4,Rarely2,Often4,Very rarely or never1,Often4,Rarely2,Very rarely or never1,Often4,Very rarely or never1,Often4,11243,8,15,10
+10% of the time1,Minimal severity1,Minimal interference with activities1,,Several days,Several days,Not at all,Not at all,Not at all,More than half the days,Not at all,Not at all,Not at all,15,11,1,Sometimes3,Rarely2,Rarely2,Very rarely or never1,Sometimes3,Very rarely or never1,Very rarely or never1,Very rarely or never1,Very rarely or never1,Very rarely or never1,Very rarely or never1,Very rarely or never1,11297,4,10,5
+"None of the time (no side effects)
+0",None (no side effects)0,No interference with activities0,No side effects,Not at all,Several days,Not at all,Several days,Not at all,Not at all,Several days,Not at all,Not at all,4,8,0,Sometimes3,Rarely2,Sometimes3,Rarely2,Sometimes3,Very rarely or never1,Sometimes3,Sometimes3,Very rarely or never1,Sometimes3,Very rarely or never1,Sometimes3,11349,3,,
+"None of the time (no side effects)
+0",None (no side effects)0,No interference with activities0,,More than half the days,More than half the days,Nearly every day,Several days,Several days,Several days,More than half the days,Several days,Several days,-22,,-6,Sometimes3,Very rarely or never1,Often4,Often4,Sometimes3,Rarely2,Sometimes3,Often4,Very rarely or never1,Very rarely or never1,Rarely2,Sometimes3,11392,14,16,9
+"None of the time (no side effects)
+0",None (no side effects)0,No interference with activities0,No side effects,Several days,Not at all,Nearly every day,Nearly every day,Nearly every day,Not at all,Several days,Not at all,Not at all,50,21,50,Often4,Sometimes3,Very often or always5,Sometimes3,Often4,Sometimes3,Often4,Rarely2,Very rarely or never1,Often4,Very rarely or never1,Rarely2,11236,11,18,11
+"None of the time (no side effects)
+0",None (no side effects)0,No interference with activities0,No side effects ,Several days,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,11,18,0,Often4,Rarely2,Often4,Very rarely or never1,Often4,Very rarely or never1,Often4,Very rarely or never1,Very rarely or never1,Often4,Very rarely or never1,Very often or always5,21276,1,14,8
+"None of the time (no side effects)
+0",None (no side effects)0,No interference with activities0,,Several days,Several days,More than half the days,More than half the days,Not at all,Not at all,Several days,Not at all,Not at all,4,19,7,Sometimes3,Rarely2,Sometimes3,Rarely2,Often4,Sometimes3,Sometimes3,Very rarely or never1,Very rarely or never1,Rarely2,Very rarely or never1,Often4,11252,7,14,8
+"None of the time (no side effects)
+0",None (no side effects)0,No interference with activities0,,More than half the days,More than half the days,Nearly every day,Nearly every day,Nearly every day,Several days,More than half the days,Several days,More than half the days,-6,1,-4,Rarely2,Sometimes3,Rarely2,Sometimes3,Very rarely or never1,Very rarely or never1,Very rarely or never1,Sometimes3,Very rarely or never1,Very rarely or never1,Rarely2,Very rarely or never1,21193,19,9,8
+"None of the time (no side effects)
+0",None (no side effects)0,No interference with activities0,N/a,Several days,Several days,More than half the days,More than half the days,More than half the days,Several days,Several days,Not at all,Not at all,21,13,14,Sometimes3,Rarely2,Rarely2,Rarely2,Rarely2,Very rarely or never1,Rarely2,Rarely2,Very rarely or never1,Very rarely or never1,Very rarely or never1,Very rarely or never1,11323,10,10,7
+"None of the time (no side effects)
+0",None (no side effects)0,No interference with activities0,NONE ,Several days,Several days,More than half the days,Several days,Not at all,Several days,Several days,Not at all,Not at all,28,33,3,Often4,Sometimes3,Often4,Rarely2,Often4,Rarely2,Often4,Sometimes3,Rarely2,Sometimes3,Sometimes3,Often4,11338,7,17,11
+50% of the time3,Moderate severity3,Mild interference with activities2,Positive mood,Several days,Several days,Several days,More than half the days,Not at all,Not at all,Nearly every day,Not at all,Not at all,20,20,36,Often4,Sometimes3,Often4,Rarely2,Often4,Rarely2,Often4,Sometimes3,Sometimes3,Sometimes3,Very rarely or never1,Often4,21114,8,17,12
+"None of the time (no side effects)
+0",None (no side effects)0,No interference with activities0,,Several days,Several days,More than half the days,Several days,More than half the days,More than half the days,Several days,Not at all,Several days,-17,-12,-4,Sometimes3,Sometimes3,Rarely2,Often4,Sometimes3,Often4,Often4,Often4,Very often or always5,Sometimes3,Rarely2,Sometimes3,21231,11,16,16
+"None of the time (no side effects)
+0",None (no side effects)0,No interference with activities0,,Several days,Several days,Nearly every day,More than half the days,Not at all,Several days,Nearly every day,Not at all,Not at all,0,,0,Sometimes3,Sometimes3,Sometimes3,Sometimes3,Rarely2,Sometimes3,Sometimes3,Often4,Often4,Rarely2,Sometimes3,Rarely2,21313,11,,
+"None of the time (no side effects)
+0",None (no side effects)0,No interference with activities0,……,Several days,Several days,Nearly every day,More than half the days,Not at all,Several days,Several days,Not at all,Not at all,0,-17,1,Sometimes3,Sometimes3,Rarely2,Often4,Rarely2,Rarely2,Rarely2,Very rarely or never1,Very rarely or never1,Rarely2,Sometimes3,Often4,21159,9,10,10
+"None of the time (no side effects)
+0",None (no side effects)0,No interference with activities0,none ,Several days,Several days,Nearly every day,Nearly every day,More than half the days,Not at all,Several days,Not at all,Not at all,37,34,34,Often4,Often4,Often4,Sometimes3,Often4,Sometimes3,Sometimes3,Sometimes3,Very rarely or never1,Sometimes3,Rarely2,Sometimes3,21316,11,18,11
+"None of the time (no side effects)
+0",None (no side effects)0,No interference with activities0,NA,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,More than half the days,Several days,Several days,2,-24,17,Sometimes3,Very often or always5,Sometimes3,Often4,Sometimes3,Very often or always5,Sometimes3,Very often or always5,Rarely2,Very rarely or never1,Very rarely or never1,Sometimes3,21353,22,19,14
+"None of the time (no side effects)
+0",None (no side effects)0,No interference with activities0,,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Several days,Several days,Not at all,50,50,50,Very often or always5,Very rarely or never1,Very often or always5,Very rarely or never1,Very often or always5,Very rarely or never1,Very often or always5,Very rarely or never1,Very rarely or never1,Very often or always5,Rarely2,Very often or always5,21364,2,17,8
+"None of the time (no side effects)
+0",None (no side effects)0,No interference with activities0,,Several days,Several days,More than half the days,More than half the days,More than half the days,Several days,Several days,Not at all,Not at all,10,7,14,Sometimes3,Often4,Sometimes3,Often4,Sometimes3,Very often or always5,Sometimes3,Very often or always5,Rarely2,Sometimes3,Rarely2,Sometimes3,21132,10,19,13

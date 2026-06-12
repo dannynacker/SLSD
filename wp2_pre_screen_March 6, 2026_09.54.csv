@@ -1,0 +1,532 @@
+consent_yes_no,unique_ids,safety_1,safety_2,safety_3,safety_4,safety_5,safety_6,safety_7,phq9_1,phq9_2,phq9_3,phq9_4,phq9_5,phq9_6,phq9_7,phq9_8,phq9_9,m3vas_mood_1,m3vas_pleasure_1,m3vas_suicidal_1,incl_dem_age,incl_dem_sex,incl_dem_gender,incl_dem_mdd,incl_dem_sad,incl_dem_med,incl_dem_med_fam,incl_dem_med_det,incl_dem_change,incl_dem_change_1_TEXT,incl_dem_antipsy,incl_dem_sub,incl_dem_diag,incl_dem_diag_det,incl_dem_tbi,incl_dem_eye,incl_dem_eye_det,incl_dem_light,excluded,part_id,part_id_net,phq9_sum,calendly_event_booked
+"By ticking the box below, I confirm I have no history of seizures or migraines, and that I consent to this study.",These are unique IDs for all participants.,Do any of the following apply to you? Please answer YES or NO for each question: - Have you ever been told that you have or had epilepsy?,Do any of the following apply to you? Please answer YES or NO for each question: - Have you ever had a seizure?,"Do any of the following apply to you? Please answer YES or NO for each question: - Has anyone in your immediate family, including your parents, siblings, or second-degree relatives, been told that they have epilepsy or suffer from seizures?","Do any of the following apply to you? Please answer YES or NO for each question: - Do you find sunlight, bright, or flickering lights uncomfortable?",Do any of the following apply to you? Please answer YES or NO for each question: - Have you ever had an adverse reaction to flickering or bright lights?,"Do any of the following apply to you? Please answer YES or NO for each question: - Do you suffer from frequent or severe headaches, including migraines?",Do any of the following apply to you? Please answer YES or NO for each question: - Are you currently pregnant?,"Over the past 2 weeks, how often have you been bothered by any of the following problems?
+
+Read each item carefully and then select the one response that best reflects your experience. - Little interest or pleasure in doing things.","Over the past 2 weeks, how often have you been bothered by any of the following problems?
+
+Read each item carefully and then select the one response that best reflects your experience. - Feeling down, depressed, or hopeless.","Over the past 2 weeks, how often have you been bothered by any of the following problems?
+
+Read each item carefully and then select the one response that best reflects your experience. - Trouble falling or staying asleep, or sleeping to much.","Over the past 2 weeks, how often have you been bothered by any of the following problems?
+
+Read each item carefully and then select the one response that best reflects your experience. - Feeling tired or having little energy.","Over the past 2 weeks, how often have you been bothered by any of the following problems?
+
+Read each item carefully and then select the one response that best reflects your experience. - Poor appetite or overeating.","Over the past 2 weeks, how often have you been bothered by any of the following problems?
+
+Read each item carefully and then select the one response that best reflects your experience. - Feeling bad about yourself, or that you are a failure or have let yourself or your family down.","Over the past 2 weeks, how often have you been bothered by any of the following problems?
+
+Read each item carefully and then select the one response that best reflects your experience. - Trouble concentrating on things such as reading the newspaper or watching television.","Over the past 2 weeks, how often have you been bothered by any of the following problems?
+
+Read each item carefully and then select the one response that best reflects your experience. - Moving or speaking so slowly that other people could have noticed. Or the opposite - being so fidgety or restless that you have been moving around a lot more than usual.","Over the past 2 weeks, how often have you been bothered by any of the following problems?
+
+Read each item carefully and then select the one response that best reflects your experience. - Thoughts that you would be better off dead, or of hurting yourself.",On the horizontal line indicate how your mood has been over the past 2 weeks: - Not at all depressed (0),"On the horizontal line indicate your ability to enjoy life activities (e.g. work, family and friends, hobbies, television, books or magazines, meals etc.) over the past 2 weeks. - Fully able to enjoy any activities (0)",On the horizontal line indicate how severely/frequently you have experienced thoughts or feelings about suicide over the past 2 weeks. - Not at all suicidal (0),How old are you?,What is your biological sex?,"If you feel comfortable sharing this information, please tell us your gender:","I am currently experiencing symptoms associated with depression, such as low mood or sadness, for extended periods of time.",Do you experience depressive symptoms only or primarily during the winter months?,"Are you currently taking any medications, herbs, or supplements?","If you answered YES to taking supplements, herbs or medication, have you been taking these long enough to consider it as familiar to you?","If you answered YES to taking supplements, herbal remedies, or medication, this does NOT prevent you from taking part in the study. Please provide details of your treatment, including the name, dosage, and how often you take it.","Are you planning to change or start treatment for your depressive symptoms in the next four weeks? This includes therapy, medication, or other interventions. - Selected Choice","Are you planning to change or start treatment for your depressive symptoms in the next four weeks? This includes therapy, medication, or other interventions. - Yes! Please indicate what change you are planning to make in the near future. - Text","Are you currently being treated with any antipsychotic drugs (e.g., chlorpromazine or haloperidol)?","Do you have a history of substance misuse or abuse, or are you currently having issues relating to substance misuse or abuse?","Do you have a history or current diagnosis of psychosis, bipolar disorder, Parkinson's, dementia, or Alzheimer's disease? This does NOT include depression. If you only have a diagnosis of depression and none of the other diagnoses listed above, please select NO.","If you answered YES to the previous question, which diagnosis applied to you?",Do you have any history of traumatic brain injury (TBI)?,"Do you have any eye disorders, such as retinal blindness, cataracts, retinal diseases of the eye, or glaucoma? This does not include wearing glasses or contact lenses.","If you answered YES to the previous question, please give some more detail regarding the eye disorder(s) you have.","Do you regularly use light therapy, including the use of light boxes, light visors and dawn simulation lamps? This does not include the use of SAD (Seasonal Affective Disorder) alarm clocks.",excluded,part_id,part_id_net,phq9_sum,calendly_event_booked
+I CONSENT,,NO,NO,NO,YES,NO,NO,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,safety_screening,11223,7318,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,More than half the days,More than half the days,Nearly every day,Several days,More than half the days,More than half the days,Not at all,Not at all,75,70,0,25,Female,Female,Yes,No,Yes,Yes,Venlafaxine 150mg daily ,No.,,No,No,No,,No,No,,No,FALSE,11316,4314,14,TRUE
+I CONSENT,,NO,NO,NO,NO,YES,NO,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,safety_screening,11225,1975,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Several days,More than half the days,More than half the days,More than half the days,More than half the days,Several days,More than half the days,Several days,74,73,19,35,Female,Female,Yes,No,Yes,Yes,Mirtazapine 15mg nightly,No.,,No,Yes,Yes,Bipolar II,No,No,,No,demographics,11252,7096,14,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Several days,Not at all,Several days,Not at all,Several days,Several days,Not at all,Not at all,49,,,36,Male,Male,Yes,No,Yes,,,,,,,,,,,,,FALSE,11389,6900,5,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Several days,Nearly every day,Several days,Several days,Not at all,Several days,Not at all,Not at all,41,65,0,59,Female,Female,Yes,No,Yes,Yes,"Duoloxetine 60mgs daily, promazine 10mg, quietepine 25mg",No.,,No,No,No,,No,No,,No,FALSE,11309,2578,8,TRUE
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,0,65,0,,,,,,,,,,,,,,,,,,,phq_9,11257,3784,0,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,5440,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,6048,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Nearly every day,Nearly every day,More than half the days,Several days,Nearly every day,Nearly every day,More than half the days,Several days,68,50,14,18,Male,Male,Yes,No,No,,,No.,,No,Yes,No,,No,No,,No,demographics,11375,5270,19,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,Several days,More than half the days,More than half the days,More than half the days,More than half the days,More than half the days,Not at all,Not at all,30,28,0,31,Female,Male,Yes,No,Yes,Yes,"50mg sertraline every night, 80mg testosterone gel daily. Might start on stimulants for ADHD in next few months.",No.,,No,No,No,,No,No,,No,FALSE,11274,6961,13,TRUE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,4393,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Several days,More than half the days,Several days,Several days,Not at all,Not at all,Several days,Not at all,39,53,0,30,Male,Male,Yes,Yes,No,,,No.,,No,No,No,,No,No,,No,demographics,11281,3348,7,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,More than half the days,Several days,Several days,Not at all,Several days,Nearly every day,Not at all,Not at all,72,82,0,26,Female,Female,Yes,No,No,,,No.,,No,No,No,,No,No,,No,FALSE,11278,6123,10,TRUE
+I CONSENT,,NO,NO,NO,YES,NO,NO,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,safety_screening,11135,1678,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,More than half the days,Nearly every day,Nearly every day,Several days,More than half the days,More than half the days,Not at all,Several days,67,78,18,19,Female,Female,Yes,Yes,No,,,No.,,No,No,No,,No,No,,No,demographics,11193,4809,15,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Nearly every day,Several days,Nearly every day,Nearly every day,More than half the days,Several days,Nearly every day,Several days,Not at all,85,75,4,19,Female,Female,Yes,No,Yes,Yes,fluoxetine 40 mg ,No.,,No,No,No,,No,No,,No,FALSE,11134,2730,17,TRUE
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Several days,Nearly every day,Nearly every day,Nearly every day,More than half the days,Nearly every day,More than half the days,Several days,26,76,29,25,Female,Other,Yes,No,No,,,No.,,No,No,No,,No,No,,No,FALSE,11178,1465,19,TRUE
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Nearly every day,More than half the days,Nearly every day,Nearly every day,Nearly every day,Several days,Nearly every day,Not at all,Several days,68,28,1,27,Male,Male,Yes,No,No,,,No.,,No,No,No,,No,No,,No,FALSE,11115,4811,19,TRUE
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Several days,Several days,Several days,Several days,Several days,Several days,Several days,Not at all,62,60,0,22,Female,Female,Yes,No,No,,,No.,,No,No,No,,No,No,,No,FALSE,11198,4442,8,none_available
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Not at all,More than half the days,Not at all,Nearly every day,More than half the days,More than half the days,Several days,Not at all,Several days,,,,,,,,,,,,,,,,,,,,,,FALSE,11207,3769,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,Several days,Several days,More than half the days,Several days,Several days,More than half the days,Not at all,Not at all,52,40,7,26,Female,Female,No,No,Yes,Yes,"CoQ10, Vitamins, one capsule per day",No.,,No,No,No,,No,No,,No,FALSE,11251,1569,10,TRUE
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Several days,Several days,Several days,Several days,Several days,Several days,Several days,Not at all,54,59,0,22,Female,Female,Yes,No,No,,,No.,,No,No,No,,No,No,,No,FALSE,11322,8076,8,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,9384,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,7457,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,9243,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,Several days,Several days,More than half the days,More than half the days,More than half the days,More than half the days,More than half the days,More than half the days,58,61,39,31,Female,Female,Yes,No,No,,,No.,,No,No,No,,No,No,,No,FALSE,11407,5373,16,TRUE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,3361,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,More than half the days,Nearly every day,Nearly every day,More than half the days,More than half the days,More than half the days,Not at all,Not at all,71,65,0,23,Female,Female,Yes,No,No,,,No.,,No,No,No,,No,No,,No,FALSE,11405,8549,16,TRUE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,3801,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,1431,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,Several days,Several days,Several days,Several days,More than half the days,Several days,Several days,Not at all,28,27,0,26,Male,Male,Yes,No,No,,,No.,,No,No,No,,No,No,,No,FALSE,11357,5566,10,TRUE
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Several days,More than half the days,More than half the days,Several days,More than half the days,Not at all,Several days,More than half the days,67,43,59,22,Male,Male,Yes,Yes,No,,,No.,,No,No,No,,No,No,,No,demographics,11295,8783,12,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,Several days,Several days,Several days,More than half the days,Nearly every day,Nearly every day,More than half the days,More than half the days,71,50,9,45,Male,Male,Yes,No,No,,,No.,,No,No,No,,No,No,,No,FALSE,11266,3954,17,TRUE
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,More than half the days,More than half the days,More than half the days,More than half the days,More than half the days,Nearly every day,More than half the days,Not at all,80,70,19,26,Male,Male,Yes,Yes,No,,,No.,,No,No,No,,No,No,,No,demographics,11137,6451,16,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,Several days,More than half the days,More than half the days,More than half the days,More than half the days,More than half the days,More than half the days,Not at all,56,75,11,42,Male,Male,Yes,No,Yes,,Mirtazpine 15 mg armatripline 50mg,Yes! Please indicate what change you are planning to make in the near future.,Yes reapply for therapy ,No,No,No,,No,No,,No,FALSE,11325,7384,15,TRUE
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Nearly every day,Several days,More than half the days,More than half the days,Not at all,Nearly every day,Nearly every day,Not at all,Not at all,66,84,38,22,Male,Male,Yes,No,No,,,No.,,No,No,No,,No,No,,No,FALSE,11319,3565,14,TRUE
+I CONSENT,,NO,NO,NO,YES,YES,NO,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,safety_screening,11192,3779,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,Several days,Several days,Nearly every day,Nearly every day,More than half the days,Several days,Not at all,Not at all,60,39,0,27,Female,Female,Yes,No,Yes,Yes,"Mirtazapine 15mg od
+Omeprazole 20mg od",No.,,No,No,No,,No,No,,No,FALSE,11277,3521,13,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,Several days,More than half the days,More than half the days,Several days,Nearly every day,More than half the days,Several days,Several days,61,61,20,22,Female,Female,Yes,Yes,Yes,Yes,Birth control pill every day,No.,,No,No,No,,No,No,,No,demographics,11324,2046,15,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Several days,Not at all,Several days,Several days,Several days,Not at all,Not at all,Not at all,41,,0,30,Female,Female,Yes,Yes,Yes,Yes,Sertraline 75mg once per day,No.,,No,No,No,,No,No,,No,demographics,11293,5404,5,
+I CONSENT,,YES,YES,YES,YES,YES,YES,YES,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,safety_screening,11118,2724,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,5851,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,6086,,
+I CONSENT,,NO,NO,NO,YES,NO,NO,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,safety_screening,11359,1056,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,9331,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,More than half the days,Nearly every day,More than half the days,Not at all,Several days,More than half the days,More than half the days,Not at all,91,,0,30,Male,Male,Yes,No,Yes,Yes,"Many Vitamins and minerals, ashwagandha, boron, creatine
+Daily",Yes! Please indicate what change you are planning to make in the near future.,Moved from therapy into assessment with a medical nurse,No,Yes,Yes,Diagnosed with bipolar disorder and OCD,No,No,,No,demographics,11328,8786,13,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,More than half the days,Nearly every day,Nearly every day,More than half the days,More than half the days,Nearly every day,Several days,Several days,68,58,40,21,Female,Male,Yes,No,Yes,Yes,"Fluoxetine, 20mg daily",Yes! Please indicate what change you are planning to make in the near future.,beginning weaning off medication,No,No,No,,No,No,,No,FALSE,11395,5365,19,TRUE
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,More than half the days,Nearly every day,More than half the days,More than half the days,Several days,Nearly every day,More than half the days,More than half the days,67,73,36,21,Female,Male,Yes,No,Yes,Yes,"Fluoxetine, 40mg daily",Yes! Please indicate what change you are planning to make in the near future.,"reduction in medication, ideally to 20mg",No,No,No,,No,No,,No,FALSE,11380,4459,19,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,7424,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,More than half the days,Not at all,More than half the days,Several days,Nearly every day,Several days,Several days,Not at all,57,45,10,29,Female,Female,Yes,No,No,,,No.,,No,No,No,,No,No,,No,FALSE,11338,8353,12,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,More than half the days,More than half the days,More than half the days,Several days,Several days,Several days,Several days,Not at all,71,68,1,20,Male,Male,Yes,No,No,,,No.,,No,No,No,,No,No,,No,FALSE,11290,6438,12,TRUE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,5564,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,More than half the days,Several days,Nearly every day,More than half the days,More than half the days,Several days,Several days,Not at all,71,60,0,28,Female,Female,No,No,Yes,Yes,"Sertraline 50 mg. Every day after breakfast, around 9 AM. ",No.,,No,No,No,,No,No,,No,FALSE,11162,2442,13,TRUE
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,More than half the days,More than half the days,More than half the days,Not at all,More than half the days,More than half the days,More than half the days,Not at all,59,47,0,35,Male,Male,No,No,No,,,No.,,No,No,No,,No,No,,No,FALSE,11171,8874,13,TRUE
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,More than half the days,More than half the days,More than half the days,Several days,Several days,Several days,Several days,Not at all,36,70,3,20,Male,Male,Yes,No,No,,,No.,,No,No,No,,No,No,,No,FALSE,11209,9484,12,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Several days,Several days,Several days,Not at all,Several days,Several days,Several days,Several days,33,34,26,54,Male,Male,No,No,Yes,Yes,"Testomax, every day",No.,,No,No,No,,No,No,,No,FALSE,11396,8534,8,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,1451,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Several days,More than half the days,More than half the days,Nearly every day,More than half the days,Not at all,Not at all,Not at all,16,71,7,22,Female,Female,Yes,Yes,No,,,No.,,No,No,No,,No,No,,No,demographics,11300,1425,11,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,Several days,More than half the days,Several days,Several days,Several days,Several days,Several days,Not at all,80,82,4,23,Male,Male,Yes,No,No,,,No.,,No,No,No,,No,No,,No,FALSE,11174,5512,10,TRUE
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Several days,More than half the days,Several days,Not at all,Several days,Several days,Several days,Several days,,38,33,24,Female,Female,Yes,No,Yes,Yes,D-Veniz 50,Yes! Please indicate what change you are planning to make in the near future.,Therapy,No,No,No,,No,No,,No,FALSE,11362,5642,9,TRUE
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Nearly every day,Nearly every day,Several days,More than half the days,More than half the days,More than half the days,More than half the days,Several days,Not at all,78,86,23,27,Male,Male,Yes,No,No,,,No.,,No,No,No,,No,No,,No,FALSE,11233,4231,16,TRUE
+I CONSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,5265,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,7102,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,1274,,
+I CONSENT,,NO,NO,NO,YES,YES,YES,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,safety_screening,11307,6840,,
+I CONSENT,,YES,YES,NO,YES,YES,YES,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,safety_screening,11306,1012,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,5123,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Several days,Several days,More than half the days,More than half the days,Several days,Several days,Not at all,Not at all,,28,21,79,Female,Female,No,No,Yes,Yes,"Ramipril 2.5
+HRT 
+Dorzolomide
+Ganfort
+Beconase 
+",No.,,No,No,No,,No,Yes,Glaucoma ,No,FALSE,11139,4228,9,none_available
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Nearly every day,More than half the days,Nearly every day,Nearly every day,Several days,Nearly every day,Nearly every day,Not at all,Not at all,25,33,0,28,Female,Female,Yes,No,Yes,Yes,50mg sertraline daily,No.,,No,No,No,,No,No,,No,FALSE,11160,2726,18,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,2961,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Several days,Several days,Several days,Not at all,Several days,Several days,Not at all,Not at all,38,29,5,37,Female,Female,Yes,No,Yes,Yes,Setraline 100mg,No.,,No,No,No,,No,No,,No,FALSE,11379,7671,6,TRUE
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,More than half the days,Several days,Several days,Several days,Several days,Nearly every day,Not at all,Not at all,56,32,0,28,Male,Male,Yes,No,No,,,No.,,No,No,No,,No,No,,No,FALSE,11401,1467,10,TRUE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,6020,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,9117,,
+I CONSENT,,NO,NO,NO,NO,NO,YES,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,safety_screening,11149,1967,,
+I CONSENT,,NO,NO,YES,YES,NO,NO,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,safety_screening,11279,2933,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,More than half the days,More than half the days,More than half the days,Not at all,Several days,Nearly every day,Not at all,Not at all,60,59,0,30,Male,Male,Yes,Yes,Yes,Yes,"Fish oil, creatine and multi vitamins daily",No.,,No,No,No,,No,No,,No,demographics,11351,5696,12,
+I CONSENT,,NO,NO,YES,NO,NO,NO,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,safety_screening,11318,1080,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,11267,3490,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Several days,Nearly every day,Nearly every day,More than half the days,Several days,Several days,Several days,Not at all,74,72,17,28,Male,Male,Yes,No,No,,,No.,,No,No,No,,No,No,,No,FALSE,11218,1031,13,
+I CONSENT,,YES,YES,YES,YES,NO,YES,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,safety_screening,11337,6657,,
+I CONSENT,,NO,NO,NO,NO,YES,NO,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,safety_screening,11127,5297,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,3504,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,8511,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,More than half the days,Nearly every day,More than half the days,Nearly every day,More than half the days,More than half the days,Not at all,Several days,64,29,8,51,Female,Female,Yes,No,Yes,Yes,"Duloxetine 60mg, Bisoprolol 2.5g, folic acid and multivitamins of magnesium, vitamin D and calcium.",No.,,No,No,No,,No,No,,No,FALSE,11346,6296,16,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Several days,Several days,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,68,19,0,,,,,,,,,,,,,,,,,,,phq_9,11204,4392,3,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,More than half the days,More than half the days,More than half the days,Several days,Several days,Several days,Several days,Not at all,66,58,2,50,Male,Male,Yes,No,Yes,No,"Legally prescribed cannabis - various strains, 1mg most days",No.,,No,No,No,,No,No,,No,FALSE,11238,7645,11,TRUE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,8911,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Several days,Not at all,Several days,Several days,Several days,More than half the days,More than half the days,Not at all,18,60,0,28,Male,Male,No,No,Yes,Yes,Omega 3- a few times a week,No.,,No,No,No,,No,No,,No,FALSE,11398,9630,9,TRUE
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,More than half the days,Nearly every day,Not at all,Several days,75,87,26,28,Female,Female,Yes,No,Yes,,Venleflaxine 75mg,No.,,No,No,No,,No,No,,No,FALSE,11302,9342,21,TRUE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,9782,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,More than half the days,Nearly every day,More than half the days,Not at all,Several days,More than half the days,Nearly every day,Not at all,80,69,29,28,Male,Male,Yes,No,Yes,No,"Fish liver oil, magnesium and some vitamin gummies",No.,,No,No,No,,No,No,,No,FALSE,11335,4125,14,TRUE
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Not at all,Several days,Not at all,More than half the days,Not at all,Several days,Not at all,Not at all,Several days,72,29,30,19,Female,Female,No,Yes,No,,,No.,,No,No,No,,No,No,,No,demographics,11373,5820,5,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,5041,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Several days,Nearly every day,More than half the days,Several days,Several days,More than half the days,More than half the days,Several days,84,70,32,39,Female,Female,Yes,Yes,No,,,Yes! Please indicate what change you are planning to make in the near future.,Therapy,No,No,No,,No,No,,No,demographics,11214,5960,14,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Several days,More than half the days,More than half the days,Nearly every day,Several days,More than half the days,Not at all,Not at all,30,59,19,25,Female,Other,Yes,No,No,,,Yes! Please indicate what change you are planning to make in the near future.,Being discharged from local mental health services in July,No,No,No,,No,No,,No,FALSE,11240,9295,12,TRUE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,8941,,
+I CONSENT,,NO,NO,NO,YES,NO,YES,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,safety_screening,11386,7244,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,Nearly every day,Nearly every day,More than half the days,Not at all,Not at all,More than half the days,Not at all,Not at all,72,71,0,21,Female,Female,Yes,No,Yes,Yes,15mg Escitalopram since February,No.,,No,No,No,,No,No,,No,FALSE,11410,6671,12,TRUE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,7222,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,Several days,Several days,More than half the days,Nearly every day,Nearly every day,Several days,More than half the days,Several days,,,,,,,,,,,,,,,,,,,,,,FALSE,11129,1944,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,3933,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,2994,,
+I CONSENT,,NO,NO,YES,NO,NO,NO,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,safety_screening,11249,3666,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,More than half the days,Several days,More than half the days,Nearly every day,More than half the days,Nearly every day,Not at all,Not at all,78,84,22,30,Male,Male,Yes,No,No,,,No.,,No,No,No,,No,No,,No,FALSE,11313,9670,15,TRUE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,4861,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,7493,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,More than half the days,Nearly every day,More than half the days,Several days,Nearly every day,More than half the days,Several days,More than half the days,68,83,61,23,Female,Female,Yes,No,No,,,No.,,No,No,No,,No,No,,No,FALSE,11145,4592,18,TRUE
+I CONSENT,,NO,NO,NO,NO,NO,YES,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,safety_screening,11256,9991,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,1982,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,More than half the days,More than half the days,More than half the days,More than half the days,More than half the days,More than half the days,Several days,Several days,67,72,42,34,Female,Female,Yes,Yes,Yes,No,"propanolol 10mg if and when needed
+shilajit, lions mane, magnesium, ",No.,,No,No,No,,No,No,,No,demographics,11371,5258,16,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Several days,Not at all,Several days,Several days,Several days,More than half the days,Not at all,Not at all,72,41,0,24,Male,Male,Yes,No,Yes,Yes,Protein powder and Vitamin B,No.,,No,No,No,,No,No,,No,FALSE,11387,3487,7,TRUE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,6709,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,2047,,
+I CONSENT,,NO,NO,YES,NO,NO,NO,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,safety_screening,11314,9611,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,More than half the days,Several days,Several days,Several days,Nearly every day,Several days,Several days,Several days,71,91,20,32,Female,Female,Yes,No,Yes,Yes,Sertraline 50 once daily ,No.,,No,No,No,,No,No,,No,FALSE,11220,4731,13,TRUE
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,More than half the days,More than half the days,More than half the days,More than half the days,Several days,Nearly every day,Not at all,More than half the days,50,,0,32,Female,Female,Yes,No,Yes,Yes,Ashawanda 1capsule per day. Magnesium hlicinate 500gr per day. ,No.,,No,No,No,,No,No,,No,FALSE,11173,2022,15,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,4665,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,More than half the days,Nearly every day,Nearly every day,Several days,More than half the days,Several days,Not at all,Several days,71,75,,25,Female,Female,Yes,No,Yes,Yes,"vitamins b12, d",No.,,No,No,No,,No,No,,No,FALSE,11164,4305,15,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Several days,More than half the days,More than half the days,More than half the days,More than half the days,More than half the days,More than half the days,Not at all,73,59,0,27,Female,Female,Yes,No,No,,,No.,,No,No,No,,No,No,,No,FALSE,11298,1826,14,TRUE
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Several days,More than half the days,Several days,More than half the days,Nearly every day,More than half the days,Nearly every day,Not at all,83,67,18,27,Female,Female,Yes,No,No,,,Yes! Please indicate what change you are planning to make in the near future.,,No,No,No,,No,No,,No,FALSE,11259,1940,15,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,More than half the days,Not at all,Nearly every day,More than half the days,More than half the days,Nearly every day,Several days,Not at all,46,19,4,21,Male,Male,No,No,No,,,Yes! Please indicate what change you are planning to make in the near future.,potentially pick up therapy again if possible.,No,No,No,,No,No,,No,FALSE,11400,4151,15,none_available
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Nearly every day,Nearly every day,More than half the days,Several days,Several days,Nearly every day,Several days,Several days,62,76,63,24,Female,Female,Yes,No,Yes,Yes,Sertraline 75mg,No.,,No,No,No,,No,No,,No,FALSE,11264,6340,16,TRUE
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Nearly every day,Nearly every day,More than half the days,Nearly every day,Not at all,Nearly every day,Nearly every day,More than half the days,Several days,100,87,39,30,Male,Male,Yes,No,Yes,,Phizz I in two days multivitamin ,Yes! Please indicate what change you are planning to make in the near future.,,No,Yes,No,,No,No,,No,demographics,11392,7158,20,
+I CONSENT,,NO,NO,NO,NO,NO,YES,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,safety_screening,11358,4981,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,More than half the days,More than half the days,More than half the days,More than half the days,More than half the days,More than half the days,More than half the days,More than half the days,75,61,64,30,Female,Female,Yes,No,Yes,Yes,Fluoxetine 20mg,No.,,No,No,No,,No,No,,No,FALSE,11187,3373,18,TRUE
+I CONSENT,,NO,YES,NO,NO,NO,NO,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,safety_screening,11196,3755,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Nearly every day,More than half the days,Several days,Several days,More than half the days,More than half the days,Several days,Several days,More than half the days,81,60,37,21,Female,Female,Yes,Yes,Yes,Yes,Methylphenidate for ADHD,No.,,No,No,No,,No,No,,No,demographics,11342,6983,15,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Nearly every day,Nearly every day,Not at all,Nearly every day,More than half the days,More than half the days,More than half the days,Not at all,More than half the days,28,15,38,29,Female,Female,Yes,No,Yes,Yes,Once every night,No.,,No,No,No,,No,No,,No,FALSE,11385,7569,17,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,8190,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,More than half the days,Nearly every day,More than half the days,Nearly every day,More than half the days,More than half the days,Not at all,Not at all,88,82,9,24,Female,Female,No,No,No,,,No.,,No,No,No,,No,No,,No,FALSE,11288,8649,15,TRUE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,6083,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Several days,More than half the days,More than half the days,Not at all,More than half the days,Not at all,Not at all,Not at all,71,59,0,23,Female,Female,Yes,No,Yes,Yes,Vitamin B12 - 2000 mcg per week,No.,,No,No,No,,No,No,,No,FALSE,11153,3295,8,TRUE
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Nearly every day,Nearly every day,Nearly every day,Nearly every day,More than half the days,More than half the days,Nearly every day,Nearly every day,Nearly every day,92,77,64,22,Female,Female,Yes,No,No,,,No.,,No,No,No,,No,No,,No,FALSE,11123,2881,25,TRUE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,9442,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Not at all,Not at all,More than half the days,Not at all,Not at all,Not at all,Several days,Several days,Not at all,41,61,4,,,,,,,,,,,,,,,,,,,phq_9,11210,1268,4,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Several days,More than half the days,More than half the days,Several days,Not at all,Several days,Several days,Not at all,61,32,3,20,Male,Male,Yes,No,No,,,No.,,No,No,No,,No,No,,No,FALSE,11393,1377,9,TRUE
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Several days,Several days,More than half the days,Several days,Not at all,79,79,0,25,Female,Female,Yes,Yes,No,,,No.,,No,No,No,,No,No,,No,demographics,11157,4373,17,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,More than half the days,Nearly every day,Nearly every day,Several days,More than half the days,Nearly every day,More than half the days,Not at all,67,35,0,28,Male,Male,Yes,Yes,No,,,No.,,No,No,No,,No,No,,No,demographics,11239,6686,18,
+I CONSENT,,NO,NO,NO,YES,NO,NO,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,safety_screening,11330,1833,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,More than half the days,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Not at all,72,71,36,30,Female,Female,Yes,Yes,No,,,No.,,No,No,No,,No,No,,No,demographics,11353,3742,21,
+I CONSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,4287,,
+I CONSENT,,NO,NO,NO,NO,NO,YES,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,safety_screening,11208,2207,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Several days,More than half the days,Nearly every day,More than half the days,Nearly every day,Nearly every day,More than half the days,Not at all,73,71,0,34,Male,Male,Yes,No,Yes,Yes,Mirtazipine,No.,,No,No,No,,No,No,,No,FALSE,11152,5514,17,TRUE
+I CONSENT,,NO,NO,NO,NO,NO,YES,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,safety_screening,11317,4144,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,5296,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,5532,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Not at all,Several days,Not at all,Several days,Not at all,Several days,Not at all,Not at all,More than half the days,31,32,44,27,Female,Female,Yes,No,No,,,No.,,No,No,No,,No,No,,No,FALSE,11166,2485,5,TRUE
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Several days,More than half the days,More than half the days,Several days,Several days,Several days,Not at all,Not at all,66,66,65,42,Female,Female,Yes,No,No,,,No.,,No,No,No,,No,No,,No,FALSE,11296,7129,9,TRUE
+I CONSENT,,NO,NO,NO,YES,NO,NO,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,safety_screening,11159,1312,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,Nearly every day,More than half the days,More than half the days,Nearly every day,More than half the days,More than half the days,More than half the days,Several days,72,71,61,23,Female,Female,Yes,No,Yes,Yes,"Duoloxtine 60mg, 2 once a day",No.,,No,Yes,No,,No,No,,No,demographics,11241,6149,19,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,11397,8168,,
+I CONSENT,,NO,NO,YES,NO,NO,YES,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,safety_screening,11161,8003,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,1019,,
+I CONSENT,,NO,NO,NO,YES,NO,NO,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,safety_screening,11167,8204,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,8598,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,8314,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,5797,,
+I CONSENT,,YES,YES,YES,YES,YES,YES,YES,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,safety_screening,11336,2786,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,4386,,
+I CONSENT,,NO,NO,NO,YES,NO,YES,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,safety_screening,11183,5062,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,More than half the days,Nearly every day,Nearly every day,Several days,More than half the days,Several days,Several days,Not at all,61,27,0,29,Female,Female,Yes,No,Yes,Yes,Euthyrox，50ug/day ,No.,,No,No,No,,No,No,,No,FALSE,11390,9367,15,TRUE
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,Several days,Several days,Several days,Nearly every day,Nearly every day,Several days,Several days,Nearly every day,55,38,81,30,Male,Male,Yes,No,No,,,No.,,No,No,No,,No,No,,No,FALSE,11141,1378,16,TRUE
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,More than half the days,Nearly every day,More than half the days,Nearly every day,More than half the days,Several days,Several days,Several days,72,100,25,38,Male,Male,Yes,Yes,No,,,Yes! Please indicate what change you are planning to make in the near future.,Planning on visiting GP. In future I may pay to see a therapist ,No,Yes,No,,No,No,,No,demographics,11229,6961,16,
+I CONSENT,,NO,NO,NO,YES,NO,NO,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,safety_screening,11367,3603,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,More than half the days,Nearly every day,Nearly every day,Nearly every day,100,79,60,30,Male,Male,Yes,No,No,,,Yes! Please indicate what change you are planning to make in the near future.,,No,No,No,,No,No,,No,FALSE,11285,1828,26,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,7333,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,More than half the days,More than half the days,More than half the days,Several days,More than half the days,More than half the days,Not at all,Several days,67,73,4,28,Male,Male,Yes,No,No,,,No.,,No,No,No,,No,No,,No,FALSE,11121,4316,14,TRUE
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Several days,Several days,Several days,Several days,Several days,Nearly every day,Several days,Several days,84,83,55,51,Male,Male,Yes,No,No,,,No.,,No,No,No,,No,No,,No,FALSE,11388,1921,11,TRUE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,5105,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,6422,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,3471,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Several days,Several days,More than half the days,Not at all,Not at all,More than half the days,Several days,Several days,26,63,17,28,Female,Female,Yes,No,No,,,Yes! Please indicate what change you are planning to make in the near future.,,No,No,No,,No,No,,No,FALSE,11186,7160,9,TRUE
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Several days,Several days,More than half the days,More than half the days,Several days,Several days,Several days,Not at all,62,55,31,25,Female,Female,No,No,No,,,No.,,No,No,No,,No,No,,No,FALSE,11365,8002,10,TRUE
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,Several days,Not at all,Several days,Not at all,Several days,Not at all,Several days,Several days,40,19,8,22,Female,Female,Yes,No,Yes,Yes,Sertraline 25mg each day,Yes! Please indicate what change you are planning to make in the near future.,Planning to wean off meds,No,No,No,,No,No,,No,FALSE,11254,4273,7,none_available
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,5448,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,More than half the days,Nearly every day,Several days,More than half the days,More than half the days,Nearly every day,Several days,Several days,72,56,63,25,Female,Female,Yes,No,Yes,,10mg of fluoxetine daily,No.,,No,Yes,No,,No,No,,No,demographics,11399,6302,17,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,3479,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,7272,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,More than half the days,Several days,More than half the days,Several days,Several days,Nearly every day,Several days,Not at all,72,82,9,27,Female,Female,Yes,No,No,,,No.,,No,No,No,,No,No,,No,FALSE,11190,5427,13,TRUE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,9492,,
+I CONSENT,,NO,NO,NO,NO,NO,YES,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,safety_screening,11222,3315,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,More than half the days,Nearly every day,Nearly every day,Nearly every day,Several days,Several days,More than half the days,Not at all,80,65,4,45,Male,Male,Yes,Yes,Yes,,"Venlafaxine 350mg daily
+Lamotrigine 200mg daily
+Cbd spray as and when",Yes! Please indicate what change you are planning to make in the near future.,Cbt with practioner ,No,No,No,,No,No,,No,demographics,11116,1600,17,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,3238,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,Several days,Nearly every day,Nearly every day,Nearly every day,Several days,Not at all,More than half the days,More than half the days,65,71,,23,Female,Female,Yes,No,No,,,No.,,No,No,No,,No,No,,No,FALSE,11226,4617,17,none_available
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,6401,,
+I CONSENT,,NO,NO,YES,YES,NO,NO,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,safety_screening,11248,5482,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,7700,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Several days,More than half the days,More than half the days,More than half the days,Several days,Several days,Not at all,Not at all,73,60,18,22,Male,Male,Yes,No,No,,,No.,,No,No,No,,No,No,,No,FALSE,11182,9995,10,TRUE
+I CONSENT,,NO,NO,NO,YES,YES,YES,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,safety_screening,11119,4600,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,8722,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Several days,Several days,Several days,Several days,Several days,Several days,Several days,Several days,82,62,68,32,Female,Female,Yes,No,Yes,No,Collagen protein powder just one scoop a day. ,No.,,No,No,No,,No,No,,No,FALSE,11341,9916,9,TRUE
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Not at all,Several days,Not at all,Not at all,Several days,More than half the days,Several days,More than half the days,Several days,58,24,22,36,Male,Male,No,Yes,Yes,Yes,"Sertraline, 50mg once a day",No.,,No,No,No,,No,No,,No,demographics,11128,3491,8,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Several days,More than half the days,More than half the days,Not at all,More than half the days,Several days,Several days,Several days,65,30,19,28,Male,Male,Yes,No,No,,,Yes! Please indicate what change you are planning to make in the near future.,I am planning to take psychological therapy.,No,No,No,,No,No,,No,FALSE,11269,2607,11,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Nearly every day,More than half the days,Nearly every day,More than half the days,Several days,More than half the days,Several days,Several days,Nearly every day,81,81,51,37,Male,Male,Yes,Yes,No,,,No.,,No,No,No,,No,No,,No,demographics,11327,8155,18,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,9243,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Several days,More than half the days,More than half the days,More than half the days,Several days,Several days,More than half the days,Not at all,64,69,2,60,Female,Female,Yes,No,Yes,,Flouexitine,No.,,No,No,No,,No,No,,No,FALSE,11282,2300,12,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Several days,Several days,More than half the days,Not at all,More than half the days,Several days,Not at all,Several days,71,29,30,28,Male,Male,Yes,No,No,,,No.,,No,No,No,,No,No,,No,FALSE,11181,7078,9,TRUE
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,Nearly every day,More than half the days,Nearly every day,Nearly every day,Nearly every day,Nearly every day,More than half the days,Nearly every day,87,77,76,29,Male,Male,Yes,No,No,,,No.,,No,No,No,,No,No,,No,FALSE,11245,9689,24,TRUE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,9322,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Nearly every day,Nearly every day,Nearly every day,More than half the days,Nearly every day,Not at all,Nearly every day,Nearly every day,Several days,97,87,17,21,Female,Female,Yes,No,No,,,No.,,No,No,No,,Yes,No,,No,demographics,11151,8096,21,
+I CONSENT,,NO,NO,NO,YES,NO,YES,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,safety_screening,11280,6717,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,Several days,Nearly every day,More than half the days,Nearly every day,Nearly every day,Nearly every day,Not at all,Not at all,27,34,0,50,Male,Male,Yes,No,No,,,No.,,No,No,No,,No,No,,No,FALSE,11215,4984,17,TRUE
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Several days,More than half the days,Nearly every day,Nearly every day,Nearly every day,Nearly every day,More than half the days,More than half the days,72,30,76,27,Male,Other,Yes,No,Yes,Yes,100mg of Setraline daily.,No.,,No,Yes,No,,No,No,,No,demographics,11366,8714,20,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,6348,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Nearly every day,More than half the days,More than half the days,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Several days,82,94,88,42,Male,Male,Yes,No,No,,,No.,,No,No,No,,No,No,,No,FALSE,11271,3042,23,TRUE
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Several days,Several days,Several days,More than half the days,Several days,More than half the days,Not at all,Several days,60,65,14,24,Male,Male,Yes,No,Yes,Yes,venlafaxine 75mg modified-release capsules. once a day,No.,,No,No,No,,No,No,,No,FALSE,11130,3532,10,TRUE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,1041,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,5015,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,4057,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Several days,Several days,Several days,Several days,Several days,Several days,Several days,Several days,73,30,20,33,Male,Male,Yes,No,No,,,No.,,No,No,No,,No,No,,No,FALSE,11213,4365,9,TRUE
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Several days,Several days,Several days,Several days,Several days,More than half the days,Several days,Several days,73,72,29,33,Male,Male,Yes,No,No,,,No.,,No,No,No,,No,No,,No,FALSE,11409,9774,10,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Nearly every day,Nearly every day,Nearly every day,More than half the days,Nearly every day,Nearly every day,Nearly every day,Several days,Several days,80,92,50,26,Female,Female,Yes,No,Yes,Yes,All of the following are officially prescribed: Aripiprazole 10mg daily. Quetiapine (prolonged release) 200mg daily. Pregabalin 150mg daily. Trazodone 150mg daily. Melatonin 4mg daily. Promethazine 50mg daily. Diazepam up to 6mg when needed (usually 4mg 3 or 4 days a week). ,No.,,Yes,No,Yes,While I have not been diagnosed with this officially I have been told by doctors that I display many symptoms of trauma induced psychosis.,No,Yes,Congenital nystagmus. Had it since I was born. ,No,demographics,11177,2546,22,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,1207,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Nearly every day,Nearly every day,Several days,Several days,More than half the days,More than half the days,Several days,More than half the days,More than half the days,82,70,64,27,Male,Female,Yes,No,Yes,Yes,Duloxetine 60mg once a day,Yes! Please indicate what change you are planning to make in the near future.,Change in medication as current one doesn't seem to help ,No,No,No,,No,No,,No,FALSE,11191,4845,17,TRUE
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,More than half the days,Several days,Several days,More than half the days,More than half the days,Several days,Not at all,Several days,83,73,66,53,Female,Female,Yes,No,Yes,Yes,Hrt ,No.,,No,Yes,No,,No,No,,No,demographics,11283,1456,12,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,More than half the days,More than half the days,Several days,Not at all,Nearly every day,Not at all,Not at all,Several days,77,82,4,21,Female,Female,Yes,No,Yes,Yes,Taking multivitamins,Yes! Please indicate what change you are planning to make in the near future.,I am already seeking therapy from the uni,No,No,No,,No,No,,No,FALSE,11333,7911,11,TRUE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,4237,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Several days,Several days,More than half the days,Not at all,Several days,Several days,Not at all,Not at all,68,67,3,36,Male,Male,Yes,No,No,,,No.,,No,No,No,,No,No,,No,FALSE,11355,2180,7,TRUE
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,Several days,More than half the days,More than half the days,Several days,More than half the days,More than half the days,Several days,Several days,51,64,49,50,Male,Male,Yes,No,Yes,Yes,Citalopram 40 mg once a day ,No.,,No,No,No,,No,No,,No,FALSE,11242,2926,14,TRUE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,5962,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,More than half the days,More than half the days,More than half the days,More than half the days,More than half the days,More than half the days,More than half the days,More than half the days,,28,31,30,Female,Female,Yes,Yes,No,,,No.,,No,No,No,,No,No,,No,demographics,11170,6350,18,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,Nearly every day,Nearly every day,Nearly every day,More than half the days,Nearly every day,Nearly every day,Several days,Several days,84,55,24,22,Female,Female,Yes,No,Yes,Yes,"20mg fluoxetine, once a day",No.,,No,No,No,,No,No,,No,FALSE,11404,3723,21,TRUE
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Several days,More than half the days,Several days,Not at all,Several days,More than half the days,Not at all,Not at all,61,59,0,64,Male,Male,No,No,Yes,Yes,Asma inhaler,No.,,No,No,No,,No,No,,No,FALSE,11195,9993,8,TRUE
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Several days,Several days,More than half the days,Not at all,Several days,More than half the days,Not at all,Not at all,65,60,0,23,Male,Male,Yes,No,Yes,No,"Magnesium, once a week, as part of a multivitamin tablet",No.,,No,No,No,,No,No,,No,FALSE,11265,5590,8,TRUE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,5254,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,8399,,
+I CONSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,1433,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,More than half the days,More than half the days,Nearly every day,More than half the days,Nearly every day,Nearly every day,More than half the days,Not at all,59,45,7,22,Male,Female,Yes,No,Yes,Yes,Estrogen and progesterone and lymecycline ,No.,,No,No,No,,No,No,,No,FALSE,11383,9026,18,TRUE
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Nearly every day,More than half the days,Nearly every day,More than half the days,Nearly every day,More than half the days,More than half the days,Several days,Not at all,71,82,0,54,Male,Male,Yes,No,Yes,Yes,Priadel 1000mg day. Sertraline 100mg day,No.,,No,Yes,Yes,Bipolar,No,No,,No,demographics,11260,7933,18,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Not at all,Not at all,Several days,Several days,Several days,Not at all,Not at all,Not at all,Not at all,8,7,2,,,,,,,,,,,,,,,,,,,phq_9,11133,2174,3,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,7014,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,5972,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,1885,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Not at all,Several days,Several days,Several days,More than half the days,Several days,More than half the days,Not at all,Not at all,71,61,0,22,Male,Male,Yes,No,No,,,No.,,No,No,No,,No,No,,No,FALSE,11272,8362,8,TRUE
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Several days,More than half the days,Several days,Several days,Several days,Several days,Not at all,Not at all,62,60,21,45,Female,Female,Yes,Yes,Yes,Yes,"Ashwagandha 1200mg, 2 pills a day
+HRT oestrogen and progesterone, low dose",No.,,No,Yes,No,,No,No,,No,demographics,11203,1201,8,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Several days,Several days,More than half the days,Several days,Several days,Several days,Not at all,Several days,65,60,25,27,Female,Other,Yes,No,Yes,,"Ashwaganda
+Hormone balance pills with b12 magnesuum etc
+Citalopram 20mg
+Quetiapine 30mg
+Gepetrix 100mg",No.,,No,No,No,,No,No,,No,FALSE,11331,8684,9,TRUE
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Several days,Not at all,Several days,Several days,Not at all,Several days,Several days,Several days,88,92,56,27,Female,Female,Yes,No,No,,,No.,,No,No,No,,No,No,,No,FALSE,11180,7577,7,TRUE
+I CONSENT,,NO,YES,NO,NO,NO,NO,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,safety_screening,11263,7271,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Nearly every day,Nearly every day,Several days,More than half the days,Several days,Nearly every day,Nearly every day,Several days,Several days,68,28,,30,Female,Female,Yes,No,Yes,Yes,"Propranolol occasionally for anxiety. Modafinil off-label for ADHD.
+Creatine and protein supplements.
+Melatonin occasionally for sleep.",No.,,No,No,No,,No,No,,No,FALSE,11117,1206,18,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,8860,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Nearly every day,Nearly every day,Several days,More than half the days,Nearly every day,Nearly every day,Nearly every day,More than half the days,Nearly every day,96,97,96,19,Male,Male,Yes,No,No,,,Yes! Please indicate what change you are planning to make in the near future.,Therapy,No,No,No,,Yes,Yes,"Unclear exactly what it is yet, but includes demyelination and internuclear ophthalmoplegia",No,demographics,11188,5736,23,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,4485,,
+I CONSENT,,NO,NO,YES,NO,NO,NO,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,safety_screening,11297,5824,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,Not at all,Not at all,1,3,0,,,,,,,,,,,,,,,,,,,phq_9,11311,5307,2,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,8921,,
+I CONSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,4452,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Nearly every day,Nearly every day,More than half the days,Nearly every day,More than half the days,Several days,Not at all,Not at all,80,28,0,23,Female,Female,Yes,No,Yes,,20mg of Citralopram daily and up to 40mg of propanalol when needed ,No.,,No,No,No,,No,No,,No,FALSE,11368,1299,15,TRUE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,4564,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,2371,,
+I CONSENT,,NO,NO,NO,YES,NO,NO,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,safety_screening,11394,5241,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,5161,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Not at all,Several days,Several days,Several days,Not at all,Several days,More than half the days,Several days,Several days,62,28,0,35,Male,Male,Yes,No,No,,,No.,,No,No,No,,No,No,,No,FALSE,11349,9018,8,TRUE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,2548,,
+I CONSENT,,NO,NO,NO,YES,NO,NO,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,safety_screening,11348,2571,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,Nearly every day,Nearly every day,Nearly every day,Several days,Nearly every day,Nearly every day,Nearly every day,Several days,67,68,18,21,Female,Female,Yes,No,No,,,No.,,No,Yes,No,,Yes,No,,No,demographics,11145,9352,22,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,Nearly every day,Nearly every day,Nearly every day,Several days,Nearly every day,Nearly every day,Nearly every day,Several days,71,62,19,21,Female,Female,Yes,No,No,,,No.,,No,Yes,No,,No,No,,No,demographics,11303,1618,22,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,Nearly every day,Nearly every day,Nearly every day,Several days,Nearly every day,Nearly every day,Nearly every day,Several days,72,67,22,21,Female,Female,Yes,No,Yes,Yes,"Sertraline 100mg once a day, Microgynon 30 (contraceptive) once a day, Ferrous Fumerate 210mg once a day, Mebeverine 30’mg 3 times a day, Promethazine 25mg two tablets twice a day, Propranolol 40mg as and when needed, Pyridoxine 40mg at night, Zolpidem and Diazepam 5mg as and when needed.",No.,,No,No,No,,No,No,,No,FALSE,11215,2894,22,TRUE
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,Nearly every day,Nearly every day,Nearly every day,Several days,Nearly every day,Nearly every day,Nearly every day,Several days,75,68,20,21,Female,Female,Yes,No,Yes,Yes,"Sertraline 100mg, once daily. migrogymon 30 (contraceptive, once a day), ferrous generate 210mg once a day, mebeverine 30mg three times a day, propranolol 30mg as and when needed, diazepam and zolpidem 5mg as and when needed, promethazine 25mg two tablets up to twice a day, pyridoxine 40mg at night",No.,,No,No,No,,No,No,,No,FALSE,11335,9404,22,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Several days,Not at all,More than half the days,More than half the days,Nearly every day,Several days,Nearly every day,Several days,40,64,13,18,Female,Female,No,Yes,No,,,No.,,No,No,No,,No,No,,No,demographics,11409,5223,14,
+I CONSENT,,NO,NO,NO,YES,NO,YES,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,safety_screening,11292,8786,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,More than half the days,More than half the days,Nearly every day,100,100,63,37,Female,Female,Yes,No,Yes,Yes,I take lavender extract every night to help me sleep. 15 drops instead of the recommended 10. ,No.,,No,No,No,,No,No,,No,FALSE,11280,8088,25,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Several days,Not at all,More than half the days,More than half the days,Several days,Not at all,More than half the days,Not at all,35,46,0,24,Male,Male,Yes,No,No,,,No.,,No,No,No,,No,No,,No,FALSE,11165,4044,9,TRUE
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Several days,Several days,Several days,Several days,Several days,Nearly every day,More than half the days,Several days,69,44,70,18,Female,Female,Yes,Yes,No,,,Yes! Please indicate what change you are planning to make in the near future.,Therapy,No,No,No,,No,No,,No,demographics,11374,6601,12,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,Nearly every day,Nearly every day,More than half the days,Nearly every day,More than half the days,Nearly every day,Not at all,More than half the days,84,86,94,29,Female,Female,Yes,No,Yes,Yes,"Mirtazapine 45mg once daily
+Metformin 1000mg twice daily
+Empagliflozin 25mg once daily
+Mounjaro 5mg once weekly
+Cocodamol 60mg when needed",No.,,No,No,Yes,Psychosis 2020,No,Yes,"Retinopathy- no treatment, yearly monitoring ",No,demographics,11239,3113,20,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,11129,7992,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,More than half the days,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Not at all,More than half the days,85,74,61,27,Female,Female,Yes,No,Yes,No,D3 pills ,Yes! Please indicate what change you are planning to make in the near future.,Psycho analytic therapy ,No,No,No,,No,No,,No,FALSE,11302,2720,21,TRUE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,8196,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,5162,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,8308,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,Several days,Several days,Several days,Several days,More than half the days,Nearly every day,Not at all,Not at all,52,22,0,20,Male,Male,Yes,No,No,,,No.,,No,No,No,,No,No,,No,FALSE,11116,1110,11,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,Nearly every day,More than half the days,More than half the days,More than half the days,More than half the days,More than half the days,Not at all,Several days,73,85,,21,Male,Male,Yes,No,No,,,No.,,No,Yes,No,,No,No,,No,demographics,11119,3461,16,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,7405,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,More than half the days,Nearly every day,More than half the days,Nearly every day,Nearly every day,More than half the days,Several days,Not at all,61,59,3,38,Male,Male,Yes,No,No,,,No.,,No,No,No,,No,No,,No,FALSE,11199,2293,17,TRUE
+I CONSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,8131,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,More than half the days,More than half the days,More than half the days,Several days,Several days,More than half the days,More than half the days,Not at all,70,65,11,20,Male,Male,Yes,No,Yes,Yes,Concerta XL ADHD medication 72mg daily ,No.,,No,No,No,,No,No,,No,FALSE,11396,8272,13,TRUE
+I CONSENT,,NO,NO,NO,YES,NO,NO,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,safety_screening,11126,1771,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,More than half the days,Several days,Nearly every day,Several days,Nearly every day,Nearly every day,Not at all,Several days,67,76,42,18,Female,Male,Yes,No,Yes,Yes,Daily fluoxetine (20mg) tablets,No.,,No,No,No,,No,No,,No,FALSE,11372,3864,16,TRUE
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,More than half the days,Several days,Nearly every day,Not at all,More than half the days,Several days,Not at all,Several days,39,55,14,22,Female,Female,Yes,Yes,No,,,No.,,No,No,No,,No,No,,No,demographics,11326,2299,12,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,More than half the days,Nearly every day,More than half the days,Nearly every day,Several days,Nearly every day,Nearly every day,Not at all,61,36,6,20,Male,Male,Yes,No,No,,,No.,,No,Yes,Yes,Suspected psychosis (early stage 3 years ago ),No,No,,No,demographics,11301,8500,19,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,11223,4687,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,More than half the days,Nearly every day,Nearly every day,More than half the days,More than half the days,Nearly every day,More than half the days,Not at all,69,60,31,19,Female,Female,Yes,No,Yes,Yes,10mg escitalopram once a day,No.,,No,No,No,,No,No,,No,FALSE,11206,3191,18,TRUE
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,More than half the days,Not at all,More than half the days,Several days,Nearly every day,More than half the days,Several days,Not at all,84,69,0,23,Male,Male,No,No,No,,,,,,,,,,,,,FALSE,11256,9587,12,
+I CONSENT,,NO,NO,YES,NO,NO,NO,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,safety_screening,11407,1228,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,2477,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Several days,More than half the days,More than half the days,Not at all,Not at all,Several days,More than half the days,Several days,49,24,59,26,Female,Female,Yes,Yes,No,,,Yes! Please indicate what change you are planning to make in the near future.,Mentorship provided by Disable student allowance ,No,No,No,,No,No,,No,demographics,11311,4810,10,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,Nearly every day,Nearly every day,Several days,More than half the days,Nearly every day,Several days,Several days,Nearly every day,79,46,71,19,Male,Male,Yes,No,No,,,No.,,No,No,No,,No,No,,No,FALSE,11184,3065,19,TRUE
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,More than half the days,Nearly every day,Nearly every day,Nearly every day,Not at all,Nearly every day,Several days,Not at all,63,82,0,19,Male,Other,Yes,No,Yes,Yes,"Insulin - variable dose depending on the amount of carbohydrates consumed - taken before meals via insulin pump
+Creatine monohydrate - 3g daily",No.,,No,No,No,,No,No,,No,FALSE,11286,1694,16,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Several days,Nearly every day,Several days,Several days,Not at all,87,72,0,23,Female,Female,Yes,No,No,,,No.,,No,No,No,,No,No,,No,FALSE,11221,4224,18,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,9310,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,Nearly every day,Nearly every day,Several days,Not at all,More than half the days,More than half the days,Not at all,Several days,39,71,29,29,Female,Female,Yes,No,Yes,Yes,Melatonin 3mg,No.,,No,No,No,,No,No,,No,FALSE,11188,3245,14,TRUE
+I CONSENT,,NO,NO,YES,YES,NO,NO,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,safety_screening,11234,3070,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Not at all,Several days,Not at all,Several days,Not at all,More than half the days,Several days,Not at all,Several days,19,8,60,21,Female,Female,No,No,No,,,No.,,No,No,No,,No,No,,No,FALSE,11160,6480,6,TRUE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,7033,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,3510,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Several days,More than half the days,More than half the days,Nearly every day,Several days,More than half the days,More than half the days,Several days,37,65,50,19,Female,Female,Yes,No,Yes,Yes,sertraline once a day,No.,,No,No,No,,No,No,,No,FALSE,11243,6558,15,TRUE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,7195,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,11339,3166,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,9162,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,More than half the days,Not at all,Several days,Not at all,Nearly every day,Several days,Not at all,Not at all,65,75,9,19,Male,Male,Yes,No,No,,,No.,,No,No,No,,No,No,,No,FALSE,11297,8509,8,TRUE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,1047,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,1903,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,More than half the days,Nearly every day,Nearly every day,Several days,Nearly every day,Nearly every day,Several days,Nearly every day,61,62,37,18,Female,Female,Yes,Yes,No,,,No.,,No,No,No,,No,No,,No,demographics,11388,7738,21,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,Nearly every day,Nearly every day,More than half the days,More than half the days,Nearly every day,More than half the days,Several days,Several days,83,73,75,20,Male,Male,Yes,No,No,,,No.,,No,No,No,,No,No,,No,FALSE,11236,7631,19,TRUE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,9949,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Not at all,Not at all,Several days,Several days,Not at all,Not at all,Several days,Not at all,Not at all,31,19,0,,,,,,,,,,,,,,,,,,,phq_9,11309,8937,3,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,More than half the days,Several days,Nearly every day,Not at all,Several days,Several days,Not at all,Not at all,63,40,0,22,Female,Female,Yes,Yes,Yes,Yes,"vitamin d, sertraline (although have not been taking in past few weeks) ",No.,,No,No,No,,No,No,,No,demographics,11331,6046,9,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Several days,Nearly every day,More than half the days,More than half the days,Several days,Nearly every day,Several days,Several days,39,51,6,38,Female,Female,Yes,Yes,Yes,Yes,"Sertraline, various supplements ",No.,,No,No,No,,No,No,,No,demographics,11178,4691,15,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,9093,,
+I CONSENT,,NO,YES,NO,YES,NO,NO,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,safety_screening,11194,1906,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,5952,,
+I CONSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,9020,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,1834,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Several days,Not at all,Several days,Several days,More than half the days,More than half the days,Not at all,Not at all,29,,21,29,Female,Female,Yes,No,No,,,Yes! Please indicate what change you are planning to make in the near future.,I am considering therapy,No,No,No,,No,No,,No,FALSE,11323,1823,8,TRUE
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,Nearly every day,Nearly every day,Nearly every day,More than half the days,More than half the days,More than half the days,Several days,Several days,64,37,23,21,Female,Female,Yes,No,Yes,Yes,Sertraline 150mg daily ,No.,,No,Yes,No,,No,No,,No,demographics,11351,9705,19,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,More than half the days,Nearly every day,Nearly every day,Nearly every day,Several days,Nearly every day,Several days,Several days,80,56,73,20,Female,Female,Yes,No,Yes,Yes,Fluoxetine 20mg daily ,No.,,No,No,No,,No,No,,No,FALSE,11392,3643,18,TRUE
+I CONSENT,,NO,NO,YES,NO,NO,NO,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,safety_screening,11378,2364,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,More than half the days,Nearly every day,Nearly every day,Not at all,Nearly every day,More than half the days,Several days,Not at all,76,61,18,20,Female,Other,Yes,No,Yes,Yes,"Fluoxetine 30mg 1x daily
+Buspirone 15mg 2x daily",No.,,No,No,No,,No,Yes,"1x congenital cataract in left eye, removed 20 years ago, now have Binocular Vision Dysfunction",No,FALSE,11252,3026,16,TRUE
+I CONSENT,,NO,NO,YES,NO,NO,NO,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,safety_screening,11118,4058,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Several days,Several days,Several days,Several days,Several days,Several days,Not at all,Not at all,,,,,,,,,,,,,,,,,,,,,,FALSE,11143,9610,7,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,2370,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Not at all,More than half the days,Several days,Several days,Several days,Not at all,Several days,More than half the days,Not at all,22,9,0,20,Female,Female,No,Yes,Yes,Yes,Elvanse 60mg once daily for adhd symptoms (massively helps with energy levels and regulation) and iron tablets and antihistamines ,Yes! Please indicate what change you are planning to make in the near future.,Starting sertraline on the 17th ,No,No,No,,No,No,,No,demographics,11350,5484,8,
+I CONSENT,,NO,NO,NO,NO,NO,YES,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,safety_screening,11381,7393,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,4204,,
+I CONSENT,,NO,YES,NO,YES,NO,YES,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,safety_screening,11266,6630,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,More than half the days,Nearly every day,Nearly every day,Not at all,Nearly every day,More than half the days,Nearly every day,Not at all,74,26,0,23,Female,Female,Yes,No,No,,,No.,,No,No,No,,No,No,,No,FALSE,11338,6130,18,TRUE
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,More than half the days,More than half the days,Several days,Nearly every day,Several days,Not at all,Not at all,Several days,35,40,24,20,Male,Male,Yes,No,No,,,No.,,No,Yes,No,,No,No,,No,demographics,11354,4356,11,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Nearly every day,Nearly every day,More than half the days,More than half the days,More than half the days,Several days,Not at all,Several days,Several days,63,34,62,26,Female,Other,Yes,Yes,Yes,No,463,No.,,No,No,No,,No,No,,No,demographics,21295,9044,15,
+I CONSENT,,NO,NO,NO,YES,YES,YES,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,safety_screening,21149,4804,,
+I CONSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,9616,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,Several days,Several days,Several days,More than half the days,Several days,Not at all,Not at all,Not at all,51,65,0,23,Female,Female,Yes,No,Yes,Yes,Sertraline 100 mg once a day,No.,,No,No,No,,No,No,,No,FALSE,21276,6778,8,TRUE
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Not at all,Not at all,Several days,Not at all,Not at all,Several days,Not at all,Not at all,10,82,0,,,,,,,,,,,,,,,,,,,phq_9,21379,2182,3,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,More than half the days,Nearly every day,Nearly every day,Several days,More than half the days,Several days,Several days,Not at all,73,72,0,18,Female,Female,Yes,No,No,,,No.,,No,No,No,,No,No,,No,FALSE,21272,1316,15,TRUE
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,More than half the days,Nearly every day,Nearly every day,Nearly every day,Nearly every day,More than half the days,More than half the days,Not at all,84,81,0,22,Female,Female,Yes,No,Yes,Yes,"L-Theanine
+ ",No.,,No,No,No,,No,No,,No,FALSE,21240,1390,20,TRUE
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Several days,More than half the days,More than half the days,More than half the days,Several days,Not at all,Not at all,Not at all,63,79,0,22,Female,Female,Yes,Yes,No,,,No.,,No,No,No,,No,No,,No,demographics,21164,2423,9,
+I CONSENT,,NO,NO,NO,NO,YES,NO,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,safety_screening,21177,8976,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,4634,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,Nearly every day,Nearly every day,Several days,Not at all,Nearly every day,Nearly every day,Not at all,Several days,79,71,,35,Female,Female,Yes,No,Yes,Yes,Escitalopram 15mg,No.,,No,No,No,,No,No,,No,FALSE,21313,9176,16,TRUE
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,21390,4793,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,More than half the days,Nearly every day,More than half the days,Nearly every day,More than half the days,Nearly every day,Several days,Several days,,,,,,,,,,,,,,,,,,,,,,FALSE,21370,7650,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,8640,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,More than half the days,Nearly every day,More than half the days,More than half the days,More than half the days,More than half the days,Several days,Several days,62,83,18,20,Female,Female,Yes,No,Yes,Yes,"Sertraline, 50mg, nearly everyday",Yes! Please indicate what change you are planning to make in the near future.,doctors appointment next week - will discuss potential change of medication or therapy/further diagnosis,No,No,No,,No,No,,No,FALSE,21136,2811,17,TRUE
+I CONSENT,,NO,NO,YES,NO,NO,NO,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,safety_screening,21207,8723,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Nearly every day,Several days,Nearly every day,More than half the days,Nearly every day,More than half the days,More than half the days,Several days,More than half the days,69,74,86,19,Female,Female,Yes,No,No,,,Yes! Please indicate what change you are planning to make in the near future.,"I have already begun therapy, though I am only a couple of weeks in.",No,No,No,,No,No,,No,FALSE,21193,3677,19,TRUE
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Not at all,More than half the days,Several days,Not at all,Not at all,Not at all,More than half the days,Not at all,1,0,0,20,Male,Male,Yes,Yes,Yes,Yes,Omega 3 daily and vitamin D tablets once a week ,No.,,No,No,No,,No,No,,No,demographics,21289,5658,6,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Several days,More than half the days,Nearly every day,Not at all,Nearly every day,84,78,40,20,Male,Male,Yes,No,No,,,No.,,No,Yes,No,,No,No,,No,demographics,21238,3703,21,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,9908,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,5350,,
+I CONSENT,,NO,NO,YES,YES,NO,YES,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,safety_screening,21115,9567,,
+I CONSENT,,NO,NO,YES,NO,NO,NO,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,safety_screening,21333,9691,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Nearly every day,Nearly every day,More than half the days,Nearly every day,Several days,Not at all,Not at all,Not at all,72,43,0,22,Male,Male,Yes,Yes,Yes,No,"Just a multivitamin.
+Once a day
+One pill",No.,,No,Yes,No,,No,No,,No,demographics,21171,1644,13,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,More than half the days,Nearly every day,Nearly every day,Several days,More than half the days,Not at all,Not at all,Several days,71,69,56,30,Other,Other,Yes,No,Yes,Yes,"Magnesium, calcium, vit D tablets daily. Propranolol a few times a week. Can find out exact doses if needed. ",No.,,No,Yes,No,,No,No,,No,demographics,21271,7530,14,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Nearly every day,More than half the days,More than half the days,Nearly every day,More than half the days,Nearly every day,More than half the days,More than half the days,Nearly every day,76,75,81,19,Female,Female,Yes,No,No,,,No.,,No,No,No,,No,No,,No,FALSE,21114,6980,22,TRUE
+I CONSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,9689,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,7702,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Nearly every day,Nearly every day,Not at all,More than half the days,Not at all,More than half the days,Several days,Not at all,Nearly every day,71,19,93,29,Female,Female,Yes,No,No,,,No.,,No,No,No,,No,No,,No,FALSE,21153,9037,14,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,4411,,
+I CONSENT,,NO,NO,NO,YES,NO,NO,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,safety_screening,21296,1201,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,6864,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,3209,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,21343,1660,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Nearly every day,Nearly every day,More than half the days,Nearly every day,Nearly every day,Nearly every day,More than half the days,Several days,Several days,,,,,,,,,,,,,,,,,,,,,,FALSE,21208,3891,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,1160,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Nearly every day,More than half the days,Nearly every day,Nearly every day,Nearly every day,More than half the days,Nearly every day,Nearly every day,Nearly every day,90,93,64,22,Female,Female,Yes,No,Yes,Yes,"methylphenidate 54mg OD, fluoxetine 40mg OD",No.,,No,No,No,,No,No,,No,FALSE,21189,7706,25,TRUE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,2709,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Not at all,Not at all,Not at all,Several days,Not at all,Several days,Not at all,Not at all,Not at all,0,0,0,,,,,,,,,,,,,,,,,,,phq_9,21242,6587,2,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,Several days,Several days,More than half the days,Several days,Several days,Several days,Not at all,Several days,70,84,18,22,Male,Female,Yes,No,No,,,No.,,No,No,No,,No,No,,No,FALSE,21231,3840,10,TRUE
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,More than half the days,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,More than half the days,Not at all,78,54,3,20,Male,Male,Yes,Yes,No,,,No.,,No,No,No,,No,No,,No,demographics,21352,9676,20,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,More than half the days,Nearly every day,Several days,Several days,More than half the days,Not at all,Not at all,Not at all,71,66,0,20,Male,Male,Yes,No,No,,,No.,,No,No,No,,No,No,,No,FALSE,21399,9329,10,TRUE
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,More than half the days,Nearly every day,More than half the days,More than half the days,Several days,Not at all,Not at all,Not at all,82,67,0,20,Male,Male,Yes,No,No,,,No.,,No,No,No,,No,No,,No,FALSE,21308,1521,11,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Several days,More than half the days,Several days,More than half the days,Not at all,Nearly every day,Several days,Not at all,,,,,,,,,,,,,,,,,,,,,,FALSE,21220,8894,,
+I CONSENT,,NO,NO,NO,NO,YES,NO,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,safety_screening,21373,7615,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,5310,,
+I CONSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,1973,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,5592,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,More than half the days,More than half the days,Nearly every day,Several days,Nearly every day,Nearly every day,Not at all,Several days,65,32,77,20,Male,Male,No,No,No,,,No.,,No,No,No,,No,No,,No,FALSE,21159,2061,16,TRUE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,5618,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,7358,,
+I CONSENT,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,4528,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Nearly every day,More than half the days,More than half the days,More than half the days,More than half the days,More than half the days,Nearly every day,Nearly every day,80,30,73,18,Female,Female,Yes,Yes,No,,,No.,,No,No,No,,No,No,,No,demographics,21183,4096,20,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,7131,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Several days,Several days,73,59,11,20,Female,Female,Yes,No,Yes,No,Ivabradine 2.5mg twice a day,No.,,No,No,No,,No,No,,No,FALSE,21122,1766,23,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Several days,Nearly every day,Nearly every day,More than half the days,Several days,Nearly every day,Nearly every day,Not at all,64,61,0,20,Female,Female,Yes,No,No,,,No.,,No,No,No,,No,No,,No,FALSE,21113,5037,17,TRUE
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Nearly every day,More than half the days,Nearly every day,Nearly every day,Nearly every day,More than half the days,Nearly every day,More than half the days,Nearly every day,81,82,71,19,Female,Female,Yes,No,Yes,Yes,"Paroxetine 40mg 
+sometimes when I feel terrible",No.,,Yes,No,Yes,bipolar ,No,No,,No,demographics,21265,2913,24,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,1991,,
+I CONSENT,,NO,NO,NO,YES,NO,NO,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,safety_screening,21201,5136,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Nearly every day,Several days,Nearly every day,Nearly every day,Nearly every day,More than half the days,More than half the days,More than half the days,Several days,,76,29,18,Female,Female,Yes,No,Yes,Yes,I just take iron and vitamin supplements ,No.,,No,No,No,,No,No,,No,FALSE,21294,6243,20,none_available
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,21141,2004,,
+I CONSENT,,NO,NO,NO,YES,NO,NO,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,safety_screening,21170,9764,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Several days,More than half the days,More than half the days,More than half the days,Several days,Several days,Not at all,Not at all,,71,8,19,Female,Female,Yes,Yes,No,,,No.,,No,No,No,,No,No,,No,demographics,21359,2329,10,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Several days,More than half the days,More than half the days,More than half the days,Nearly every day,Nearly every day,Not at all,Not at all,44,51,0,22,Female,Female,Yes,Yes,Yes,Yes,"Propranolol 40mg. I take it as and when, not daily. Specifically for anxiety ",No.,,No,No,No,,No,No,,Yes,demographics,21405,5657,14,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Several days,More than half the days,More than half the days,Several days,Several days,Several days,Not at all,Not at all,22,29,0,20,Female,Female,No,Yes,No,,,No.,,No,No,No,,No,No,,No,demographics,21300,6534,9,
+I CONSENT,,NO,NO,YES,YES,NO,NO,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,safety_screening,21257,5971,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,9540,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,More than half the days,Several days,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Several days,Not at all,64,76,8,19,Female,Female,Yes,No,Yes,Yes,"Fluoxetine 40mg, daily. ",Yes! Please indicate what change you are planning to make in the near future.,More therapy,No,No,No,,No,No,,No,FALSE,21369,2196,18,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,More than half the days,More than half the days,Nearly every day,Nearly every day,More than half the days,More than half the days,Several days,Not at all,76,74,8,19,Female,Female,Yes,No,Yes,Yes,"Fluoxetine 40mg, daily",Yes! Please indicate what change you are planning to make in the near future.,More therapy,No,No,No,,No,No,,No,FALSE,21278,2123,17,TRUE
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,More than half the days,Nearly every day,Nearly every day,More than half the days,More than half the days,Nearly every day,Several days,Several days,63,,41,18,Female,Female,Yes,No,No,,,No.,,No,No,No,,No,No,,No,FALSE,21131,2177,19,TRUE
+I CONSENT,,NO,NO,NO,YES,NO,YES,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,safety_screening,21225,1503,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,5938,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Not at all,More than half the days,Nearly every day,More than half the days,Several days,Several days,Not at all,Not at all,27,39,5,21,Female,Female,No,Yes,No,,,No.,,No,No,No,,No,No,,No,demographics,21290,9505,10,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Several days,More than half the days,More than half the days,Several days,Several days,More than half the days,Not at all,Several days,58,17,7,20,Female,Female,Yes,Yes,No,,,No.,,No,No,No,,No,No,,No,demographics,21386,7688,11,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,More than half the days,More than half the days,More than half the days,Nearly every day,More than half the days,More than half the days,Several days,More than half the days,82,60,61,18,Female,Female,Yes,Yes,No,,,No.,,No,No,No,,No,No,,No,demographics,21281,8551,18,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Not at all,Several days,Several days,Not at all,Not at all,Not at all,Several days,Not at all,59,31,0,,,,,,,,,,,,,,,,,,,phq_9,21298,4534,4,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Nearly every day,More than half the days,More than half the days,Nearly every day,Nearly every day,More than half the days,Nearly every day,More than half the days,Several days,76,81,61,18,Female,Female,Yes,Yes,No,,,No.,,No,No,No,,No,No,,No,demographics,21232,6993,21,
+I CONSENT,,NO,NO,NO,YES,NO,NO,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,safety_screening,21358,8563,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,More than half the days,Nearly every day,Nearly every day,Several days,Not at all,More than half the days,Not at all,Several days,70,31,64,20,Female,Female,Yes,No,Yes,Yes,"Sertraline, 50mg, Every day",No.,,No,No,No,,No,No,,No,FALSE,21316,1239,14,TRUE
+I CONSENT,,NO,NO,YES,NO,NO,NO,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,safety_screening,21195,8710,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Not at all,Not at all,Several days,Several days,Not at all,Not at all,Several days,Several days,Not at all,9,30,0,,,,,,,,,,,,,,,,,,,phq_9,21314,6081,4,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Several days,Several days,Several days,Several days,Several days,Several days,Not at all,Not at all,26,61,12,18,Male,Male,No,Yes,No,,,No.,,No,No,No,,No,No,,No,demographics,21227,9689,7,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Several days,Several days,Several days,Several days,Several days,Several days,Several days,Several days,,,,,,,,,,,,,,,,,,,,,,FALSE,21394,2708,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Several days,Several days,More than half the days,Several days,More than half the days,Several days,Not at all,Several days,70,34,29,36,Female,Female,Yes,No,Yes,Yes,"Mirtrazapine (45 mg)per evening
+Clonazepam (.5 mg) per morning",No.,,No,No,No,,No,No,,No,FALSE,21140,3958,10,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Nearly every day,More than half the days,Several days,More than half the days,Nearly every day,Nearly every day,Several days,Nearly every day,Nearly every day,72,82,81,20,Female,Female,Yes,Yes,Yes,Yes,Ferrous Sulphate 200mg + Folic acid 5mg both taken once a day for anaemia.,No.,,No,No,No,,No,No,,No,demographics,21260,6791,21,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Nearly every day,More than half the days,Several days,Nearly every day,More than half the days,Several days,Not at all,Not at all,Several days,74,13,19,19,Female,Female,Yes,No,No,,,No.,,No,No,No,,No,No,,No,FALSE,21353,1349,13,TRUE
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,21254,1523,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Nearly every day,More than half the days,Nearly every day,Nearly every day,Several days,Several days,More than half the days,Several days,Several days,61,58,33,19,Female,Female,Yes,No,No,,,Yes! Please indicate what change you are planning to make in the near future.,I'm speaking to the GP regarding starting my antidepressants again,No,No,No,,No,No,,No,FALSE,21246,7574,17,TRUE
+I CONSENT,,NO,NO,NO,YES,NO,NO,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,safety_screening,21135,2404,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Not at all,Not at all,More than half the days,Several days,Not at all,Several days,Not at all,Not at all,Not at all,55,20,0,,,,,,,,,,,,,,,,,,,phq_9,21253,2233,4,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,21355,9235,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,Several days,Nearly every day,More than half the days,Nearly every day,Several days,More than half the days,More than half the days,Several days,,,,,,,,,,,,,,,,,,,,,,FALSE,21138,1962,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Nearly every day,More than half the days,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Not at all,Not at all,76,66,8,24,Female,Female,Yes,No,Yes,Yes,"Creatine monohydrate, 5g per day",No.,,No,No,No,,No,No,,No,FALSE,21186,1272,20,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,More than half the days,Nearly every day,Several days,More than half the days,More than half the days,Not at all,Not at all,Several days,66,71,54,19,Female,Female,Yes,No,No,,,No.,,No,Yes,No,,No,No,,No,demographics,21282,2344,13,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,Nearly every day,Nearly every day,Nearly every day,Several days,More than half the days,Nearly every day,More than half the days,Nearly every day,76,83,65,23,Male,Male,Yes,No,No,,,No.,,No,No,No,,No,No,,No,FALSE,21261,5686,22,TRUE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,3687,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,More than half the days,More than half the days,More than half the days,Several days,More than half the days,Nearly every day,Not at all,Several days,61,64,18,25,Female,Female,Yes,No,Yes,Yes,"Venlafaxine 225mg OD
+Aripiprazole 5mg OD",No.,,Yes,No,No,,No,No,,No,demographics,21237,3464,14,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,Nearly every day,More than half the days,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Several days,Nearly every day,88,93,69,20,Female,Female,Yes,Yes,Yes,No,flouexetine 20mg a day,No.,,No,Yes,No,,No,No,,No,demographics,21291,6386,23,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,0,1,0,,,,,,,,,,,,,,,,,,,phq_9,21185,7302,0,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,2778,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,3067,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,More than half the days,Nearly every day,Nearly every day,More than half the days,Several days,More than half the days,More than half the days,Several days,59,76,29,19,Male,Male,Yes,No,Yes,Yes,Sertraline 100mg daily,No.,,No,Yes,No,,No,No,,No,demographics,21249,4127,18,
+I CONSENT,,NO,NO,NO,YES,NO,NO,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,safety_screening,21345,1606,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Not at all,82,92,0,32,Female,Female,Yes,No,Yes,Yes,"Citalopram (40mg), Trazodone (100 mg), Promethazine (20mg), Desogestrel (x2 tabs daily).",Yes! Please indicate what change you are planning to make in the near future.,Titration onto ADHD medication following recent diagnosis,No,Yes,No,,No,No,,No,demographics,21383,4809,24,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,Several days,More than half the days,Several days,More than half the days,Several days,More than half the days,Several days,Not at all,60,49,19,19,Female,Female,Yes,Yes,Yes,Yes,40mg fluoxetine daily,No.,,No,No,No,,No,No,,No,demographics,21337,6460,12,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,1841,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,4664,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,Not at all,13,7,0,,,,,,,,,,,,,,,,,,,phq_9,21259,2647,0,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,More than half the days,Nearly every day,Nearly every day,Nearly every day,Several days,Nearly every day,More than half the days,Not at all,60,61,9,20,Female,Female,Yes,No,Yes,Yes,"fluoxetine 20mg daily, for over 2 years ",No.,,No,No,No,,No,No,,No,FALSE,21156,6351,19,TRUE
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,Several days,Nearly every day,Nearly every day,More than half the days,Several days,Several days,Not at all,Several days,62,71,13,20,Female,Female,Yes,No,No,,,No.,,No,No,No,,No,No,,No,FALSE,21130,1086,14,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,8730,,
+I CONSENT,,NO,NO,NO,YES,NO,NO,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,safety_screening,21411,3905,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,More than half the days,Several days,More than half the days,More than half the days,Several days,Several days,Not at all,Several days,66,,34,18,Female,Female,Yes,No,No,,,No.,,No,No,No,,No,No,,No,FALSE,21363,5226,12,TRUE
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,Several days,Nearly every day,Nearly every day,More than half the days,Several days,More than half the days,Not at all,Not at all,69,39,2,20,Male,Male,Yes,No,Yes,Yes,"Sertraline 50mg, once per day",No.,,No,No,No,,No,No,,No,FALSE,21132,6476,14,TRUE
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Not at all,Not at all,Several days,Several days,More than half the days,Not at all,Nearly every day,Several days,Not at all,24,72,0,18,Female,Female,Yes,No,No,,,No.,,No,No,No,,No,No,,No,FALSE,21364,1603,8,TRUE
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,More than half the days,Nearly every day,Several days,More than half the days,More than half the days,More than half the days,Several days,Not at all,65,47,3,19,Female,Female,Yes,No,No,,,No.,,No,No,No,,No,No,,No,FALSE,21112,7475,15,TRUE
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,5154,,
+I CONSENT,,NO,NO,NO,NO,NO,YES,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,safety_screening,21123,2831,,
+I CONSENT,,NO,NO,NO,YES,NO,NO,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,safety_screening,21341,3125,,
+I CONSENT,,NO,NO,NO,YES,NO,NO,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,safety_screening,21213,8253,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,More than half the days,Nearly every day,84,86,72,24,Female,Female,Yes,No,Yes,Yes,"Sertline 50mg, every day for a year and a half",No.,,No,Yes,No,,No,No,,No,demographics,21128,6987,24,
+I CONSENT,,YES,YES,YES,YES,YES,YES,YES,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,safety_screening,21283,3585,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,Several days,More than half the days,Nearly every day,More than half the days,More than half the days,Several days,Several days,Several days,38,39,15,20,Female,Female,Yes,Yes,Yes,Yes,"SSRIs (fluoxetine) - 60mg a day 
+Rigevidon (contraceptive pill) - one a day 
+Folic acid - 5mg a day 
+Vitamin B12  ",No.,,No,No,No,,No,No,,No,demographics,21344,2717,15,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,7746,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Several days,Several days,More than half the days,Several days,More than half the days,Several days,More than half the days,Not at all,66,72,4,21,Female,Female,Yes,No,No,,,Yes! Please indicate what change you are planning to make in the near future.,Therapy,No,No,No,,No,No,,Yes,demographics,21293,3450,11,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Not at all,Not at all,Several days,Not at all,Not at all,Not at all,Not at all,Not at all,0,9,0,,,,,,,,,,,,,,,,,,,phq_9,21137,9825,2,
+I CONSENT,,NO,NO,NO,NO,NO,YES,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,safety_screening,21270,2282,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Nearly every day,Nearly every day,Nearly every day,Nearly every day,More than half the days,Nearly every day,Nearly every day,Several days,Nearly every day,85,71,86,19,Female,Other,Yes,No,No,,,No.,,No,No,No,,No,No,,No,FALSE,21161,4841,24,TRUE
+I CONSENT,,NO,NO,YES,NO,NO,NO,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,safety_screening,21251,2497,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Nearly every day,Several days,Nearly every day,Several days,Several days,Several days,Nearly every day,Nearly every day,Not at all,65,61,0,18,Female,Female,Yes,No,Yes,Yes,"Fluoxetine 30mg
+Methylphenidate 40mg",No.,,No,Yes,No,,No,No,,No,demographics,21230,2482,16,
+I CONSENT,,NO,NO,YES,YES,NO,NO,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,safety_screening,21361,9808,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,Several days,Nearly every day,Several days,Several days,Several days,Nearly every day,Nearly every day,Not at all,79,56,3,18,Female,Female,Yes,No,Yes,Yes,"Fluoxetine 30mg
+Methylphenidate 40mg",Yes! Please indicate what change you are planning to make in the near future.,Strobe light therapy ,No,Yes,No,,No,No,,Yes,demographics,21174,2445,15,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Nearly every day,More than half the days,More than half the days,More than half the days,Several days,More than half the days,Nearly every day,Nearly every day,Several days,79,61,38,18,Female,Female,Yes,No,Yes,Yes,"Fluoxetine 30mg
+Methylphenidate 40mg",No.,,No,No,No,,No,No,,No,FALSE,21264,3428,19,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,More than half the days,Nearly every day,More than half the days,Nearly every day,Several days,More than half the days,Nearly every day,Several days,83,76,84,19,Female,Female,Yes,No,Yes,No,Ashwagandha KSM-66 600mg and saffron 30mg once a day ,No.,,No,No,No,,No,No,,No,FALSE,21346,3085,19,TRUE
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,More than half the days,Several days,More than half the days,More than half the days,More than half the days,More than half the days,Not at all,Not at all,72,82,7,43,Female,Female,Yes,No,No,,,Yes! Please indicate what change you are planning to make in the near future.,I might start taking hormones ,No,No,No,,No,No,,No,FALSE,21391,9526,13,TRUE
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,More than half the days,Several days,Nearly every day,Not at all,Several days,Several days,More than half the days,Not at all,70,39,8,44,Male,Male,Yes,No,Yes,Yes,"Sertaline 100mg, Lamotrigine 100mg x2 ",No.,,No,Yes,Yes,Bipolar / Cyclothymia,No,No,,No,demographics,21154,4682,11,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,Nearly every day,More than half the days,Nearly every day,Several days,Nearly every day,Nearly every day,Several days,Several days,71,83,0,19,Female,Female,Yes,No,No,,,No.,,No,No,No,,No,No,,No,FALSE,21342,3155,19,TRUE
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Not at all,Several days,Several days,Several days,Not at all,Not at all,Not at all,Not at all,28,28,0,,,,,,,,,,,,,,,,,,,phq_9,21192,1184,4,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Several days,Several days,76,65,9,19,Female,Female,Yes,No,No,,,No.,,No,No,No,,No,No,,No,FALSE,21226,8465,22,TRUE
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,More than half the days,More than half the days,Nearly every day,More than half the days,Several days,More than half the days,More than half the days,Several days,Several days,63,40,18,18,Female,Female,Yes,No,No,,,No.,,No,No,No,,No,No,,No,FALSE,21268,2685,16,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,7010,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,8184,,
+I CONSENT,,NO,NO,YES,NO,NO,NO,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,safety_screening,21306,3313,,
+I CONSENT,,NO,NO,YES,NO,YES,YES,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,safety_screening,21162,3113,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,9152,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE,,7739,,
+I CONSENT,,NO,NO,NO,NO,NO,NO,NO,Several days,Nearly every day,Nearly every day,Nearly every day,Nearly every day,Several days,Not at all,More than half the days,More than half the days,70,64,62,18,Female,Female,Yes,No,No,,,No.,,No,No,No,,No,No,,No,FALSE,21258,2302,18,TRUE
+I CONSENT,,NO,NO,NO,NO,NO,YES,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,safety_screening,21216,5193,,
+I CONSENT,,NO,NO,YES,NO,NO,NO,NO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,safety_screening,21198,6288,,
