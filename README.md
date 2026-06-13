@@ -270,6 +270,25 @@ Figures should reproduce correctly using available system fonts, although minor 
 
 ---
 
+## Licence and Reuse
+
+This repository contains several different kinds of material, including analysis code, de-identified/derived study datasets, supplementary outputs, exported figures, music/audio stimulus materials, SLS sequence documentation, questionnaire materials, and other study documentation. These materials are not necessarily covered by the same reuse permissions.
+
+Unless otherwise stated:
+
+* analysis code and scripts are released under the MIT Licence;
+* supplementary materials, exported figures, and derived/anonymised datasets are released under CC BY 4.0 where permitted by Sussex ethics, data governance, participant consent, and third-party rights;
+* music/audio stimulus materials are subject to a separate rights notice and are not covered by the MIT Licence;
+* SLS sequence files, device-specific implementation materials, questionnaire materials, and third-party assets may be subject to separate permissions or restrictions.
+
+The MIT Licence applies to the analysis code and scripts only. It does not grant permission to reuse, redistribute, remix, adapt, or commercially exploit music/audio materials, proprietary device materials, questionnaire instruments, or third-party assets included or described in this repository.
+
+The music files in the `music` branch were created by Gavin Lawson and are included for stimulus transparency and study reproducibility. Reuse, redistribution, remixing, or adaptation of these audio files outside the context of reviewing or reproducing this study may require permission from the relevant rights holder(s), unless an explicit licence is provided alongside those files.
+
+This repository does not include RX1 device sequence files, device-control code, firmware, or instructions for programming or modifying the RX1. Shared SLS sequence information should be interpreted as scientific stimulus documentation rather than a redistributable hardware-control package.
+
+---
+
 ## Citation
 
 If you use this repository, please cite the accompanying manuscript:
