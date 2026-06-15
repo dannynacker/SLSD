@@ -3,7 +3,7 @@
 Repository accompanying:
 
 **Nacker, D., Seth, A. K., Schwartzman, D. J., et al. (2026).**
-**Stroboscopic Light Stimulation for Depression: Safety, Tolerability, and Feasibility in a Staged Early-Phase Study**
+**Stroboscopic Light Stimulation in Adults Reporting Depressive Symptoms: Safety, Tolerability, Feasibility, and Active-Comparator Development in a Staged Early-Phase Study**
 
 _manuscript in preparation_
 
@@ -293,7 +293,7 @@ This repository does not include RX1 device sequence files, device-control code,
 
 If you use this repository, please cite the accompanying manuscript:
 
-> Nacker, D., Seth, A. K., Schwartzman, D. J., et al. (2026). *Stroboscopic Light Stimulation for Depression: Safety, Tolerability, and Feasibility in a Staged Early-Phase Study.*
+> Nacker, D., Seth, A. K., Schwartzman, D. J., et al. (2026). *Stroboscopic Light Stimulation in Adults Reporting Depressive Symptoms: Safety, Tolerability, Feasibility, and Active-Comparator Development in a Staged Early-Phase Study.*
 
 ---
 
