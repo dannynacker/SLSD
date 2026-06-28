@@ -5,7 +5,11 @@ Repository accompanying:
 **Nacker, D., Seth, A. K., Schwartzman, D. J., et al. (2026).**
 **Stroboscopic Light Stimulation in Adults Reporting Depressive Symptoms: Safety, Tolerability, Feasibility, and Active-Comparator Development in a Staged Early-Phase Study**
 
-_manuscript in preparation_
+_manuscript in review_
+
+https://www.medrxiv.org/content/10.64898/2026.06.17.26355864v2 
+
+https://doi.org/10.64898/2026.06.17.26355864
 
 _all music by Gavin Lawson_ (https://audysseyave.com/about/)
 
