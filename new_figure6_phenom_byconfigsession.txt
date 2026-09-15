@@ -1,0 +1,1418 @@
+# ======================================================================
+# MRC MANUSCRIPT FIGURE 6 v2 — WP2 6D-VHQ BY CONFIGURATION x SESSION
+# Standalone rebuild from raw WP2 post-session files
+#
+# Project root used in the existing MRC analysis:
+#   C:/Users/dn284/Desktop/MRC_omni/data
+#
+# Figure:
+#   Six 6D-VHQ dimensions, Sessions 1–4
+#   Strobe-emphasis SLS vs Wash-emphasis SLS
+#   Points = observed configuration means
+#   Error bars = 95% CIs
+#
+# IMPORTANT:
+#   - This script rebuilds Figure 6 from the raw WP2 questionnaire exports.
+#   - v2 selects post-session files by confirmed VHQ columns, not filename alone.
+#   - It does NOT use the old ASC-tertile Figure 6.
+#   - Registered Intervention -> Strobe-emphasis SLS
+#   - Registered Control      -> Wash-emphasis SLS
+#
+# All visual sizes are controlled in the SETTINGS block below.
+# ======================================================================
+
+
+# ======================================================================
+# 0. SETTINGS — EDIT THESE ONLY FOR APPEARANCE / OUTPUT
+# ======================================================================
+
+# ---- project paths ----------------------------------------------------
+
+DATA_DIR <- "C:/Users/dn284/Desktop/MRC_omni/data"
+
+OUT_DIR <- file.path(
+  DATA_DIR,
+  "MRC_public_outputs",
+  "manuscript_figure_6"
+)
+
+dir.create(OUT_DIR, recursive = TRUE, showWarnings = FALSE)
+
+
+# ---- output filenames -------------------------------------------------
+
+PNG_FILE  <- file.path(OUT_DIR, "Figure_6_WP2_6DVHQ.png")
+PDF_FILE  <- file.path(OUT_DIR, "Figure_6_WP2_6DVHQ.pdf")
+TIFF_FILE <- file.path(OUT_DIR, "Figure_6_WP2_6DVHQ.tiff")
+CSV_FILE  <- file.path(OUT_DIR, "Figure_6_WP2_6DVHQ_plot_data.csv")
+
+
+# ---- figure dimensions ------------------------------------------------
+# These affect the physical size of the exported figure.
+
+FIG_WIDTH_IN  <- 7.4
+FIG_HEIGHT_IN <- 5.7
+
+PNG_DPI  <- 400
+TIFF_DPI <- 600
+
+
+# ---- font --------------------------------------------------------------
+# Existing project font path:
+PALATINO_TTF <- file.path(DATA_DIR, "palatinolinotype_roman.ttf")
+
+# Change this to FALSE if you want the normal system serif fallback.
+USE_PALATINO <- TRUE
+
+
+# ---- ALL TEXT SIZES ---------------------------------------------------
+# These are in ggplot points.
+
+FONT_TITLE        <- 60
+FONT_SUBTITLE     <- 50
+FONT_AXIS_TITLE_X <- 40
+FONT_AXIS_TITLE_Y <- 40
+FONT_AXIS_TEXT_X  <- 30
+FONT_AXIS_TEXT_Y  <- 30
+FONT_FACET        <- 50
+FONT_LEGEND_TITLE <- 35
+FONT_LEGEND_TEXT  <- 35
+FONT_CAPTION      <- 50
+
+# Optional n labels above/below points.
+SHOW_N            <- FALSE
+FONT_N             <- 20
+
+
+# ---- plot title / labels ----------------------------------------------
+
+SHOW_TITLE <- TRUE
+
+PLOT_TITLE <- "Study 3 acute visual phenomenology by SLS configuration and session"
+PLOT_SUBTITLE <- ""
+
+X_TITLE <- "Session"
+Y_TITLE <- "Mean 6D-VHQ dimension score (1–5)"
+
+LEGEND_TITLE <- NULL
+
+PLOT_CAPTION <- ""
+
+
+# ---- facet layout -----------------------------------------------------
+
+FACET_COLUMNS <- 3
+
+VHQ_PLOT_ORDER <- c(
+  "Geometric Content",
+  "Detail",
+  "Vividness",
+  "Focality",
+  "Semantic Content",
+  "Entropy"
+)
+
+
+# ---- geometry sizes ---------------------------------------------------
+
+POINT_SIZE       <- 2.7
+LINE_WIDTH       <- 0.95
+ERRORBAR_WIDTH   <- 0.10
+ERRORBAR_LINEWIDTH <- 0.60
+
+# Small horizontal separation between configurations.
+DODGE_WIDTH <- 0.08
+
+
+# ---- colours ----------------------------------------------------------
+# These preserve the earlier manuscript colour mapping:
+# Intervention/strobe = orange
+# Control/wash        = blue
+
+CONFIG_COLORS <- c(
+  "Strobe-emphasis SLS" = "#F2A100",
+  "Wash-emphasis SLS"   = "#4F76BC"
+)
+
+
+# ---- legend -----------------------------------------------------------
+
+LEGEND_POSITION <- "top"   # "top", "bottom", "left", "right", or "none"
+
+# Change order here if desired.
+CONFIG_ORDER <- c(
+  "Strobe-emphasis SLS",
+  "Wash-emphasis SLS"
+)
+
+
+# ---- axes -------------------------------------------------------------
+
+Y_BREAKS <- 1:5
+Y_LIMITS <- c(1, 5)
+
+SESSION_LABELS <- c(
+  "1" = "1",
+  "2" = "2",
+  "3" = "3",
+  "4" = "4"
+)
+
+
+# ---- spacing / grid ---------------------------------------------------
+
+PANEL_SPACING_LINES <- 1.0
+
+SHOW_HORIZONTAL_GRID <- TRUE
+SHOW_VERTICAL_GRID   <- FALSE
+
+
+# ======================================================================
+# 1. PACKAGES
+# ======================================================================
+
+required_packages <- c(
+  "tidyverse",
+  "showtext",
+  "sysfonts"
+)
+
+missing_packages <- required_packages[
+  !vapply(required_packages, requireNamespace, logical(1), quietly = TRUE)
+]
+
+if (length(missing_packages) > 0) {
+  install.packages(missing_packages)
+}
+
+suppressPackageStartupMessages({
+  library(tidyverse)
+  library(showtext)
+  library(sysfonts)
+})
+
+
+# ======================================================================
+# 2. FONT SETUP
+# ======================================================================
+
+if (
+  USE_PALATINO &&
+  file.exists(PALATINO_TTF)
+) {
+
+  if (!"MRC_Palatino" %in% sysfonts::font_families()) {
+    sysfonts::font_add(
+      family = "MRC_Palatino",
+      regular = PALATINO_TTF
+    )
+  }
+
+  showtext::showtext_auto()
+  FONT_FAMILY <- "MRC_Palatino"
+
+} else {
+
+  FONT_FAMILY <- "serif"
+
+  if (USE_PALATINO && !file.exists(PALATINO_TTF)) {
+    warning(
+      "Palatino font file was not found at:\n",
+      PALATINO_TTF,
+      "\nUsing system serif font instead."
+    )
+  }
+}
+
+
+# ======================================================================
+# 3. SOURCE-FILE HELPERS
+# ======================================================================
+
+SEARCH_DIRS <- c(DATA_DIR)
+
+
+all_csv_files <- function() {
+
+  files <- unlist(
+    lapply(
+      SEARCH_DIRS,
+      function(d) {
+        if (!dir.exists(d)) return(character(0))
+
+        list.files(
+          d,
+          pattern = "\\.csv$",
+          recursive = TRUE,
+          full.names = TRUE
+        )
+      }
+    )
+  )
+
+  unique(files[file.exists(files)])
+}
+
+
+normalise_header_name <- function(x) {
+  x %>%
+    stringr::str_trim() %>%
+    stringr::str_to_lower() %>%
+    stringr::str_replace_all("[^a-z0-9]+", "_") %>%
+    stringr::str_replace_all("^_+|_+$", "")
+}
+
+
+# Recognises common variants:
+#   vhq_1
+#   vhq1
+#   6d_vhq_1
+#   vhq_1_1   (item 1, session 1)
+#   vhq1_1
+parse_vhq_name <- function(x) {
+
+  z <- normalise_header_name(x)
+
+  m <- stringr::str_match(
+    z,
+    "^(?:6d_?)?vhq_?([0-9]{1,2})(?:_([1-4]))?$"
+  )
+
+  tibble(
+    original_name = x,
+    normalised_name = z,
+    item_number = suppressWarnings(as.integer(m[, 2])),
+    session_suffix = suppressWarnings(as.integer(m[, 3]))
+  ) %>%
+    mutate(
+      item_number = if_else(
+        item_number %in% 1:18,
+        item_number,
+        NA_integer_
+      )
+    )
+}
+
+
+header_names <- function(path) {
+
+  tryCatch(
+    {
+      h <- readr::read_csv(
+        path,
+        n_max = 0,
+        show_col_types = FALSE,
+        name_repair = "minimal"
+      )
+
+      names(h)
+    },
+    error = function(e) character(0)
+  )
+}
+
+
+count_vhq_header <- function(path) {
+
+  nms <- header_names(path)
+
+  if (length(nms) == 0) return(0L)
+
+  parsed <- parse_vhq_name(nms)
+
+  sum(!is.na(parsed$item_number))
+}
+
+
+find_csv_by_substring <- function(
+  substrings,
+  required = TRUE,
+  require_vhq = FALSE,
+  label = "CSV"
+) {
+
+  all_files <- all_csv_files()
+
+  hits <- character(0)
+
+  # Preserve the original search-priority order, but collect all matches.
+  for (substring in substrings) {
+
+    matched <- all_files[
+      stringr::str_detect(
+        basename(all_files),
+        stringr::regex(substring, ignore_case = TRUE)
+      )
+    ]
+
+    hits <- c(hits, matched)
+  }
+
+  hits <- unique(hits)
+
+  # If the filename search was too restrictive for a post-session file,
+  # search all WP2/post-like CSVs and let VHQ-column detection choose.
+  if (length(hits) == 0 && require_vhq) {
+    hits <- all_files[
+      stringr::str_detect(
+        basename(all_files),
+        stringr::regex("wp2.*post|post.*wp2", ignore_case = TRUE)
+      )
+    ]
+  }
+
+  if (length(hits) == 0) {
+    if (required) {
+      stop(
+        "Could not find ",
+        label,
+        " matching any of:\n",
+        paste(substrings, collapse = "\n")
+      )
+    }
+    return(NULL)
+  }
+
+  info <- file.info(hits)
+
+  candidates <- tibble(
+    path = hits,
+    file = basename(hits),
+    filename_length = nchar(basename(hits)),
+    modified = info$mtime,
+    vhq_columns = if (require_vhq) {
+      vapply(hits, count_vhq_header, integer(1))
+    } else {
+      0L
+    }
+  )
+
+  if (require_vhq) {
+
+    candidates <- candidates %>%
+      arrange(
+        desc(vhq_columns),
+        filename_length,
+        desc(modified)
+      )
+
+    cat(
+      "\nCandidate ",
+      label,
+      " files, ranked by detected VHQ columns:\n",
+      sep = ""
+    )
+
+    print(
+      candidates %>%
+        select(file, vhq_columns, modified),
+      n = min(nrow(candidates), 20)
+    )
+
+    if (max(candidates$vhq_columns, na.rm = TRUE) == 0) {
+
+      cat("\nNo strict VHQ columns were detected in filename-matched candidates.\n")
+      cat("Columns containing 'vhq', 'visual', or 'halluc' in those files:\n\n")
+
+      for (p in candidates$path) {
+
+        nms <- header_names(p)
+
+        maybe <- nms[
+          stringr::str_detect(
+            stringr::str_to_lower(nms),
+            "vhq|visual|halluc"
+          )
+        ]
+
+        cat("FILE: ", basename(p), "\n", sep = "")
+        if (length(maybe) == 0) {
+          cat("  [none]\n")
+        } else {
+          cat("  ", paste(maybe, collapse = "\n  "), "\n", sep = "")
+        }
+      }
+
+      stop(
+        "\nNo candidate post-session CSV contains detectable 6D-VHQ item columns. ",
+        "The script has printed the candidate filenames and possible visual/VHQ fields above."
+      )
+    }
+
+  } else {
+
+    candidates <- candidates %>%
+      arrange(
+        filename_length,
+        desc(modified)
+      )
+  }
+
+  candidates$path[1]
+}
+
+
+read_qualtrics_real <- function(path) {
+
+  x <- readr::read_csv(
+    path,
+    col_types = readr::cols(.default = readr::col_character()),
+    show_col_types = FALSE
+  )
+
+  names(x) <- names(x) %>%
+    stringr::str_trim() %>%
+    stringr::str_to_lower()
+
+  # Remove the two Qualtrics metadata/header rows where ResponseId is present.
+  if ("responseid" %in% names(x)) {
+    real_rows <- stringr::str_starts(
+      as.character(x$responseid),
+      "R_"
+    )
+
+    if (any(real_rows, na.rm = TRUE)) {
+      x <- x[real_rows %in% TRUE, , drop = FALSE]
+    }
+  }
+
+  # Harmonise participant ID.
+  if (!"part_id" %in% names(x)) {
+
+    alternatives <- c(
+      "participantid",
+      "participant_id",
+      "externalreference",
+      "external_reference",
+      "id"
+    )
+
+    for (candidate in alternatives) {
+      if (candidate %in% names(x)) {
+        names(x)[names(x) == candidate] <- "part_id"
+        break
+      }
+    }
+  }
+
+  if (!"part_id" %in% names(x)) {
+    stop(
+      "No participant ID column found in:\n",
+      path
+    )
+  }
+
+  x
+}
+
+
+clean_id <- function(x) {
+
+  x %>%
+    as.character() %>%
+    stringr::str_trim() %>%
+    stringr::str_to_lower() %>%
+    dplyr::na_if("") %>%
+    dplyr::na_if("nan") %>%
+    dplyr::na_if("none") %>%
+    dplyr::na_if('{"importid":"part_id"}') %>%
+    stringr::str_extract("\\d{3,6}")
+}
+
+
+qnum <- function(x) {
+
+  x <- stringr::str_trim(as.character(x))
+
+  out <- suppressWarnings(as.numeric(x))
+
+  needs_parse <- is.na(out) &
+    !is.na(x) &
+    x != "" &
+    !tolower(x) %in% c("na", "nan", "none", "n/a")
+
+  if (any(needs_parse)) {
+
+    parsed <- stringr::str_match(
+      x[needs_parse],
+      "^\\s*([-+]?[0-9]+\\.?[0-9]*)"
+    )[, 2]
+
+    out[needs_parse] <- suppressWarnings(as.numeric(parsed))
+  }
+
+  out
+}
+
+
+find_first_col <- function(df, patterns) {
+
+  nms <- names(df)
+
+  for (pattern in patterns) {
+
+    hit <- nms[
+      stringr::str_detect(
+        nms,
+        stringr::regex(pattern, ignore_case = TRUE)
+      )
+    ]
+
+    if (length(hit) > 0) {
+      return(hit[1])
+    }
+  }
+
+  NA_character_
+}
+
+
+# IMPORTANT:
+# Do not use generic "SLS" as a condition matcher here.
+# "Strobe-emphasis SLS" and "Wash-emphasis SLS" both contain "SLS".
+normalise_registered_condition <- function(x) {
+
+  z <- stringr::str_to_lower(
+    stringr::str_trim(as.character(x))
+  )
+
+  dplyr::case_when(
+
+    stringr::str_detect(
+      z,
+      "wash-emphasis|wash emphasis|control|ctrl|placebo|sham"
+    ) ~ "Control",
+
+    stringr::str_detect(
+      z,
+      "strobe-emphasis|strobe emphasis|intervention|treatment"
+    ) ~ "Intervention",
+
+    z %in% c("0", "c") ~ "Control",
+    z %in% c("1", "i", "int") ~ "Intervention",
+
+    TRUE ~ NA_character_
+  )
+}
+
+
+registered_to_display <- function(x) {
+
+  dplyr::case_when(
+    x == "Intervention" ~ "Strobe-emphasis SLS",
+    x == "Control"      ~ "Wash-emphasis SLS",
+    TRUE                ~ NA_character_
+  )
+}
+
+
+row_mean_available <- function(df_cols) {
+
+  if (ncol(df_cols) == 0) {
+    return(rep(NA_real_, nrow(df_cols)))
+  }
+
+  result <- rowMeans(df_cols, na.rm = TRUE)
+
+  result[
+    rowSums(!is.na(df_cols)) == 0
+  ] <- NA_real_
+
+  result
+}
+
+
+# ======================================================================
+# 4. LOCATE THE RAW WP2 FILES
+# ======================================================================
+
+ASSIGN_PATH <- find_csv_by_substring(
+  c(
+    "wp2_assignments",
+    "assignments"
+  )
+)
+
+POST13_PATH <- find_csv_by_substring(
+  c(
+    "wp2_post_sessions_1-3",
+    "post_sessions_1-3",
+    "post_sessions_1_3",
+    "wp2_post_sessions_13",
+    "post_sessions_13",
+    "post_sessions_1"
+  ),
+  require_vhq = TRUE,
+  label = "WP2 post-Sessions-1-3"
+)
+
+POST4_PATH <- find_csv_by_substring(
+  c(
+    "wp2_post_session_4",
+    "post_session_4",
+    "wp2_post_session4",
+    "post_session4"
+  ),
+  require_vhq = TRUE,
+  label = "WP2 post-Session-4"
+)
+
+
+cat("\n============================================================\n")
+cat("FIGURE 6 — RAW FILES SELECTED\n")
+cat("============================================================\n")
+cat("Assignments:       ", ASSIGN_PATH, "\n", sep = "")
+cat("Post Sessions 1–3: ", POST13_PATH, "\n", sep = "")
+cat("Post Session 4:    ", POST4_PATH, "\n", sep = "")
+cat("============================================================\n\n")
+
+
+# ======================================================================
+# 5. LOAD ASSIGNMENT + POST-SESSION FILES
+# ======================================================================
+
+assign <- read_qualtrics_real(ASSIGN_PATH) %>%
+  mutate(part_id = clean_id(part_id))
+
+post13 <- read_qualtrics_real(POST13_PATH) %>%
+  mutate(part_id = clean_id(part_id))
+
+post4 <- read_qualtrics_real(POST4_PATH) %>%
+  mutate(part_id = clean_id(part_id))
+
+
+cat("\nDetected VHQ-style columns in post13:\n")
+print(
+  parse_vhq_name(names(post13)) %>%
+    filter(!is.na(item_number)),
+  n = Inf
+)
+
+cat("\nDetected VHQ-style columns in post4:\n")
+print(
+  parse_vhq_name(names(post4)) %>%
+    filter(!is.na(item_number)),
+  n = Inf
+)
+
+
+condition_col <- find_first_col(
+  assign,
+  c(
+    "^condition$",
+    "^arm$",
+    "allocation",
+    "assigned_condition",
+    "randomised_condition",
+    "randomized_condition",
+    "treatment"
+  )
+)
+
+if (is.na(condition_col)) {
+  stop("Could not identify the allocation/condition column in the assignment file.")
+}
+
+
+assignment_map <- assign %>%
+  transmute(
+    part_id,
+    registered_condition =
+      normalise_registered_condition(.data[[condition_col]])
+  ) %>%
+  filter(
+    !is.na(part_id),
+    !is.na(registered_condition)
+  ) %>%
+  distinct(part_id, .keep_all = TRUE) %>%
+  mutate(
+    configuration =
+      registered_to_display(registered_condition)
+  )
+
+
+cat("Registered allocation counts:\n")
+print(
+  assignment_map %>%
+    count(registered_condition, configuration)
+)
+
+
+# ======================================================================
+# 6. 6D-VHQ SCORING RULES
+# ======================================================================
+
+# 18 items total.
+#
+# Dimension composition:
+#   Geometric Content = items 1–3
+#   Semantic Content  = items 4–6
+#   Detail            = items 7–9
+#   Vividness         = items 10–12
+#   Entropy           = items 13–15
+#   Focality          = items 16–18
+#
+# Reverse-scored:
+#   items 10, 11, 12, 17
+#
+# Original response scale = 1–5.
+# Reverse transformation = 6 - response.
+
+VHQ_DIMENSIONS <- list(
+  "Geometric Content" = 1:3,
+  "Semantic Content"  = 4:6,
+  "Detail"            = 7:9,
+  "Vividness"         = 10:12,
+  "Entropy"           = 13:15,
+  "Focality"          = 16:18
+)
+
+REVERSE_VHQ_ITEMS <- c(10, 11, 12, 17)
+
+
+# ======================================================================
+# 7. SCORE ONE SESSION
+# ======================================================================
+
+score_vhq_session <- function(
+  df,
+  session_number,
+  force_session = FALSE
+) {
+
+  session_col <- find_first_col(
+    df,
+    c(
+      "^session_n$",
+      "^session$",
+      "session_number",
+      "sessionnum"
+    )
+  )
+
+  sub <- df
+  has_session_rows <- FALSE
+
+  # Sessions 1–3 may be row-per-session.
+  if (!is.na(session_col) && !force_session) {
+
+    session_values <- qnum(df[[session_col]])
+
+    has_session_rows <- any(
+      session_values == session_number,
+      na.rm = TRUE
+    )
+
+    if (has_session_rows) {
+
+      sub <- df[
+        !is.na(session_values) &
+          session_values == session_number,
+        ,
+        drop = FALSE
+      ]
+    }
+  }
+
+
+  # Detect VHQ columns flexibly. The source exports used in the MRC project
+  # can be row-per-session or wide/suffixed.
+  vhq_map <- parse_vhq_name(names(sub)) %>%
+    filter(!is.na(item_number))
+
+  if (has_session_rows) {
+
+    # Prefer unsuffixed item columns for row-per-session data.
+    base_map <- vhq_map %>%
+      filter(is.na(session_suffix))
+
+    if (nrow(base_map) >= 1) {
+      selected_map <- base_map
+    } else {
+      selected_map <- vhq_map %>%
+        filter(session_suffix == session_number)
+    }
+
+  } else {
+
+    # Prefer session-specific suffixed columns for wide data.
+    suffix_map <- vhq_map %>%
+      filter(session_suffix == session_number)
+
+    if (nrow(suffix_map) >= 1) {
+      selected_map <- suffix_map
+    } else {
+      selected_map <- vhq_map %>%
+        filter(is.na(session_suffix))
+    }
+  }
+
+  vhq_cols <- selected_map$original_name
+
+
+  if (length(vhq_cols) == 0) {
+
+    maybe_visual <- names(sub)[
+      stringr::str_detect(
+        stringr::str_to_lower(names(sub)),
+        "vhq|visual|halluc"
+      )
+    ]
+
+    stop(
+      "No 6D-VHQ columns found for Session ",
+      session_number,
+      " in file: ",
+      if ("source_file" %in% names(sub)) unique(sub$source_file)[1] else "<loaded post-session object>",
+      "\nPossible visual/VHQ column names detected: ",
+      if (length(maybe_visual) == 0) "[none]" else paste(maybe_visual, collapse = ", ")
+    )
+  }
+
+
+  work <- sub %>%
+    select(
+      part_id,
+      all_of(vhq_cols)
+    )
+
+
+  vhq_numeric <- work %>%
+    select(all_of(vhq_cols)) %>%
+    mutate(
+      across(
+        everything(),
+        qnum
+      )
+    )
+
+
+  # Recover the original VHQ item number from the already-parsed header map.
+  selected_map <- selected_map[
+    match(names(vhq_numeric), selected_map$original_name),
+    ,
+    drop = FALSE
+  ]
+
+  item_number <- selected_map$item_number
+
+
+  # Reverse score 10, 11, 12, 17.
+  for (j in seq_along(item_number)) {
+
+    if (
+      !is.na(item_number[j]) &&
+      item_number[j] %in% REVERSE_VHQ_ITEMS
+    ) {
+
+      vhq_numeric[[j]] <- 6 - vhq_numeric[[j]]
+    }
+  }
+
+
+  # Calculate three-item dimension means.
+  scored <- tibble(
+    part_id = work$part_id
+  )
+
+  for (dimension_name in names(VHQ_DIMENSIONS)) {
+
+    wanted_items <- VHQ_DIMENSIONS[[dimension_name]]
+
+    cols_for_dimension <- which(
+      item_number %in% wanted_items
+    )
+
+    if (length(cols_for_dimension) > 0) {
+
+      scored[[dimension_name]] <-
+        row_mean_available(
+          vhq_numeric[
+            ,
+            cols_for_dimension,
+            drop = FALSE
+          ]
+        )
+
+    } else {
+
+      scored[[dimension_name]] <- NA_real_
+    }
+  }
+
+
+  # Average duplicate participant rows within a session, if present.
+  scored %>%
+    mutate(
+      session_n = session_number
+    ) %>%
+    group_by(
+      part_id,
+      session_n
+    ) %>%
+    summarise(
+      across(
+        all_of(names(VHQ_DIMENSIONS)),
+        ~ {
+          z <- suppressWarnings(
+            as.numeric(.x)
+          )
+
+          if (all(is.na(z))) {
+            NA_real_
+          } else {
+            mean(z, na.rm = TRUE)
+          }
+        }
+      ),
+      .groups = "drop"
+    )
+}
+
+
+# ======================================================================
+# 8. SCORE ALL FOUR WP2 SESSIONS
+# ======================================================================
+
+session_1 <- score_vhq_session(
+  post13,
+  session_number = 1
+)
+
+session_2 <- score_vhq_session(
+  post13,
+  session_number = 2
+)
+
+session_3 <- score_vhq_session(
+  post13,
+  session_number = 3
+)
+
+# Dedicated post-Session-4 export.
+session_4 <- score_vhq_session(
+  post4,
+  session_number = 4,
+  force_session = TRUE
+)
+
+
+vhq_participant_session <- bind_rows(
+  session_1,
+  session_2,
+  session_3,
+  session_4
+) %>%
+  left_join(
+    assignment_map,
+    by = "part_id"
+  ) %>%
+  filter(
+    !is.na(configuration)
+  ) %>%
+  mutate(
+    session_n = as.integer(session_n),
+    configuration = factor(
+      configuration,
+      levels = CONFIG_ORDER
+    )
+  ) %>%
+  arrange(
+    configuration,
+    session_n,
+    part_id
+  )
+
+
+# ======================================================================
+# 9. LONG FORMAT
+# ======================================================================
+
+vhq_long <- vhq_participant_session %>%
+  pivot_longer(
+    cols = all_of(
+      names(VHQ_DIMENSIONS)
+    ),
+    names_to = "dimension",
+    values_to = "score"
+  ) %>%
+  filter(
+    !is.na(score)
+  ) %>%
+  mutate(
+    dimension = factor(
+      dimension,
+      levels = VHQ_PLOT_ORDER
+    )
+  )
+
+
+# ======================================================================
+# 10. CONFIGURATION x SESSION DESCRIPTIVES + 95% CIs
+# ======================================================================
+
+vhq_summary <- vhq_long %>%
+  group_by(
+    dimension,
+    configuration,
+    session_n
+  ) %>%
+  summarise(
+
+    n = n_distinct(part_id),
+
+    mean = mean(
+      score,
+      na.rm = TRUE
+    ),
+
+    sd = sd(
+      score,
+      na.rm = TRUE
+    ),
+
+    se = sd / sqrt(n),
+
+    ci95_low = if_else(
+      n > 1,
+      mean -
+        qt(
+          0.975,
+          df = n - 1
+        ) * se,
+      NA_real_
+    ),
+
+    ci95_high = if_else(
+      n > 1,
+      mean +
+        qt(
+          0.975,
+          df = n - 1
+        ) * se,
+      NA_real_
+    ),
+
+    .groups = "drop"
+  ) %>%
+  mutate(
+    session_factor = factor(
+      session_n,
+      levels = 1:4
+    ),
+    configuration = factor(
+      configuration,
+      levels = CONFIG_ORDER
+    ),
+    dimension = factor(
+      dimension,
+      levels = VHQ_PLOT_ORDER
+    )
+  )
+
+
+# Save the exact numbers plotted.
+readr::write_csv(
+  vhq_summary,
+  CSV_FILE
+)
+
+
+# ======================================================================
+# 11. OPTIONAL AUDIT
+# ======================================================================
+
+cat("\n============================================================\n")
+cat("FIGURE 6 — SESSION AVAILABILITY\n")
+cat("============================================================\n")
+
+print(
+  vhq_participant_session %>%
+    mutate(
+      any_vhq = if_any(
+        all_of(names(VHQ_DIMENSIONS)),
+        ~ !is.na(.x)
+      )
+    ) %>%
+    group_by(
+      configuration,
+      session_n
+    ) %>%
+    summarise(
+      n_any_vhq =
+        sum(any_vhq),
+      .groups = "drop"
+    )
+)
+
+cat("\nExpected approximate availability from the locked revision:\n")
+cat("  Strobe-emphasis: 40, 39, 39, 39\n")
+cat("  Wash-emphasis:   39, 35, 32, 31\n\n")
+
+
+# ======================================================================
+# 12. BASE THEME — ALL FONT SIZES CONTROLLED ABOVE
+# ======================================================================
+
+base_theme <- theme_minimal(
+  base_family = FONT_FAMILY
+) +
+  theme(
+
+    # ---- overall title -----------------------------------------------
+    plot.title = element_text(
+      size = FONT_TITLE,
+      face = "plain",
+      hjust = 0,
+      margin = margin(
+        b = 5
+      )
+    ),
+
+    plot.subtitle = element_text(
+      size = FONT_SUBTITLE,
+      hjust = 0,
+      margin = margin(
+        b = 8
+      )
+    ),
+
+    # ---- axis titles -------------------------------------------------
+    axis.title.x = element_text(
+      size = FONT_AXIS_TITLE_X,
+      margin = margin(
+        t = 8
+      )
+    ),
+
+    axis.title.y = element_text(
+      size = FONT_AXIS_TITLE_Y,
+      margin = margin(
+        r = 8
+      )
+    ),
+
+    # ---- axis ticks --------------------------------------------------
+    axis.text.x = element_text(
+      size = FONT_AXIS_TEXT_X
+    ),
+
+    axis.text.y = element_text(
+      size = FONT_AXIS_TEXT_Y
+    ),
+
+    # ---- facet titles ------------------------------------------------
+    strip.text = element_text(
+      size = FONT_FACET,
+      face = "plain"
+    ),
+
+    # ---- legend ------------------------------------------------------
+    legend.title = element_text(
+      size = FONT_LEGEND_TITLE
+    ),
+
+    legend.text = element_text(
+      size = FONT_LEGEND_TEXT
+    ),
+
+    legend.position = LEGEND_POSITION,
+
+    # ---- caption -----------------------------------------------------
+    plot.caption = element_text(
+      size = FONT_CAPTION,
+      hjust = 0
+    ),
+
+    # ---- grid / panel ------------------------------------------------
+    panel.grid.minor = element_blank(),
+
+    panel.grid.major.x = if (SHOW_VERTICAL_GRID) {
+      element_line(
+        linewidth = 0.25
+      )
+    } else {
+      element_blank()
+    },
+
+    panel.grid.major.y = if (SHOW_HORIZONTAL_GRID) {
+      element_line(
+        linewidth = 0.25
+      )
+    } else {
+      element_blank()
+    },
+
+    axis.line = element_line(
+      linewidth = 0.35
+    ),
+
+    panel.spacing = grid::unit(
+      PANEL_SPACING_LINES,
+      "lines"
+    )
+  )
+
+
+# ======================================================================
+# 13. BUILD FINAL MANUSCRIPT FIGURE 6
+# ======================================================================
+
+dodge <- position_dodge(
+  width = DODGE_WIDTH
+)
+
+
+Figure_6 <- ggplot(
+  vhq_summary,
+  aes(
+    x = session_factor,
+    y = mean,
+    group = configuration,
+    colour = configuration
+  )
+) +
+
+  geom_errorbar(
+    aes(
+      ymin = ci95_low,
+      ymax = ci95_high
+    ),
+    width = ERRORBAR_WIDTH,
+    linewidth = ERRORBAR_LINEWIDTH,
+    position = dodge
+  ) +
+
+  geom_line(
+    linewidth = LINE_WIDTH,
+    position = dodge
+  ) +
+
+  geom_point(
+    size = POINT_SIZE,
+    position = dodge
+  ) +
+
+  facet_wrap(
+    ~ dimension,
+    ncol = FACET_COLUMNS
+  ) +
+
+  scale_colour_manual(
+    values = CONFIG_COLORS,
+    breaks = CONFIG_ORDER,
+    labels = CONFIG_ORDER,
+    name = LEGEND_TITLE
+  ) +
+
+  scale_x_discrete(
+    labels = SESSION_LABELS,
+    drop = FALSE
+  ) +
+
+  scale_y_continuous(
+    breaks = Y_BREAKS
+  ) +
+
+  coord_cartesian(
+    ylim = Y_LIMITS
+  ) +
+
+  labs(
+    title = if (SHOW_TITLE) PLOT_TITLE else NULL,
+    subtitle = if (nzchar(PLOT_SUBTITLE)) PLOT_SUBTITLE else NULL,
+    x = X_TITLE,
+    y = Y_TITLE,
+    caption = if (nzchar(PLOT_CAPTION)) PLOT_CAPTION else NULL
+  ) +
+
+  base_theme
+
+
+# ======================================================================
+# 14. OPTIONAL SAMPLE-SIZE LABELS
+# ======================================================================
+
+if (SHOW_N) {
+
+  # Position labels just above each upper CI where possible.
+  n_label_data <- vhq_summary %>%
+    mutate(
+      n_label_y = pmin(
+        ci95_high + 0.14,
+        4.93
+      ),
+      n_label = paste0(
+        "n=",
+        n
+      )
+    )
+
+  Figure_6 <- Figure_6 +
+    geom_text(
+      data = n_label_data,
+      aes(
+        x = session_factor,
+        y = n_label_y,
+        label = n_label,
+        colour = configuration,
+        group = configuration
+      ),
+      position = dodge,
+      size = FONT_N / ggplot2::.pt,
+      family = FONT_FAMILY,
+      show.legend = FALSE
+    )
+}
+
+
+# ======================================================================
+# 15. DISPLAY
+# ======================================================================
+
+print(Figure_6)
+
+
+# ======================================================================
+# 16. EXPORT
+# ======================================================================
+
+ggsave(
+  filename = PNG_FILE,
+  plot = Figure_6,
+  width = FIG_WIDTH_IN,
+  height = FIG_HEIGHT_IN,
+  units = "in",
+  dpi = PNG_DPI,
+  bg = "white"
+)
+
+ggsave(
+  filename = PDF_FILE,
+  plot = Figure_6,
+  width = FIG_WIDTH_IN,
+  height = FIG_HEIGHT_IN,
+  units = "in",
+  bg = "white"
+)
+
+ggsave(
+  filename = TIFF_FILE,
+  plot = Figure_6,
+  width = FIG_WIDTH_IN,
+  height = FIG_HEIGHT_IN,
+  units = "in",
+  dpi = TIFF_DPI,
+  compression = "lzw",
+  bg = "white"
+)
+
+
+cat("\n============================================================\n")
+cat("FIGURE 6 COMPLETE\n")
+cat("============================================================\n")
+cat("PNG:  ", PNG_FILE, "\n", sep = "")
+cat("PDF:  ", PDF_FILE, "\n", sep = "")
+cat("TIFF: ", TIFF_FILE, "\n", sep = "")
+cat("DATA: ", CSV_FILE, "\n", sep = "")
+cat("============================================================\n")
